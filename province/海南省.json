@@ -1,0 +1,1980 @@
+{"海南省": {
+  "海口市": {
+    "琼山区": [
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "",
+        "show_address": "海南医学院第二附属医院",
+        "full_address": "海南省海口市琼山区海南医学院第二附属医院",
+        "id": "76a6bf2ecd9d1519fffe4a1229432093",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.301353",
+        "lat": "19.978964",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "振兴路",
+        "community": "东盛名苑A栋",
+        "show_address": "东盛名苑A栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区振兴路东盛名苑A栋",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布18例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/Dc6hqrFt1WTJEnxM4XHtBw"
+          }
+        ],
+        "id": "aa19d7e1e0ad7c8f2b24f49f77f58bb6",
+        "lng": "110.347008",
+        "lat": "19.99017",
+        "doc_id": "90000052_aa19d7e1e0ad7c8f2b24f49f77f58bb6",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "大园路",
+        "community": "振兴里",
+        "show_address": "振兴里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区大园路振兴里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "3688719fa324aec52735cb6f3230811a",
+        "lng": "110.349113",
+        "lat": "19.989882",
+        "doc_id": "90000052_3688719fa324aec52735cb6f3230811a",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "",
+        "community": "大园路振兴里7号",
+        "show_address": "大园路振兴里7号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区大园路振兴里7号",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          },
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "007d375feed0472adc0121dae6c28d27",
+        "lng": "110.349113",
+        "lat": "19.989882",
+        "doc_id": "90000052_007d375feed0472adc0121dae6c28d27",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "大园里147号",
+        "community": "",
+        "show_address": "大园里147号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区大园里147号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布确诊病例135号-138号详细活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XZ_P8eHkKMQauWnyWvMjNA"
+          }
+        ],
+        "id": "4ff020f463b010b3db4df2f50b1c6ce5",
+        "lng": "110.350349",
+        "lat": "19.991011",
+        "doc_id": "90000052_4ff020f463b010b3db4df2f50b1c6ce5",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "大园路",
+        "community": "向阳里一巷16号",
+        "show_address": "向阳里一巷16号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区大园路向阳里一巷16号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布18例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/Dc6hqrFt1WTJEnxM4XHtBw"
+          }
+        ],
+        "id": "88498b0613fb55bb7b27647d3afb168b",
+        "lng": "110.350731",
+        "lat": "19.987631",
+        "doc_id": "90000052_88498b0613fb55bb7b27647d3afb168b",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "",
+        "community": "大园路147号",
+        "show_address": "大园路147号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区大园路147号",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "889b8c7311626dab871a825e3f28ef83",
+        "lng": "110.35233",
+        "lat": "19.99526",
+        "doc_id": "90000052_889b8c7311626dab871a825e3f28ef83",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "凤翔街道",
+        "community": "",
+        "show_address": "凤翔街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区凤翔街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布确诊病例135号-138号详细活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XZ_P8eHkKMQauWnyWvMjNA"
+          }
+        ],
+        "id": "8ddf659881e7f2efc58a75668e262aca",
+        "lng": "110.351662",
+        "lat": "19.98749",
+        "doc_id": "90000052_8ddf659881e7f2efc58a75668e262aca",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "石塔村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区石塔村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布确诊病例135号-138号详细活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XZ_P8eHkKMQauWnyWvMjNA"
+          }
+        ],
+        "id": "84c383dd212ece55bef301cb9183d5dc",
+        "lng": "110.351601",
+        "lat": "19.97117",
+        "doc_id": "90000052_84c383dd212ece55bef301cb9183d5dc",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "凤翔东路",
+        "community": "凤翔桥286号",
+        "show_address": "凤翔桥286号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区凤翔东路凤翔桥286号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布3例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/uKbJJ6kdTpEF5z9M1ospXA"
+          }
+        ],
+        "id": "3ea0ab5f5496fc5a6417e99f5fff26e9",
+        "lng": "110.356949",
+        "lat": "19.98786",
+        "doc_id": "90000052_3ea0ab5f5496fc5a6417e99f5fff26e9",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "",
+        "show_address": "凤翔湿地公园",
+        "full_address": "海南省海口市琼山区凤翔湿地公园",
+        "id": "a743c250fb471bf753c31aa84950c5a7",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.356262",
+        "lat": "19.979639",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "",
+        "show_address": "凤翔路与中山南路交叉口南侧蔬菜批发市场",
+        "full_address": "海南省海口市琼山区凤翔路与中山南路交叉口南侧蔬菜批发市场",
+        "id": "9e6c1ecaae01bdcb758e7a8be58de7fb",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.36203",
+        "lat": "19.98848",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "红星路",
+        "community": "",
+        "show_address": "红星路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市红星路",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "27e458e4e050d7f2eeafd48204eb55dd",
+        "lng": "110.366119",
+        "lat": "19.975611",
+        "doc_id": "90000052_27e458e4e050d7f2eeafd48204eb55dd",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "",
+        "show_address": "佳捷精品酒店滨江店",
+        "full_address": "海南省海口市琼山区佳捷精品酒店滨江店",
+        "id": "1668cd08f6a2ff2e5e1dd03aad27fd1a",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.373848",
+        "lat": "19.99612",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "凤翔街道凤翔东路",
+        "community": "江畔人家小区1-9A栋",
+        "show_address": "江畔人家小区1-9A栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区凤翔街道凤翔东路江畔人家小区1-9A栋",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "938ca7a6a7274178e8909b9c3614956a",
+        "lng": "110.375",
+        "lat": "19.98979",
+        "doc_id": "90000052_938ca7a6a7274178e8909b9c3614956a",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "新大洲大道321号2楼",
+        "community": "",
+        "show_address": "新大洲大道321号2楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区新大洲大道321号2楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布新增确诊病例125号-128号详细活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/BXf7Sk-2g3afjPmZceQQtw"
+          }
+        ],
+        "id": "053959342b8f2fbb780b480c315a32a1",
+        "lng": "110.37506",
+        "lat": "19.98804",
+        "doc_id": "90000052_053959342b8f2fbb780b480c315a32a1",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "凤翔街道椰海大道65号",
+        "show_address": "海口市第四人民医院",
+        "full_address": "海南省海口市琼山区凤翔街道椰海大道65号海口市第四人民医院",
+        "id": "635c04c3041475017d009e40b338beb0",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "4",
+        "release_date": "20200220",
+        "lng": "110.37543",
+        "lat": "19.97822",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "county": "",
+        "street": "凤翔东路",
+        "community": "江畔人家小区1-9A栋",
+        "show_address": "江畔人家小区1-9A栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市琼山区凤翔东路江畔人家小区1-9A栋",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "b8fa5800795253f47c6f03488cdc7d96",
+        "lng": "110.378479",
+        "lat": "19.995331",
+        "doc_id": "90000052_b8fa5800795253f47c6f03488cdc7d96",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "凤翔东路",
+        "show_address": "江畔人家小区1-9A",
+        "full_address": "海南省海口市琼山区凤翔东路江畔人家小区1-9A",
+        "id": "a8c6ea18717a8ff357360ff15dc6021a",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.378479",
+        "lat": "19.995331",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "琼山区",
+        "middle_address": "",
+        "show_address": "滨江路",
+        "full_address": "海南省海口市琼山区滨江路",
+        "id": "9886162f0d51ea041c43ef89f11bc2f6",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.380547",
+        "lat": "20.014299",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "美兰区": [
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "美兰区",
+        "county": "",
+        "street": "蓝天街道",
+        "community": "白坡里175号",
+        "show_address": "白坡里175号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市美兰区蓝天街道白坡里175号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布18例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/Dc6hqrFt1WTJEnxM4XHtBw"
+          }
+        ],
+        "id": "fe85146ac440ee78ddd3e7b7295a4ef5",
+        "lng": "110.336121",
+        "lat": "20.022667",
+        "doc_id": "90000052_fe85146ac440ee78ddd3e7b7295a4ef5",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "美兰区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大园村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市美兰区大园村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "e5fab1ad52d482f4fbbe22afedd1d2ef",
+        "lng": "110.678009",
+        "lat": "19.809019",
+        "doc_id": "90000052_e5fab1ad52d482f4fbbe22afedd1d2ef",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "龙华区": [
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "county": "",
+        "street": "中沙路",
+        "community": "鸿侨公寓",
+        "show_address": "鸿侨公寓",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市龙华区城西镇中沙路鸿侨公寓",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "ffd863d17ab2d5b2a90da2e0260f10a5",
+        "lng": "110.315407",
+        "lat": "19.9909",
+        "doc_id": "90000052_ffd863d17ab2d5b2a90da2e0260f10a5",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "county": "",
+        "street": "金宇街道金地路",
+        "community": "金湖雅居B栋",
+        "show_address": "金湖雅居B栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市龙华区金宇街道金地路金湖雅居B栋",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布3例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/uKbJJ6kdTpEF5z9M1ospXA"
+          }
+        ],
+        "id": "92b7d2bac17380e249b03b9ad2a167de",
+        "lng": "110.322998",
+        "lat": "20.00482",
+        "doc_id": "90000052_92b7d2bac17380e249b03b9ad2a167de",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "county": "",
+        "street": "",
+        "community": "椰海昌茂城邦小区",
+        "show_address": "椰海昌茂城邦小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市龙华区城西镇椰海昌茂城邦小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布116-124号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/SbVnIc-oouWNNn9p_Dygzg"
+          }
+        ],
+        "id": "ba20bc64e60170a1a5af8d28a1f236e8",
+        "lng": "110.339142",
+        "lat": "19.98041",
+        "doc_id": "90000052_ba20bc64e60170a1a5af8d28a1f236e8",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "county": "",
+        "street": "",
+        "community": "昌茂城邦",
+        "show_address": "昌茂城邦",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市龙华区城西镇昌茂城邦10栋",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "cfb989d9afbeba90a303692bed02790a",
+        "lng": "110.339142",
+        "lat": "19.98041",
+        "doc_id": "90000052_cfb989d9afbeba90a303692bed02790a",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "county": "",
+        "street": "",
+        "community": "大同二里建材工业总公司宿舍",
+        "show_address": "大同二里建材工业总公司宿舍",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市龙华区大同二里建材工业总公司宿舍",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海口发布3例新型冠状病毒感染的肺炎确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/uKbJJ6kdTpEF5z9M1ospXA"
+          }
+        ],
+        "id": "bdedd924668c1bfe793d15fe4031d20c",
+        "lng": "110.337753",
+        "lat": "20.0334",
+        "doc_id": "90000052_bdedd924668c1bfe793d15fe4031d20c",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "龙华区",
+        "middle_address": "龙桥镇",
+        "show_address": "玉良村一队",
+        "full_address": "海南省海口市龙华区龙桥镇玉良村一队",
+        "id": "89211961973eb15417c681f956d031b0",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.372849",
+        "lat": "19.890091",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "秀英区": [
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "秀英大道",
+        "show_address": "华苑盛元酒店",
+        "full_address": "海南省海口市秀英区秀英大道华苑盛元酒店",
+        "id": "b055ca11a54002f31fdb380fdd48a37b",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200220",
+        "lng": "110.281769",
+        "lat": "20.01046",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "海秀西路46",
+        "show_address": "兵工大酒店",
+        "full_address": "海南省海口市秀英区海秀西路46兵工大酒店",
+        "id": "036e1d8afcd20ec5f9779c096b390563",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.28246",
+        "lat": "20.01338",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "海秀西路",
+        "show_address": "兵工大酒店",
+        "full_address": "海南省海口市秀英区海秀西路兵工大酒店",
+        "id": "bdf1798cf19d6cd253e137baa7f08da1",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.282516",
+        "lat": "20.013279",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "county": "",
+        "street": "",
+        "community": "凯威大酒店",
+        "show_address": "凯威大酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市秀英区凯威大酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "62ad60caf6ef0420ad72228c0a8f78cf",
+        "lng": "110.281677",
+        "lat": "20.017284",
+        "doc_id": "90000052_62ad60caf6ef0420ad72228c0a8f78cf",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "秀华路19号",
+        "show_address": "海南省人民医院",
+        "full_address": "海南省海口市秀英区秀华路19号海南省人民医院",
+        "id": "3359764790a0cd366e1948e667e65353",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.28725",
+        "lat": "20.00713",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "",
+        "show_address": "第四人民医院",
+        "full_address": "海南省海口市秀英区第四人民医院",
+        "id": "e27181c95ba7945f0c99dbf76d304bb2",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.29357",
+        "lat": "20.0076",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "county": "",
+        "street": "",
+        "community": "大华锦绣海岸二期",
+        "show_address": "大华锦绣海岸二期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省海口市秀英区大华锦绣海岸二期",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "刚刚，海口发布9例确诊病例活动轨迹！他们去过这些地方",
+            "url": "https://mp.weixin.qq.com/s/4y-Low_f0iviwQ_l4jvtDw"
+          }
+        ],
+        "id": "6729d93303dc53590f2578610fb60cea",
+        "lng": "110.17746",
+        "lat": "20.05048",
+        "doc_id": "90000052_6729d93303dc53590f2578610fb60cea",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "",
+        "show_address": "东山镇公司员工宿舍",
+        "full_address": "海南省海口市秀英区东山镇公司员工宿舍",
+        "id": "b08e92be6b10bb4e516d0ce2c85df0cc",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.237732",
+        "lat": "19.747511",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "",
+        "show_address": "马坡洋农田",
+        "full_address": "海南省海口市秀英区马坡洋农田",
+        "id": "fad39b2bc16d995cf15efb447847b919",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.303207",
+        "lat": "19.71406",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "东山镇马坡洋",
+        "show_address": "广地公司宿舍区",
+        "full_address": "海南省海口市秀英区东山镇马坡洋广地公司宿舍区",
+        "id": "9aca61fd4af31102cf764fd2dc5bbbd1",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200220",
+        "lng": "110.303207",
+        "lat": "19.71406",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "秀英区",
+        "middle_address": "东山镇马坡洋",
+        "show_address": "罗牛山公司宿舍",
+        "full_address": "海南省海口市秀英区东山镇马坡洋罗牛山公司宿舍",
+        "id": "0921aa2282e699a52782992d4e3ea7ed",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200220",
+        "lng": "110.303207",
+        "lat": "19.71406",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "定安县": [
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "定安县",
+        "middle_address": "",
+        "show_address": "和安市场对面",
+        "full_address": "海南省海口市定安县和安市场对面",
+        "id": "4eb599bb0e8a9a540af0bdb7184a4031",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.321762",
+        "lat": "19.70191",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "定安县",
+        "middle_address": "",
+        "show_address": "和安市场",
+        "full_address": "海南省海口市定安县和安市场",
+        "id": "97f120f1fc6be2372fec61a5467628e7",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.321762",
+        "lat": "19.70191",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "定安县",
+        "middle_address": "人民北路80号",
+        "show_address": "和安市场",
+        "full_address": "海南省海口市定安县人民北路80号和安市场",
+        "id": "d1e833f9d730c410332dc1415851bb03",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200220",
+        "lng": "110.32156",
+        "lat": "19.70151",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "定安县",
+        "middle_address": "见龙大道",
+        "show_address": "建设银行（汽车站旁）",
+        "full_address": "海南省海口市定安县见龙大道建设银行（汽车站旁）",
+        "id": "d5a6a2be49a575fafb074a1146fc9840",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "110.327858",
+        "lat": "19.696791",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "海口市",
+        "district": "定安县",
+        "middle_address": "见龙大道443",
+        "show_address": "定安县人民医院",
+        "full_address": "海南省海口市定安县见龙大道443定安县人民医院",
+        "id": "6fa4d40137e5e1087db93260c3ddcd56",
+        "article_source": [
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          },
+          {
+            "title": "最新！海口公布第36号至40号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/IRDkQpWgn4a4FiVJVu7hYA"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200220",
+        "lng": "110.34486",
+        "lat": "19.68951",
+        "source": [
+          {
+            "name": "海口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "三亚市": {
+    "天涯区": [
+      {
+        "province": "海南省",
+        "city": "三亚市",
+        "district": "天涯区",
+        "county": "",
+        "street": "",
+        "community": "椰风巷",
+        "show_address": "椰风巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省三亚市天涯区椰风巷",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "945bfecfc660f90f91903ffd5c0e7af5",
+        "lng": "109.508682",
+        "lat": "18.23975",
+        "doc_id": "90000052_945bfecfc660f90f91903ffd5c0e7af5",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "三亚市",
+        "district": "天涯区",
+        "county": "",
+        "street": "",
+        "community": "金中海蓝钻小区",
+        "show_address": "金中海蓝钻小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省三亚市天涯区金中海蓝钻小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "f01290ac92ea1d2d34abf5c1ea495998",
+        "lng": "109.44532",
+        "lat": "18.28916",
+        "doc_id": "90000052_f01290ac92ea1d2d34abf5c1ea495998",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "崖州区": [
+      {
+        "province": "海南省",
+        "city": "三亚市",
+        "district": "崖州区",
+        "county": "",
+        "street": "",
+        "community": "南海嘉园",
+        "show_address": "南海嘉园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省三亚市崖州区南海嘉园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "4e70772610725939311c79af61a9f8fe",
+        "lng": "109.175911",
+        "lat": "18.3508",
+        "doc_id": "90000052_4e70772610725939311c79af61a9f8fe",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "吉阳区": [
+      {
+        "province": "海南省",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "county": "",
+        "street": "",
+        "community": "南新农场",
+        "show_address": "南新农场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省三亚市吉阳区南新农场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "c30a164410cb4856e91937035ee48a0f",
+        "lng": "109.524803",
+        "lat": "18.296101",
+        "doc_id": "90000052_c30a164410cb4856e91937035ee48a0f",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "海棠区": [
+      {
+        "province": "海南省",
+        "city": "三亚市",
+        "district": "海棠区",
+        "county": "",
+        "street": "",
+        "community": "亚特兰蒂斯酒店",
+        "show_address": "亚特兰蒂斯酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省三亚市海棠区海棠湾镇亚特兰蒂斯酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "a375b78b947f1d3f68c897aabbe56b4a",
+        "lng": "109.745399",
+        "lat": "18.357162",
+        "doc_id": "90000052_a375b78b947f1d3f68c897aabbe56b4a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "万宁市": {
+    "万宁市": [
+      {
+        "province": "海南省",
+        "city": "万宁市",
+        "district": "万宁市",
+        "county": "万宁市",
+        "street": "",
+        "community": "君临海小区",
+        "show_address": "君临海小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省万宁市神州半岛君临海小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "c8d93623c3d0b124adb175ca857c31ed",
+        "lng": "110.349869",
+        "lat": "18.675331",
+        "doc_id": "90000052_c8d93623c3d0b124adb175ca857c31ed",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "东方市": {
+    "东方市": [
+      {
+        "province": "海南省",
+        "city": "东方市",
+        "district": "东方市",
+        "county": "东方市",
+        "street": "",
+        "community": "涛升国际小区",
+        "show_address": "涛升国际小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省东方市涛升国际小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "704cc864d81492ad1ecba644607cff00",
+        "lng": "108.682617",
+        "lat": "19.095671",
+        "doc_id": "90000052_704cc864d81492ad1ecba644607cff00",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "乐东黎族自治县": {
+    "乐东黎族自治县": [
+      {
+        "province": "海南省",
+        "city": "乐东黎族自治县",
+        "district": "乐东黎族自治县",
+        "county": "乐东黎族自治县",
+        "street": "",
+        "community": "福报农场",
+        "show_address": "福报农场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省乐东黎族自治县千家镇福报农场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "77a362070d0f811206a9d5791b8ac0b0",
+        "lng": "109.114937",
+        "lat": "18.5154",
+        "doc_id": "90000052_77a362070d0f811206a9d5791b8ac0b0",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "定安县": {
+    "定安县": [
+      {
+        "province": "海南省",
+        "city": "定安县",
+        "district": "定安县",
+        "county": "定安县",
+        "street": "",
+        "community": "天籁谷小区",
+        "show_address": "天籁谷小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省定安县定城镇天籁谷小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "d725c1b5289cdb4401fea7d9895a5eb9",
+        "lng": "110.355034",
+        "lat": "19.678871",
+        "doc_id": "90000052_d725c1b5289cdb4401fea7d9895a5eb9",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "昌江黎族自治县": {
+    "昌江黎族自治县": [
+      {
+        "province": "海南省",
+        "city": "昌江黎族自治县",
+        "district": "昌江黎族自治县",
+        "county": "昌江黎族自治县",
+        "street": "",
+        "community": "福源小区",
+        "show_address": "福源小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省昌江黎族自治县福源小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第129-134号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ypAbJeBy8RFrqq0JFshDJw"
+          }
+        ],
+        "id": "2b1e21bfa9085264060c02e3fc18c6bf",
+        "lng": "109.062103",
+        "lat": "19.27371",
+        "doc_id": "90000052_2b1e21bfa9085264060c02e3fc18c6bf",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "琼海市": {
+    "琼海市": [
+      {
+        "province": "海南省",
+        "city": "琼海市",
+        "district": "琼海市",
+        "county": "琼海市",
+        "street": "",
+        "community": "天来泉二区",
+        "show_address": "天来泉二区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省琼海市嘉积镇天来泉二区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "777fe335069d0d1ebdd87019b69e4639",
+        "lng": "110.425514",
+        "lat": "19.212393",
+        "doc_id": "90000052_777fe335069d0d1ebdd87019b69e4639",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "陵水黎族自治县": {
+    "陵水黎族自治县": [
+      {
+        "province": "海南省",
+        "city": "陵水黎族自治县",
+        "district": "陵水黎族自治县",
+        "county": "陵水黎族自治县",
+        "street": "",
+        "community": "碧桂园珊瑚宫殿",
+        "show_address": "碧桂园珊瑚宫殿",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省陵水黎族自治县碧桂园珊瑚宫殿",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布确诊病例135号-138号详细活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XZ_P8eHkKMQauWnyWvMjNA"
+          }
+        ],
+        "id": "baf09239627f5dacdc846115afaaa940",
+        "lng": "109.841629",
+        "lat": "18.3843",
+        "doc_id": "90000052_baf09239627f5dacdc846115afaaa940",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "琼中黎族苗族自治县": {
+    "琼中黎族苗族自治县": [
+      {
+        "province": "海南省",
+        "city": "琼中黎族苗族自治县",
+        "district": "琼中黎族苗族自治县",
+        "county": "琼中黎族苗族自治县",
+        "street": "",
+        "community": "阳江农场",
+        "show_address": "阳江农场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "海南省琼中黎族苗族自治县阳江农场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "海南公布第139号-140号、35号-48号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/r-JGIW4tVn2148cAXBszzA"
+          }
+        ],
+        "id": "a301aa60e0da9518d8ffb87d5fa658c4",
+        "lng": "109.757912",
+        "lat": "19.297131",
+        "doc_id": "90000052_a301aa60e0da9518d8ffb87d5fa658c4",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "儋州市": {
+    "澄迈县": [
+      {
+        "province": "海南省",
+        "city": "儋州市",
+        "district": "澄迈县",
+        "middle_address": "南海大道",
+        "show_address": "恒大御景湾",
+        "full_address": "海南省儋州市澄迈县南海大道恒大御景湾",
+        "id": "a4b5860e3d6e78a27aef56a885121ff3",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.132477",
+        "lat": "19.968929",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "海南省",
+        "city": "儋州市",
+        "district": "澄迈县",
+        "middle_address": "",
+        "show_address": "东山镇公司员工宿舍",
+        "full_address": "海南省儋州市澄迈县东山镇公司员工宿舍",
+        "id": "a638a53d14660931727794013e6db191",
+        "article_source": [
+          {
+            "title": "海口公布第35号确诊病例活动轨迹",
+            "url": "https://mp.weixin.qq.com/s/UU-GSo8AcdEcGd_3HvqXxw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "110.135681",
+        "lat": "19.818541",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

@@ -1,0 +1,320 @@
+{"宁夏回族自治区": {
+  "吴忠市": {
+    "同心县": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "吴忠市",
+        "district": "同心县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "庆华村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区吴忠市同心县韦州镇庆华村",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "宁夏新增3例确诊病例的活动轨迹公布！最大16岁最小3岁！",
+            "url": "https://mp.weixin.qq.com/s/uKs0aOM6ceX1gKSy5-oEuw"
+          }
+        ],
+        "id": "be1299724eafe2c4c4887493a8ffa798",
+        "lng": "106.472099",
+        "lat": "37.242321",
+        "doc_id": "90000052_be1299724eafe2c4c4887493a8ffa798",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "宁夏回族自治区",
+        "city": "吴忠市",
+        "district": "同心县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "石峡村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区吴忠市同心县韦州镇石峡村",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "同心县确诊病例马某某活动轨迹公布，急寻密切接触者！",
+            "url": "https://mp.weixin.qq.com/s/VK_EeEqNSkIuoXm44oROfA"
+          },
+          {
+            "title": "扩散丨宁夏新增确诊病例中，2人为夫妻，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/6QQRQ2p1q9OSHHa85dJvpA"
+          },
+          {
+            "title": "通报丨同心县新增1例确诊病例，曾是密切接触者，主要活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/8sVmuoVlp1EwIDPLTK4hqg"
+          }
+        ],
+        "id": "b6c78bd288e405bf88ace330fdad01af",
+        "lng": "106.482872",
+        "lat": "37.28207",
+        "doc_id": "90000052_b6c78bd288e405bf88ace330fdad01af",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "宁夏回族自治区",
+        "city": "吴忠市",
+        "district": "同心县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "韦二村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区吴忠市同心县韦州镇韦二村",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "宁夏新增3例确诊病例的活动轨迹公布！最大16岁最小3岁！",
+            "url": "https://mp.weixin.qq.com/s/uKs0aOM6ceX1gKSy5-oEuw"
+          }
+        ],
+        "id": "cbe254596d0bda9054ac76c4c9898481",
+        "lng": "106.482361",
+        "lat": "37.283878",
+        "doc_id": "90000052_cbe254596d0bda9054ac76c4c9898481",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "宁夏回族自治区",
+        "city": "吴忠市",
+        "district": "同心县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "河湾村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区吴忠市同心县韦州镇河湾村",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "扩散丨宁夏新增1例确诊病例，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/qMRfb3oTzkEdSvewt00o9Q"
+          }
+        ],
+        "id": "8acdb02af4cd5efb9e47cc323ce040a4",
+        "lng": "106.471268",
+        "lat": "37.286362",
+        "doc_id": "90000052_8acdb02af4cd5efb9e47cc323ce040a4",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "青铜峡市": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "吴忠市",
+        "district": "青铜峡市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大沟村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区青铜峡市邵岗镇大沟村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "通报丨宁夏这一家四口被确诊，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/d0ChVGAE859JSuSQ4-yuwg"
+          },
+          {
+            "title": "通报丨宁夏这一家四口被确诊，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/d0ChVGAE859JSuSQ4-yuwg"
+          },
+          {
+            "title": "通报丨宁夏这一家四口被确诊，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/d0ChVGAE859JSuSQ4-yuwg"
+          },
+          {
+            "title": "通报丨宁夏这一家四口被确诊，活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/d0ChVGAE859JSuSQ4-yuwg"
+          }
+        ],
+        "id": "dc486615e7b30a66f7ca6e0b4ba40051",
+        "lng": "105.937157",
+        "lat": "38.08984",
+        "doc_id": "90000052_dc486615e7b30a66f7ca6e0b4ba40051",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "固原市": {
+    "隆德县": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "固原市",
+        "district": "隆德县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "红堡村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区固原市隆德县观庄乡红堡村",
+        "release_date": "20200210",
+        "article_source": [
+          {
+            "title": "通告丨固原新增确诊病例，曾在银川商城采购、永宁服务区逗留！",
+            "url": "https://mp.weixin.qq.com/s/p8FwAyaWqBQPQ9ExZNRunA"
+          }
+        ],
+        "id": "21261ef3f562bdb2f5dc86bd1d8c73d9",
+        "lng": "106.075958",
+        "lat": "35.75563",
+        "doc_id": "90000052_21261ef3f562bdb2f5dc86bd1d8c73d9",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "银川市": {
+    "灵武市": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "银川市",
+        "district": "灵武市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "宁东镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区银川市灵武市宁东镇",
+        "release_date": "20200130",
+        "article_source": [
+          {
+            "title": "宁夏新型冠状病毒感染的肺炎新增病例动态",
+            "url": "https://mp.weixin.qq.com/s/DOxYSqPKmiecBsMEfUcOqw"
+          }
+        ],
+        "id": "892ec00b4196aef2dbd6e33cd09fde85",
+        "lng": "106.567719",
+        "lat": "38.191879",
+        "doc_id": "90000052_892ec00b4196aef2dbd6e33cd09fde85",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "红寺堡区": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "银川市",
+        "district": "红寺堡区",
+        "middle_address": "",
+        "show_address": "红寺堡区人民医院",
+        "full_address": "宁夏回族自治区银川市红寺堡区红寺堡区人民医院",
+        "id": "dbcf17b169d3f6db36eb90facb929c13",
+        "article_source": [
+          {
+            "title": "通告丨宁夏最新发布1例确诊病例活动轨迹，急寻密切接触者！",
+            "url": "https://mp.weixin.qq.com/s/L5E6q4VKN4rmBGZi7bIb8A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "106.130356",
+        "lat": "38.489807",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "中卫市": {
+    "中宁县": [
+      {
+        "province": "宁夏回族自治区",
+        "city": "中卫市",
+        "district": "中宁县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大战场镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "宁夏回族自治区中卫市中宁县大战场镇",
+        "release_date": "20200228",
+        "article_source": [
+          {
+            "title": "通报丨宁夏1例境外输入型病例，已追踪到189名密切接触者！",
+            "url": "https://mp.weixin.qq.com/s/zbIrqtUFUl0ST2XxV0Gmww"
+          }
+        ],
+        "id": "3678a82228b1b6d70a31dcc8d20d58b3",
+        "lng": "105.559181",
+        "lat": "37.401508",
+        "doc_id": "90000052_3678a82228b1b6d70a31dcc8d20d58b3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

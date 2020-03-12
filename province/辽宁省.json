@@ -1,0 +1,3495 @@
+{"辽宁省": {
+  "沈阳市": {
+    "铁西区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "霁虹街道",
+        "community": "鑫丰花园",
+        "show_address": "鑫丰花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区霁虹街道鑫丰花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          }
+        ],
+        "id": "9913d777f7f8304b60e5d27231958f2d",
+        "lng": "123.39505",
+        "lat": "41.802361",
+        "doc_id": "90000052_9913d777f7f8304b60e5d27231958f2d",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "前庙村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区彰驿镇前庙村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（四​）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154759618154123/7354276182615210.html"
+          }
+        ],
+        "id": "7107faff0454c93139919185b8b129b7",
+        "lng": "123.106621",
+        "lat": "41.65514",
+        "doc_id": "90000052_7107faff0454c93139919185b8b129b7",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "",
+        "community": "凯旋门小区",
+        "show_address": "凯旋门小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区凯旋门小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（八）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154759618154123/7354276128627748.html"
+          }
+        ],
+        "id": "f465381de10f440e2724aa12cb917deb",
+        "lng": "123.378517",
+        "lat": "41.792511",
+        "doc_id": "90000052_f465381de10f440e2724aa12cb917deb",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "肇工街北三路启工社区",
+        "community": "恒大华府",
+        "show_address": "恒大华府",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区肇工街北三路启工社区恒大华府",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154754373542761/7354276197345241.html"
+          }
+        ],
+        "id": "6aa0957191030ef05c4f60fc23309221",
+        "lng": "123.342102",
+        "lat": "41.815678",
+        "doc_id": "90000052_6aa0957191030ef05c4f60fc23309221",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "彰驿站街道前庙村",
+        "community": "",
+        "show_address": "彰驿站街道前庙村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区彰驿站街道前庙村",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "沈阳公布新增2例确诊病例行程轨迹！附辽宁轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/IPvRxHVI_-6nj4a-gMJzOQ"
+          }
+        ],
+        "id": "e9dc97e3efbba70d18c6c8c05e03275d",
+        "lng": "123.106621",
+        "lat": "41.65514",
+        "doc_id": "90000052_e9dc97e3efbba70d18c6c8c05e03275d",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "county": "",
+        "street": "霁虹街道",
+        "community": "爱工北社区",
+        "show_address": "爱工北社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市铁西区霁虹街道爱工北社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          }
+        ],
+        "id": "e31b556c217a9942ef4b21f35214597e",
+        "lng": "123.386581",
+        "lat": "41.796055",
+        "doc_id": "90000052_e31b556c217a9942ef4b21f35214597e",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "滑翔街39号",
+        "show_address": "中医科大附属盛京医院",
+        "full_address": "辽宁省沈阳市铁西区滑翔街39号中医科大附属盛京医院",
+        "id": "5c88208747c6a44ca8becefcac38168d",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.36265",
+        "lat": "41.77294",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "",
+        "show_address": "方达康药房",
+        "full_address": "辽宁省沈阳市铁西区方达康药房",
+        "id": "a7765ba5e2e44d5f074649f70fa17a27",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.361282",
+        "lat": "41.77457",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "肇工北街",
+        "show_address": "恒大华府",
+        "full_address": "辽宁省沈阳市铁西区肇工北街恒大华府",
+        "id": "f2c25111c8b718167f473986226d7fe7",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200206",
+        "lng": "123.342102",
+        "lat": "41.815678",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "胜利南街",
+        "show_address": "地铁沈阳站西出口",
+        "full_address": "辽宁省沈阳市铁西区胜利南街地铁沈阳站西出口",
+        "id": "0c12b5b5552a728bac02e0c86d33803f",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（八）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624485342896.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.379646",
+        "lat": "41.753262",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "滑翔路",
+        "show_address": "医科大学附属盛京医院",
+        "full_address": "辽宁省沈阳市铁西区滑翔路医科大学附属盛京医院",
+        "id": "6d1fbd162a80eb05ab4e550a679d23ec",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（八）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624485342896.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624428044216.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200201",
+        "lng": "123.360809",
+        "lat": "41.773659",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "",
+        "show_address": "彰驿镇",
+        "full_address": "辽宁省沈阳市铁西区彰驿镇",
+        "id": "c33c14a81754e448bc18725a8acc39fe",
+        "article_source": [
+          {
+            "title": "速转！沈阳市公布两例确诊病例行程轨迹",
+            "url": "https://www.sohu.com/a/371454442_355224"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200208",
+        "lng": "123.083565",
+        "lat": "41.65239",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "兴工北街",
+        "show_address": "顾丽敏西医诊所",
+        "full_address": "辽宁省沈阳市铁西区兴工北街顾丽敏西医诊所",
+        "id": "55ee81acf91da0d3b3e9728ea1d9e029",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.40097",
+        "lat": "41.809448",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "南七西路",
+        "show_address": "沈阳医学院附属中心医院",
+        "full_address": "辽宁省沈阳市铁西区南七西路沈阳医学院附属中心医院",
+        "id": "4e2170acca0b3d72197a3c0da024fc64",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207559.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.34137",
+        "lat": "41.798416",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "铁西区",
+        "middle_address": "彰驿镇",
+        "show_address": "不详",
+        "full_address": "辽宁省沈阳市铁西区彰驿镇不详",
+        "id": "893d787e0d5896780503e632cb82203f",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624404804851.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200208",
+        "lng": "123.083565",
+        "lat": "41.65239",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "法库县": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "法库县",
+        "county": "法库县",
+        "street": "",
+        "community": "",
+        "show_address": "刘大沟村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市法库县柏家沟镇刘大沟村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（四​）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154759618154123/7354276182615210.html"
+          }
+        ],
+        "id": "42cc23332e95bfceb90f4e51a77b126c",
+        "lng": "123.610931",
+        "lat": "42.593769",
+        "doc_id": "90000052_42cc23332e95bfceb90f4e51a77b126c",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "法库县",
+        "middle_address": "小东南街",
+        "show_address": "华溪绿洲洗浴中心",
+        "full_address": "辽宁省沈阳市法库县小东南街华溪绿洲洗浴中心",
+        "id": "4c5af2abf6bd78ed598ed22bef92572d",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.42569",
+        "lat": "42.500561",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "法库县",
+        "middle_address": "百家沟镇",
+        "show_address": "刘大沟村",
+        "full_address": "辽宁省沈阳市法库县百家沟镇刘大沟村",
+        "id": "9fdd117317a1ed12b22ed90b7f22b128",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.610931",
+        "lat": "42.593769",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "法库县",
+        "middle_address": "边门街32号",
+        "show_address": "法库县中心医院",
+        "full_address": "辽宁省沈阳市法库县边门街32号法库县中心医院",
+        "id": "f1e44367efdc8513f8201bff0fc64f1b",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.41453",
+        "lat": "42.49884",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "沈北新区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈北新区",
+        "county": "",
+        "street": "",
+        "community": "泰盈九如溪谷小区日租房",
+        "show_address": "泰盈九如溪谷小区日租房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市沈北新区泰盈九如溪谷小区日租房",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154759618154123/7354276197345223.html"
+          }
+        ],
+        "id": "3b709fdc05a48c246afb413affb0a4e8",
+        "lng": "123.596107",
+        "lat": "41.935139",
+        "doc_id": "90000052_3b709fdc05a48c246afb413affb0a4e8",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈北新区",
+        "middle_address": "人和街",
+        "show_address": "九如溪谷小区",
+        "full_address": "辽宁省沈阳市沈北新区人和街九如溪谷小区",
+        "id": "f819befd395a0f2c005d2f16c3b449e2",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207559.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.598465",
+        "lat": "41.931351",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈北新区",
+        "middle_address": "蒲河路",
+        "show_address": "沈阳华冠宾馆",
+        "full_address": "辽宁省沈阳市沈北新区蒲河路沈阳华冠宾馆",
+        "id": "954ab277685fb3cdd7f2f4e09ba49209",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207559.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.422371",
+        "lat": "41.947281",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "沈河区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "county": "",
+        "street": "文艺路54号",
+        "community": "泊岸华庭",
+        "show_address": "泊岸华庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市沈河区文艺路54号泊岸华庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154754373542761/7354276197345241.html"
+          }
+        ],
+        "id": "9c4c86503c8d09e6d222aa91dcb5c4ad",
+        "lng": "123.44507",
+        "lat": "41.77832",
+        "doc_id": "90000052_9c4c86503c8d09e6d222aa91dcb5c4ad",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "county": "",
+        "street": "",
+        "community": "翠堤湾小区二期",
+        "show_address": "翠堤湾小区二期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市沈河区翠堤湾小区二期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154754373542761/7354276197345241.html"
+          }
+        ],
+        "id": "e1cedccf7eb77e708498347cfb741e26",
+        "lng": "123.551483",
+        "lat": "41.808018",
+        "doc_id": "90000052_e1cedccf7eb77e708498347cfb741e26",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "北站路102号",
+        "show_address": "沈阳北站",
+        "full_address": "辽宁省沈阳市沈河区北站路102号沈阳北站",
+        "id": "a8eba8d4f7608f9b1086ebd3f2691fa6",
+        "article_source": [
+          {
+            "title": "紧急扩散！齐齐哈尔17例确诊病例活动轨迹公布",
+            "url": "https://www.sohu.com/a/370755728_338398"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200205",
+        "lng": "123.43635",
+        "lat": "41.81871",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "泉园二路87号",
+        "show_address": "浑南区中心医院",
+        "full_address": "辽宁省沈阳市沈河区泉园二路87号浑南区中心医院",
+        "id": "4e82c74cbb6e2d6533c99e4d95b65dc0",
+        "article_source": [
+          {
+            "title": "沈阳市公布一例确诊病例情况及行程轨迹",
+            "url": "http://ln.people.com.cn/n2/2020/0209/c378317-33779032.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200209",
+        "lng": "123.47871",
+        "lat": "41.77438",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "文艺路33号",
+        "show_address": "辽宁省人民医院",
+        "full_address": "辽宁省沈阳市沈河区文艺路33号辽宁省人民医院",
+        "id": "a006287d5952718bf9eacfea734fd51b",
+        "article_source": [
+          {
+            "title": "沈阳市公布一例确诊病例情况及行程轨迹",
+            "url": "http://ln.people.com.cn/n2/2020/0209/c378317-33779032.html"
+          },
+          {
+            "title": "最新！沈阳2病例行动路线公布！1人曾参与同学聚会",
+            "url": "https://www.sohu.com/a/369566417_351202"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200130",
+        "lng": "123.4534",
+        "lat": "41.77767",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "惠工东一街25号",
+        "show_address": "汉庭酒店",
+        "full_address": "辽宁省沈阳市沈河区惠工东一街25号汉庭酒店",
+        "id": "1d77d5e7d2ba729df221012c1fc403dc",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.44392",
+        "lat": "41.81412",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "",
+        "show_address": "金融中心",
+        "full_address": "辽宁省沈阳市沈河区金融中心",
+        "id": "709082401f4d770bb37a506033755e90",
+        "article_source": [
+          {
+            "title": "最新！沈阳2病例行动路线公布！1人曾参与同学聚会",
+            "url": "https://www.sohu.com/a/369566417_351202"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "123.437416",
+        "lat": "41.811913",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "",
+        "show_address": "阿里郎大酒店",
+        "full_address": "辽宁省沈阳市沈河区阿里郎大酒店",
+        "id": "6a6dfe4b6277cfda2ad8e2b830db5d29",
+        "article_source": [
+          {
+            "title": "最新！沈阳2病例行动路线公布！1人曾参与同学聚会",
+            "url": "https://www.sohu.com/a/369566417_351202"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "123.44886",
+        "lat": "41.79734",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "哈尔滨路",
+        "show_address": "私人订制KTV",
+        "full_address": "辽宁省沈阳市沈河区哈尔滨路私人订制KTV",
+        "id": "093e377237f26ee199ab4545ae021552",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624456240383.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200201",
+        "lng": "123.43206",
+        "lat": "41.813229",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "顺城街",
+        "show_address": "阿里郎大酒店",
+        "full_address": "辽宁省沈阳市沈河区顺城街阿里郎大酒店",
+        "id": "eda0244ec1e913d523ff3f95e12deafb",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624456240383.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200201",
+        "lng": "123.44886",
+        "lat": "41.79734",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "文艺路",
+        "show_address": "泊岸华庭小区",
+        "full_address": "辽宁省沈阳市沈河区文艺路泊岸华庭小区",
+        "id": "817cb5a72e49417f0a14753ad2aef1de",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200206",
+        "lng": "123.44516",
+        "lat": "41.779499",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "文艺路",
+        "show_address": "辽宁省人民医院",
+        "full_address": "辽宁省沈阳市沈河区文艺路辽宁省人民医院",
+        "id": "cd8588c54621b31e558121c5b90b6548",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十一）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624424527151.html"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200209",
+        "lng": "123.4533",
+        "lat": "41.776089",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "文化东路",
+        "show_address": "地利生鲜",
+        "full_address": "辽宁省沈阳市沈河区文化东路地利生鲜",
+        "id": "3643fc0ab6cef5cb4af8046f94a88ba5",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.442017",
+        "lat": "41.788021",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "泉园二路",
+        "show_address": "浑南区中心医院",
+        "full_address": "辽宁省沈阳市沈河区泉园二路浑南区中心医院",
+        "id": "13159ed3a263b80409534600c85d5faf",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十一）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624424527151.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200209",
+        "lng": "123.478645",
+        "lat": "41.774368",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "文艺路",
+        "show_address": "省人民医院",
+        "full_address": "辽宁省沈阳市沈河区文艺路省人民医院",
+        "id": "824195af389dc47361a275f89ab9d83e",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624456240383.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "123.455864",
+        "lat": "41.774673",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "沈河区",
+        "middle_address": "青年大街",
+        "show_address": "上隐小厨",
+        "full_address": "辽宁省沈阳市沈河区青年大街上隐小厨",
+        "id": "907c85fcc335efb08579039edcd49840",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.430679",
+        "lat": "41.786331",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "新民市": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "新民市",
+        "county": "",
+        "street": "",
+        "community": "金汇温泉雅苑",
+        "show_address": "金汇温泉雅苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市新民市法哈牛镇金汇温泉雅苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624404804851.html"
+          }
+        ],
+        "id": "11643ab0eb3380615c32963ff705d0bb",
+        "lng": "123.073288",
+        "lat": "41.784241",
+        "doc_id": "90000052_11643ab0eb3380615c32963ff705d0bb",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "新民市",
+        "middle_address": "哈牛镇",
+        "show_address": "金汇温泉雅苑",
+        "full_address": "辽宁省沈阳市新民市哈牛镇金汇温泉雅苑",
+        "id": "10e07d26b7cfe43563d3e7954e9b5496",
+        "article_source": [
+          {
+            "title": "速转！沈阳市公布两例确诊病例行程轨迹",
+            "url": "https://www.sohu.com/a/371454442_355224"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200208",
+        "lng": "123.073288",
+        "lat": "41.784241",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "苏家屯区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "苏家屯区",
+        "county": "",
+        "street": "王刚街道",
+        "community": "码头浪村",
+        "show_address": "码头浪村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市苏家屯区王刚街道码头浪村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624404804851.html"
+          }
+        ],
+        "id": "a61d6fd7d0af0ac5d1729d86f9075de7",
+        "lng": "123.1586",
+        "lat": "41.630692",
+        "doc_id": "90000052_a61d6fd7d0af0ac5d1729d86f9075de7",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "苏家屯区",
+        "county": "",
+        "street": "民主街道",
+        "community": "小格镇社区",
+        "show_address": "小格镇社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市苏家屯区民主街道小格镇社区",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "沈阳公布新增2例确诊病例行程轨迹！附辽宁轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/IPvRxHVI_-6nj4a-gMJzOQ"
+          }
+        ],
+        "id": "3afb8bb0b09559e3d3bbb1ea6e0c80e8",
+        "lng": "123.32769",
+        "lat": "41.655071",
+        "doc_id": "90000052_3afb8bb0b09559e3d3bbb1ea6e0c80e8",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "苏家屯区",
+        "middle_address": "",
+        "show_address": "码头浪村",
+        "full_address": "辽宁省沈阳市苏家屯区码头浪村",
+        "id": "d6719b99ea55bbd512f370e4d6ed84f3",
+        "article_source": [
+          {
+            "title": "速转！沈阳市公布两例确诊病例行程轨迹",
+            "url": "https://www.sohu.com/a/371454442_355224"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200208",
+        "lng": "123.34432",
+        "lat": "41.66472",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "浑南区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "浑南区",
+        "county": "",
+        "street": "五三街道文汇街",
+        "community": "在水一方小区",
+        "show_address": "在水一方小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市浑南区五三街道文汇街在水一方小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十一）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624424527151.html"
+          }
+        ],
+        "id": "71751a127b2f13a0ca173b7485e684e0",
+        "lng": "123.504623",
+        "lat": "41.751667",
+        "doc_id": "90000052_71751a127b2f13a0ca173b7485e684e0",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "浑南区",
+        "middle_address": "",
+        "show_address": "果乐鲜水果超市",
+        "full_address": "辽宁省沈阳市浑南区果乐鲜水果超市",
+        "id": "974f00b49ac3c31d5f44ab5952372113",
+        "article_source": [
+          {
+            "title": "沈阳市公布一例确诊病例情况及行程轨迹",
+            "url": "http://ln.people.com.cn/n2/2020/0209/c378317-33779032.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200209",
+        "lng": "123.424026",
+        "lat": "41.68985",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "浑南区",
+        "middle_address": "桃仙镇机场路",
+        "show_address": "沈阳桃仙国际机场",
+        "full_address": "辽宁省沈阳市浑南区桃仙镇机场路沈阳桃仙国际机场",
+        "id": "75f1eb598a9bdd0c278cb3f9414e56c6",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.494949",
+        "lat": "41.639202",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "浑南区",
+        "middle_address": "",
+        "show_address": "桃仙国际机场",
+        "full_address": "辽宁省沈阳市浑南区桃仙国际机场",
+        "id": "2e46cabfe6125eba8254a6510325d260",
+        "article_source": [
+          {
+            "title": "长春市最近7名确诊病例轨迹公布",
+            "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200210",
+        "lng": "123.494949",
+        "lat": "41.639202",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "于洪区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "于洪区",
+        "county": "",
+        "street": "松山西路",
+        "community": "恒泰骏景小区",
+        "show_address": "恒泰骏景小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市于洪区松山西路恒泰骏景小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          }
+        ],
+        "id": "f0f2177674c35be2697b974d8d1927fa",
+        "lng": "123.402687",
+        "lat": "41.870491",
+        "doc_id": "90000052_f0f2177674c35be2697b974d8d1927fa",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "于洪区",
+        "county": "",
+        "street": "迎宾路街道",
+        "community": "沈大路社区",
+        "show_address": "沈大路社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市于洪区迎宾路街道沈大路社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/154754373542761/154754138263894/154754373542761/7354276197345223.html"
+          }
+        ],
+        "id": "cd49e6ff5925dffd48a915110339006c",
+        "lng": "123.310913",
+        "lat": "41.79826",
+        "doc_id": "90000052_cd49e6ff5925dffd48a915110339006c",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "于洪区",
+        "middle_address": "中央大街",
+        "show_address": "太阳狮万丽酒店",
+        "full_address": "辽宁省沈阳市于洪区中央大街太阳狮万丽酒店",
+        "id": "1cd3a5782f6e55b6b00850fdfbb8a37d",
+        "article_source": [
+          {
+            "title": "哈市公布新增15例确诊患者活动轨迹 | 附哈尔滨疫情地图",
+            "url": "https://www.sohu.com/a/371839630_120209848"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200210",
+        "lng": "123.24884",
+        "lat": "41.749031",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "大东区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "county": "",
+        "street": "津桥街道",
+        "community": "百乐社区",
+        "show_address": "百乐社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市大东区津桥街道百乐社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          }
+        ],
+        "id": "ced772645a6277c59300b1789b123d89",
+        "lng": "123.469627",
+        "lat": "41.807369",
+        "doc_id": "90000052_ced772645a6277c59300b1789b123d89",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "北海街11号",
+        "show_address": "沈阳市第十人民医院",
+        "full_address": "辽宁省沈阳市大东区北海街11号沈阳市第十人民医院",
+        "id": "ea4ce272672d38543d00285beebac0fa",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.4735",
+        "lat": "41.83013",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "津桥路",
+        "show_address": "巨无霸餐厅",
+        "full_address": "辽宁省沈阳市大东区津桥路巨无霸餐厅",
+        "id": "068131a1ed1996ecf72db019e2f3cb2e",
+        "article_source": [
+          {
+            "title": "最新！沈阳2病例行动路线公布！1人曾参与同学聚会",
+            "url": "https://www.sohu.com/a/369566417_351202"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624456240383.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200201",
+        "lng": "123.468628",
+        "lat": "41.808571",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "小什字街",
+        "show_address": "津桥农贸市场",
+        "full_address": "辽宁省沈阳市大东区小什字街津桥农贸市场",
+        "id": "07ac23eb3ccaf7f18cee793e25720da6",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.469772",
+        "lat": "41.80743",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "东望街",
+        "show_address": "梁颖诊所",
+        "full_address": "辽宁省沈阳市大东区东望街梁颖诊所",
+        "id": "9fb1ec39de2b20b5732348cce6041f62",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "123.530792",
+        "lat": "41.860489",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "中街新玛特",
+        "show_address": "好利来蛋糕店",
+        "full_address": "辽宁省沈阳市大东区中街新玛特好利来蛋糕店",
+        "id": "29c95389a9f54b105831b7fe078d90c3",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.511192",
+        "lat": "41.953381",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "大东区",
+        "middle_address": "中街新玛特",
+        "show_address": "周生生金店",
+        "full_address": "辽宁省沈阳市大东区中街新玛特周生生金店",
+        "id": "f99eacfc72988ad0c7d07bc905f806c2",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.46987",
+        "lat": "41.80515",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "皇姑区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "皇姑区",
+        "county": "",
+        "street": "明廉街道",
+        "community": "昆西小区",
+        "show_address": "昆西小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省沈阳市皇姑区明廉街道昆西小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/155011530511211/154754138263894/null/3051121121228248.html?from=groupmessage&isappinstalled=0"
+          }
+        ],
+        "id": "9422c3883f548a61ca5609d80c377c4c",
+        "lng": "123.354118",
+        "lat": "41.833771",
+        "doc_id": "90000052_9422c3883f548a61ca5609d80c377c4c",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "皇姑区",
+        "middle_address": "黄河南大街",
+        "show_address": "第四人民医院",
+        "full_address": "辽宁省沈阳市皇姑区黄河南大街第四人民医院",
+        "id": "f7ba4f2fc1dc43b2f17b7f335582f869",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.419823",
+        "lat": "41.820057",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "皇姑区",
+        "middle_address": "昆山西路",
+        "show_address": "昆西小区",
+        "full_address": "辽宁省沈阳市皇姑区昆山西路昆西小区",
+        "id": "e950bbdcb330ebdd67afa660be53c39d",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.354118",
+        "lat": "41.833771",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "和平区": [
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "南六马路1号",
+        "show_address": "雅致永乐汇商务会馆",
+        "full_address": "辽宁省沈阳市和平区南六马路1号雅致永乐汇商务会馆",
+        "id": "0775404883d5d45e1df91118194fda69",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.38913",
+        "lat": "41.78386",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "和平南大街85号",
+        "show_address": "第六人民医院",
+        "full_address": "辽宁省沈阳市和平区和平南大街85号第六人民医院",
+        "id": "47b9acc7f50a9924f6f0c4580b6bffa3",
+        "article_source": [
+          {
+            "title": "辽宁新增3例确诊病例，累计报告77例！沈阳、阜新、辽阳发布患者行程轨迹！",
+            "url": "https://www.sohu.com/a/370686783_160787"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200204",
+        "lng": "123.40026",
+        "lat": "41.7719",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "和平南大街85号",
+        "show_address": "市传染病院",
+        "full_address": "辽宁省沈阳市和平区和平南大街85号市传染病院",
+        "id": "ec420803971858cc94437e0513e52994",
+        "article_source": [
+          {
+            "title": "最新！沈阳2病例行动路线公布！1人曾参与同学聚会",
+            "url": "https://www.sohu.com/a/369566417_351202"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "123.40026",
+        "lat": "41.7719",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "和平南大街",
+        "show_address": "市传染病院",
+        "full_address": "辽宁省沈阳市和平区和平南大街市传染病院",
+        "id": "f9fc194e5cdce0556eb4d263fef3e11c",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624456240383.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "123.400833",
+        "lat": "41.787842",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "南京北街",
+        "show_address": "医科大学附属第一医院",
+        "full_address": "辽宁省沈阳市和平区南京北街医科大学附属第一医院",
+        "id": "6d4b9a17ebc7121f67f82a92ee14bb64",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624428044216.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          }
+        ],
+        "cnt_sum_certain": "8",
+        "release_date": "20200206",
+        "lng": "123.410515",
+        "lat": "41.79491",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "和平南大街",
+        "show_address": "第六人民医院",
+        "full_address": "辽宁省沈阳市和平区和平南大街第六人民医院",
+        "id": "16661d73a5d2a39b3b55f8eb466720ed",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（六）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207533.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（七）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624445207559.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624428044216.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624404804851.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624404804851.html"
+          },
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十二）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624428044216.html"
+          }
+        ],
+        "cnt_sum_certain": "9",
+        "release_date": "20200212",
+        "lng": "123.40168",
+        "lat": "41.772396",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "district": "和平区",
+        "middle_address": "和平南大街85号",
+        "show_address": "沈阳市第六人民医院",
+        "full_address": "辽宁省沈阳市和平区和平南大街85号沈阳市第六人民医院",
+        "id": "c1def297c28df0951f8023d4d2d5109d",
+        "article_source": [
+          {
+            "title": "速转！沈阳市公布两例确诊病例行程轨迹",
+            "url": "https://www.sohu.com/a/371454442_355224"
+          },
+          {
+            "title": "速转！沈阳市公布两例确诊病例行程轨迹",
+            "url": "https://www.sohu.com/a/371454442_355224"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200208",
+        "lng": "123.40026",
+        "lat": "41.7719",
+        "source": [
+          {
+            "name": "沈阳市人民政府办公室",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "盘锦市": {
+    "兴隆台区": [
+      {
+        "province": "辽宁省",
+        "city": "盘锦市",
+        "district": "兴隆台区",
+        "county": "",
+        "street": "兴盛街道",
+        "community": "霞光府小区",
+        "show_address": "霞光府小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省盘锦市兴隆台区兴盛街道霞光府小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "d88f7dd8a005314732948a0b443ffbf9",
+        "lng": "122.064529",
+        "lat": "41.09465",
+        "doc_id": "90000052_d88f7dd8a005314732948a0b443ffbf9",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "双台子区": [
+      {
+        "province": "辽宁省",
+        "city": "盘锦市",
+        "district": "双台子区",
+        "county": "",
+        "street": "",
+        "community": "水榭春城小区",
+        "show_address": "水榭春城小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省盘锦市双台子区水榭春城小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "b5f69a3a6117906bea704559c7acb77e",
+        "lng": "122.023521",
+        "lat": "41.181911",
+        "doc_id": "90000052_b5f69a3a6117906bea704559c7acb77e",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "大洼区": [
+      {
+        "province": "辽宁省",
+        "city": "盘锦市",
+        "district": "大洼区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "二道边老君炉村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省盘锦市大洼区东风镇二道边老君炉村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "b336cbf8ddd94b143abeb0332f77fe36",
+        "lng": "122.240921",
+        "lat": "41.021599",
+        "doc_id": "90000052_b336cbf8ddd94b143abeb0332f77fe36",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "盘锦市",
+        "district": "大洼区",
+        "county": "",
+        "street": "",
+        "community": "丽都小区",
+        "show_address": "丽都小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省盘锦市大洼区新立镇丽都小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "0caa3f6773271020be2aee1ced966cf7",
+        "lng": "122.197029",
+        "lat": "41.116428",
+        "doc_id": "90000052_0caa3f6773271020be2aee1ced966cf7",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "盘锦市",
+        "district": "大洼区",
+        "county": "",
+        "street": "田家街道",
+        "community": "纳帕溪谷小区",
+        "show_address": "纳帕溪谷小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省盘锦市大洼区田家街道纳帕溪谷小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "b37f26b4177c01cb27c373e760e44fa4",
+        "lng": "122.057083",
+        "lat": "41.088039",
+        "doc_id": "90000052_b37f26b4177c01cb27c373e760e44fa4",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "丹东市": {
+    "振安区": [
+      {
+        "province": "辽宁省",
+        "city": "丹东市",
+        "district": "振安区",
+        "county": "",
+        "street": "",
+        "community": "太平湾",
+        "show_address": "太平湾",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省丹东市振安区太平湾",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "4a2ffdff9d35983c53b128cdc011be17",
+        "lng": "124.72873",
+        "lat": "40.33707",
+        "doc_id": "90000052_4a2ffdff9d35983c53b128cdc011be17",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "大连市": {
+    "甘井子区": [
+      {
+        "province": "辽宁省",
+        "city": "大连市",
+        "district": "甘井子区",
+        "county": "",
+        "street": "中华路街道",
+        "community": "",
+        "show_address": "中华路街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省大连市甘井子区中华路街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月8日，大连市新型冠状病毒肺炎确诊16例，新增2例",
+            "url": "https://mp.weixin.qq.com/s/COX_am6JEnNgnCUTBhzMww"
+          }
+        ],
+        "id": "92b2e4ba6a324e93e59ecb087ea87e55",
+        "lng": "121.583649",
+        "lat": "38.991402",
+        "doc_id": "90000052_92b2e4ba6a324e93e59ecb087ea87e55",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "金普新区": [
+      {
+        "province": "辽宁省",
+        "city": "大连市",
+        "district": "金普新区",
+        "county": "",
+        "street": "光中街道",
+        "community": "",
+        "show_address": "光中街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省大连市金普新区光中街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月8日，大连市新型冠状病毒肺炎确诊16例，新增2例",
+            "url": "https://mp.weixin.qq.com/s/COX_am6JEnNgnCUTBhzMww"
+          }
+        ],
+        "id": "3930e890a13681a0a601e2fca4b7ae07",
+        "lng": "121.571289",
+        "lat": "38.974567",
+        "doc_id": "90000052_3930e890a13681a0a601e2fca4b7ae07",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "高新技术产业园区": [
+      {
+        "province": "辽宁省",
+        "city": "大连市",
+        "district": "高新技术产业园区",
+        "county": "",
+        "street": "龙王塘街道",
+        "community": "",
+        "show_address": "龙王塘街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省大连市高新技术产业园区龙王塘街道",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "辽宁新增2例！锦州市5名患者治愈出院！",
+            "url": "https://mp.weixin.qq.com/s/aR8waZtklwokiEImM75laA"
+          },
+          {
+            "title": "大连新增1例！一家三人确诊，两幼儿无症状感染 | 5名患者在沈阳出院",
+            "url": "https://mp.weixin.qq.com/s/6r4wD0rqOrqAfQU3WprfLw"
+          }
+        ],
+        "id": "225ae9dfdd40e53601f73bab2ef34764",
+        "lng": "121.39801",
+        "lat": "38.842304",
+        "doc_id": "90000052_225ae9dfdd40e53601f73bab2ef34764",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "旅顺口区": [
+      {
+        "province": "辽宁省",
+        "city": "大连市",
+        "district": "旅顺口区",
+        "middle_address": "高新技术产业园区龙王塘街道",
+        "show_address": "龙王塘街道",
+        "full_address": "辽宁省大连市旅顺口区高新技术产业园区龙王塘街道龙王塘街道",
+        "id": "beef2472e5033eaa6c7d03d2aef22b41",
+        "article_source": [
+          {
+            "title": "2月16日，大连市新型冠状病毒肺炎确诊19例，新增1例",
+            "url": "http://hcod.dl.gov.cn/web/guest/18?articleId=73701F6C-2656-04A0-6894-C42439D4A7DF"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "121.39801",
+        "lat": "38.842304",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "沙河口区": [
+      {
+        "province": "辽宁省",
+        "city": "大连市",
+        "district": "沙河口区",
+        "middle_address": "中山路467号",
+        "show_address": "大连医科大学附属二院",
+        "full_address": "辽宁省大连市沙河口区中山路467号大连医科大学附属二院",
+        "id": "81a89e9d8f23d27ffb18c3fef5a34b21",
+        "article_source": [
+          {
+            "title": "2月16日，大连市新型冠状病毒肺炎确诊19例，新增1例",
+            "url": "http://hcod.dl.gov.cn/web/guest/18?articleId=73701F6C-2656-04A0-6894-C42439D4A7DF"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "121.57094",
+        "lat": "38.88293",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "朝阳市": {
+    "凌源市": [
+      {
+        "province": "辽宁省",
+        "city": "朝阳市",
+        "district": "凌源市",
+        "county": "",
+        "street": "",
+        "community": "宝德丽景小区",
+        "show_address": "宝德丽景小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省朝阳市凌源市宝德丽景小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "再公布5例确诊病例详细轨迹！一对夫妻武汉返回后曾与同学聚餐",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042176&idx=1&sn=4cb847daa3878ed4fc3e8d723d76dd6d&chksm=7a3500de4d4289c88949988a72614c5d623077cb93dea7ed61175fb28751a3ee2c1a715ad2f3&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "a9ff42af9de19dfa1f299ea2471c4d87",
+        "lng": "119.417557",
+        "lat": "41.240891",
+        "doc_id": "90000052_a9ff42af9de19dfa1f299ea2471c4d87",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "朝阳县": [
+      {
+        "province": "辽宁省",
+        "city": "朝阳市",
+        "district": "朝阳县",
+        "county": "朝阳县",
+        "street": "",
+        "community": "",
+        "show_address": "平房村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省朝阳市朝阳县根德乡平房村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "再公布5例确诊病例详细轨迹！一对夫妻武汉返回后曾与同学聚餐",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042176&idx=1&sn=4cb847daa3878ed4fc3e8d723d76dd6d&chksm=7a3500de4d4289c88949988a72614c5d623077cb93dea7ed61175fb28751a3ee2c1a715ad2f3&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "d3606ddc791ab89d346c3f6bc20a3f8b",
+        "lng": "120.678978",
+        "lat": "41.280441",
+        "doc_id": "90000052_d3606ddc791ab89d346c3f6bc20a3f8b",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "本溪市": {
+    "平山区": [
+      {
+        "province": "辽宁省",
+        "city": "本溪市",
+        "district": "平山区",
+        "county": "",
+        "street": "南地街道办事处",
+        "community": "",
+        "show_address": "南地街道办事处",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省本溪市平山区南地街道办事处",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "cb1a51c99e1e18ee5315374f9bc92014",
+        "lng": "123.75885",
+        "lat": "41.27747",
+        "doc_id": "90000052_cb1a51c99e1e18ee5315374f9bc92014",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "葫芦岛市": {
+    "兴城市": [
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "兴城市",
+        "county": "兴城市",
+        "street": "",
+        "community": "兴城弘熙园",
+        "show_address": "兴城弘熙园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市兴城市兴城弘熙园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "经沈阳！寻1月16日G1278/1月22日CZ65161、G4122同乘人！大连、葫芦岛公布新轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042922&idx=1&sn=b62d3389bf95016ca969dba2e02ede27&chksm=7a3505b44d428ca205f44de8fcdfd5619596fa9aca264a8435ed3b6187c8c8e3c3432a6706fb&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "e9369efe6c7405fb293b102b974084b0",
+        "lng": "120.729446",
+        "lat": "40.621479",
+        "doc_id": "90000052_e9369efe6c7405fb293b102b974084b0",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "兴城市",
+        "county": "",
+        "street": "",
+        "community": "金秋园回迁楼",
+        "show_address": "金秋园回迁楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市兴城市金秋园回迁楼",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "铁岭3例、锦州1例、葫芦岛2例，辽宁今天通报8例新增病例轨迹！",
+            "url": "https://search.weixin.qq.com/k/RlFRW1BEalleRVNVRlFYaUJZRUxSaUdQUlFlRVVQb1ZbXVc2VS1RUidvXQ?scene=3"
+          }
+        ],
+        "id": "6b7d688f0d0b36252a466c6766347084",
+        "lng": "120.73172",
+        "lat": "40.626591",
+        "doc_id": "90000052_6b7d688f0d0b36252a466c6766347084",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "兴城市",
+        "middle_address": "",
+        "show_address": "兴城火车站",
+        "full_address": "辽宁省葫芦岛市兴城市兴城火车站",
+        "id": "9e126f9a0e1736a2d2e47617d452704c",
+        "article_source": [
+          {
+            "title": "又是家庭聚集病例​！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "120.702278",
+        "lat": "40.623661",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "南票区": [
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "南票区",
+        "county": "",
+        "street": "",
+        "community": "打渔山幸福小区",
+        "show_address": "打渔山幸福小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市南票区打渔山幸福小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "经沈阳！寻1月16日G1278/1月22日CZ65161、G4122同乘人！大连、葫芦岛公布新轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042922&idx=1&sn=b62d3389bf95016ca969dba2e02ede27&chksm=7a3505b44d428ca205f44de8fcdfd5619596fa9aca264a8435ed3b6187c8c8e3c3432a6706fb&scene=21#wechat_redirect"
+          },
+          {
+            "title": "快递小哥、商场营业员…葫芦岛公布最新病例轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652043116&idx=1&sn=2603c2877a08a262632a30447bf07115&chksm=7a3504724d428d649867af506a192262b740af600a579ae0ffa8b135454aaaec4b98bca8f919&scene=21#wechat_redirect"
+          },
+          {
+            "title": "辽宁春节后人员流动错峰调节，交通运输这么办！附葫芦岛新增2病例行程轨迹",
+            "url": "https://mp.weixin.qq.com/s/qPhJxtlehxN9OfKuVUIaNA"
+          }
+        ],
+        "id": "8cb455d045fcca4ec23e92a21c145c1d",
+        "lng": "120.74985",
+        "lat": "41.10714",
+        "doc_id": "90000052_8cb455d045fcca4ec23e92a21c145c1d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "连山区": [
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "连山区",
+        "county": "",
+        "street": "",
+        "community": "杨家杖子毛屯开发楼",
+        "show_address": "杨家杖子毛屯开发楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市连山区杨家杖子毛屯开发楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快递小哥、商场营业员…葫芦岛公布最新病例轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652043116&idx=1&sn=2603c2877a08a262632a30447bf07115&chksm=7a3504724d428d649867af506a192262b740af600a579ae0ffa8b135454aaaec4b98bca8f919&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "3cd7c1291cc632d3ec0e18d6ea9e58d5",
+        "lng": "120.551743",
+        "lat": "40.802155",
+        "doc_id": "90000052_3cd7c1291cc632d3ec0e18d6ea9e58d5",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "连山区",
+        "county": "",
+        "street": "新华大街",
+        "community": "金汇广厦",
+        "show_address": "金汇广厦",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市连山区新华大街金汇广厦",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "经沈阳！寻1月16日G1278/1月22日CZ65161、G4122同乘人！大连、葫芦岛公布新轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042922&idx=1&sn=b62d3389bf95016ca969dba2e02ede27&chksm=7a3505b44d428ca205f44de8fcdfd5619596fa9aca264a8435ed3b6187c8c8e3c3432a6706fb&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "29c7e43fd43cd5e501e2972551ac82b7",
+        "lng": "120.847443",
+        "lat": "40.748917",
+        "doc_id": "90000052_29c7e43fd43cd5e501e2972551ac82b7",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "连山区",
+        "middle_address": "",
+        "show_address": "农村商业银行杨郊支行",
+        "full_address": "辽宁省葫芦岛市连山区农村商业银行杨郊支行",
+        "id": "f7a902d3f5f9afb6ca58de43d2c47a19",
+        "article_source": [
+          {
+            "title": "又是家庭聚集病例​！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "120.552834",
+        "lat": "40.801338",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "连山区",
+        "middle_address": "",
+        "show_address": "连山区人民医院",
+        "full_address": "辽宁省葫芦岛市连山区连山区人民医院",
+        "id": "4c5763c561ddae9765776765dfe8b3df",
+        "article_source": [
+          {
+            "title": "又是家庭聚集病例​！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "120.725357",
+        "lat": "40.61636",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "龙港区": [
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "龙港区",
+        "county": "",
+        "street": "马仗房街道",
+        "community": "东山小区",
+        "show_address": "东山小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市龙港区马仗房街道东山小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "经沈阳！寻1月16日G1278/1月22日CZ65161、G4122同乘人！大连、葫芦岛公布新轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652042922&idx=1&sn=b62d3389bf95016ca969dba2e02ede27&chksm=7a3505b44d428ca205f44de8fcdfd5619596fa9aca264a8435ed3b6187c8c8e3c3432a6706fb&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "cd9bb823bb82ffd25f678c80e9595512",
+        "lng": "120.920807",
+        "lat": "40.721169",
+        "doc_id": "90000052_cd9bb823bb82ffd25f678c80e9595512",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "杨家杖子经济开发区": [
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "杨家杖子经济开发区",
+        "county": "",
+        "street": "",
+        "community": "河西B区",
+        "show_address": "河西B区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省葫芦岛市杨家杖子经济开发区河西B区",
+        "release_date": "2020216",
+        "article_source": [
+          {
+            "title": "辽宁春节后人员流动错峰调节，交通运输这么办！附葫芦岛新增2病例行程轨迹",
+            "url": "https://mp.weixin.qq.com/s/qPhJxtlehxN9OfKuVUIaNA"
+          },
+          {
+            "title": "铁岭3例、锦州1例、葫芦岛2例，辽宁今天通报8例新增病例轨迹！",
+            "url": "https://search.weixin.qq.com/k/RlFRW1BEalleRVNVRlFYaUJZRUxSaUdQUlFlRVVQb1ZbXVc2VS1RUidvXQ?scene=3"
+          },
+          {
+            "title": "又是家庭聚集病例！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "id": "18e3c0d39bc99cc7c5b1eac3a8cac9f9",
+        "lng": "120.560112",
+        "lat": "40.784901",
+        "doc_id": "90000052_18e3c0d39bc99cc7c5b1eac3a8cac9f9",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "杨家杖子经济开发区",
+        "middle_address": "",
+        "show_address": "毛屯露天集贸市场",
+        "full_address": "辽宁省葫芦岛市杨家杖子经济开发区毛屯露天集贸市场",
+        "id": "4731a468b9d7fd7658544b7289158b41",
+        "article_source": [
+          {
+            "title": "又是家庭聚集病例​！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "120.538059",
+        "lat": "40.812645",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "葫芦岛市",
+        "district": "杨家杖子经济开发区",
+        "middle_address": "",
+        "show_address": "毛屯社区卫生服务站",
+        "full_address": "辽宁省葫芦岛市杨家杖子经济开发区毛屯社区卫生服务站",
+        "id": "2bc6d676bf47530eb9e7939256d3a6f2",
+        "article_source": [
+          {
+            "title": "又是家庭聚集病例​！辽宁新增病例行程轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/Gb4HXwpT7yF0u_4fOaXK0A"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "120.538059",
+        "lat": "40.812645",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "辽阳市": {
+    "辽阳县": [
+      {
+        "province": "辽宁省",
+        "city": "辽阳市",
+        "district": "辽阳县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "栗子园村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省辽阳市辽阳县寒岭镇栗子园村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "36539a815e2a4144e8dd65fcab1a4665",
+        "lng": "123.500572",
+        "lat": "41.199638",
+        "doc_id": "90000052_36539a815e2a4144e8dd65fcab1a4665",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "辽阳市",
+        "district": "辽阳县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "小北河镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省辽阳市辽阳县小北河镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "d09de06c4a722460187bc458ae4491a3",
+        "lng": "122.849037",
+        "lat": "41.3601",
+        "doc_id": "90000052_d09de06c4a722460187bc458ae4491a3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "白塔区": [
+      {
+        "province": "辽宁省",
+        "city": "辽阳市",
+        "district": "白塔区",
+        "middle_address": "东兴路",
+        "show_address": "风和日丽小区",
+        "full_address": "辽宁省辽阳市白塔区东兴路风和日丽小区",
+        "id": "9445ae4a32b754816d64ea5da6d1a883",
+        "article_source": [
+          {
+            "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（三）",
+            "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624486746741.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200201",
+        "lng": "123.192223",
+        "lat": "41.256351",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "锦州市": {
+    "义县": [
+      {
+        "province": "辽宁省",
+        "city": "锦州市",
+        "district": "义县",
+        "county": "义县",
+        "street": "",
+        "community": "",
+        "show_address": "义州镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省锦州市义县义州镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "3690a71f5bfb319de3b1684535b08c93",
+        "lng": "121.241013",
+        "lat": "41.535801",
+        "doc_id": "90000052_3690a71f5bfb319de3b1684535b08c93",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "锦州市",
+        "district": "义县",
+        "county": "义县",
+        "street": "",
+        "community": "",
+        "show_address": "头道河村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省锦州市义县头道河镇头道河村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "0a838af8bffae4460595f751d6ff88e3",
+        "lng": "121.074562",
+        "lat": "41.53492",
+        "doc_id": "90000052_0a838af8bffae4460595f751d6ff88e3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "凌海市": [
+      {
+        "province": "辽宁省",
+        "city": "锦州市",
+        "district": "凌海市",
+        "county": "",
+        "street": "金城街道",
+        "community": "",
+        "show_address": "金城街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省锦州市凌海市金城街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "fdfe6be99feb647a7aa22f787b0e4596",
+        "lng": "121.402939",
+        "lat": "41.191021",
+        "doc_id": "90000052_fdfe6be99feb647a7aa22f787b0e4596",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "凌河区": [
+      {
+        "province": "辽宁省",
+        "city": "锦州市",
+        "district": "凌河区",
+        "county": "",
+        "street": "",
+        "community": "元都大酒店",
+        "show_address": "元都大酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省锦州市凌河区元都大酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "锦州公布首诊4例新冠肺炎患者行程轨迹，超级详细！",
+            "url": "https://mp.weixin.qq.com/s/QARBKJFXYK4TkwUv-CgjWw"
+          }
+        ],
+        "id": "00383f033a76c7a70fcba9f4cf66ab43",
+        "lng": "121.139328",
+        "lat": "41.112961",
+        "doc_id": "90000052_00383f033a76c7a70fcba9f4cf66ab43",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "阜新市": {
+    "细河区": [
+      {
+        "province": "辽宁省",
+        "city": "阜新市",
+        "district": "细河区",
+        "county": "",
+        "street": "玉龙街道",
+        "community": "",
+        "show_address": "玉龙街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省阜新市细河区玉龙街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "辽宁累计确诊89人！大连、阜新、丹东公布新确诊轨迹",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652043090&idx=1&sn=9a4d85e5fe8e343fb9f5ed597dec2f15&chksm=7a35044c4d428d5a39de75adc38bd982676568b1269a9edf2d22ca287a824c524e6f7c317c2c&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "ebb067c62408fdaa7e524dda2614331b",
+        "lng": "121.643562",
+        "lat": "42.04739",
+        "doc_id": "90000052_ebb067c62408fdaa7e524dda2614331b",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "海州区": [
+      {
+        "province": "辽宁省",
+        "city": "阜新市",
+        "district": "海州区",
+        "county": "",
+        "street": "",
+        "community": "惠南小区",
+        "show_address": "惠南小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省阜新市海州区惠南小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市第4例、第5例确诊病例基本情况及行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/KiYho5FNqfppRXeV2d1B5g"
+          }
+        ],
+        "id": "67433e011e845496009d40ebb14d9e9a",
+        "lng": "121.641945",
+        "lat": "41.982628",
+        "doc_id": "90000052_67433e011e845496009d40ebb14d9e9a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "彰武县": [
+      {
+        "province": "辽宁省",
+        "city": "阜新市",
+        "district": "彰武县",
+        "county": "彰武县",
+        "street": "",
+        "community": "悦澜湾小区",
+        "show_address": "悦澜湾小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省阜新市彰武县悦澜湾小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市第8例确诊病例基本情况及行程轨迹",
+            "url": "https://mp.weixin.qq.com/s/yGi9KxltvmUvPwZ7P0QsgA"
+          }
+        ],
+        "id": "788499cc8640af5f4af91ba7db61e845",
+        "lng": "122.529892",
+        "lat": "42.376331",
+        "doc_id": "90000052_788499cc8640af5f4af91ba7db61e845",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "鞍山市": {
+    "台安县": [
+      {
+        "province": "辽宁省",
+        "city": "鞍山市",
+        "district": "台安县",
+        "county": "台安县",
+        "street": "",
+        "community": "",
+        "show_address": "高力房马坨村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省鞍山市台安县高力房马坨村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "鞍山新增2确诊例患者行动轨迹来了",
+            "url": "https://mp.weixin.qq.com/s/lpIS73jJ3WKlVIk3Sc1HPQ"
+          }
+        ],
+        "id": "02551b69c5a09f186d9d3496cd137811",
+        "lng": "122.554459",
+        "lat": "41.13443",
+        "doc_id": "90000052_02551b69c5a09f186d9d3496cd137811",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "辽宁省",
+        "city": "鞍山市",
+        "district": "台安县",
+        "county": "",
+        "street": "",
+        "community": "前海尚城小区",
+        "show_address": "前海尚城小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省鞍山市台安县高力房镇前海尚城小区",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "鞍山第四例行动轨迹来了！是台安确诊夫妻密切接触者",
+            "url": "http://wjw.anshan.gov.cn/News_show.aspx?Sort_Id=15&Pro_Id=18598&Menu_Id=0"
+          }
+        ],
+        "id": "54acac85d42140e71416e94b40938853",
+        "lng": "122.475578",
+        "lat": "41.159752",
+        "doc_id": "90000052_54acac85d42140e71416e94b40938853",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "岫岩满族自治县": [
+      {
+        "province": "辽宁省",
+        "city": "鞍山市",
+        "district": "岫岩满族自治县",
+        "county": "岫岩满族自治县",
+        "street": "",
+        "community": "",
+        "show_address": "药山镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省鞍山市岫岩满族自治县药山镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "9fe476c36d9556ba3e77646756a5b5fe",
+        "lng": "123.402367",
+        "lat": "40.605301",
+        "doc_id": "90000052_9fe476c36d9556ba3e77646756a5b5fe",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "营口市": {
+    "老边区": [
+      {
+        "province": "辽宁省",
+        "city": "营口市",
+        "district": "老边区",
+        "county": "",
+        "street": "",
+        "community": "恒大绿洲小区",
+        "show_address": "恒大绿洲小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省营口市老边区恒大绿洲小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急扩散！丹东营口大连6例新冠肺炎病例行动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDI0NTM2MQ==&mid=2652041538&idx=3&sn=34e19e895c6dacff8793c1f41de713e5&chksm=7a35025c4d428b4adff5fe696acb2706742430c6fa3c40edbbc3fdef93275de04c332a8ebc95&scene=21#wechat_redirect"
+          }
+        ],
+        "id": "bd308dfc628f58c4e95a58e5849f31c4",
+        "lng": "122.250122",
+        "lat": "40.646332",
+        "doc_id": "90000052_bd308dfc628f58c4e95a58e5849f31c4",
+        "source": [
+          {
+            "name": "辽沈晚报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "铁岭市": {
+    "调兵山市": [
+      {
+        "province": "辽宁省",
+        "city": "铁岭市",
+        "district": "调兵山市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "前后屯村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "辽宁省铁岭市调兵山市晓明镇前后屯村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "沈阳新公布2例确诊患者行程轨迹！附盘锦最新3例和辽宁已公布轨迹汇总",
+            "url": "https://mp.weixin.qq.com/s/qVISBA_4lvTsHbKqxLexGw"
+          }
+        ],
+        "id": "9c60b86388930e90d8f29ae2b7e01416",
+        "lng": "123.643082",
+        "lat": "42.380726",
+        "doc_id": "90000052_9c60b86388930e90d8f29ae2b7e01416",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

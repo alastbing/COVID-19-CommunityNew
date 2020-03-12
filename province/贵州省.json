@@ -1,0 +1,2966 @@
+{"贵州省": {
+  "毕节市": {
+    "纳雍县": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "纳雍县",
+        "county": "纳雍县",
+        "street": "",
+        "community": "",
+        "show_address": "乐治镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市纳雍县乐治镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月4日0—12时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47088170.html"
+          },
+          {
+            "title": "2020年2月4日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200205_47210203.html"
+          }
+        ],
+        "id": "622da9f80733b8358c54367c0cfcec0b",
+        "lng": "105.472198",
+        "lat": "26.832529",
+        "doc_id": "90000052_622da9f80733b8358c54367c0cfcec0b",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "纳雍县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "史家街村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市纳雍县乐治镇史家街村",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2020年2月13日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200214_48951996.html"
+          }
+        ],
+        "id": "c9942db694dc98400cec0df421b5148b",
+        "lng": "105.460632",
+        "lat": "26.83639",
+        "doc_id": "90000052_c9942db694dc98400cec0df421b5148b",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "大方县": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "大方县",
+        "county": "大方县",
+        "street": "红旗街道",
+        "community": "",
+        "show_address": "红旗街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市大方县红旗街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "8a90fb3cf1724bab3311425847136586",
+        "lng": "105.608391",
+        "lat": "27.143",
+        "doc_id": "90000052_8a90fb3cf1724bab3311425847136586",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "大方县",
+        "county": "大方县",
+        "street": "顺德街道",
+        "community": "",
+        "show_address": "顺德街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市大方县顺德街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "7a5ac4fa628f52ec70db186ca562bd01",
+        "lng": "105.589417",
+        "lat": "27.156038",
+        "doc_id": "90000052_7a5ac4fa628f52ec70db186ca562bd01",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "赫章县": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "赫章县",
+        "county": "赫章县",
+        "street": "",
+        "community": "",
+        "show_address": "妈姑镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市赫章县妈姑镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "c8a933987e282e61b1cd6e9d8bdb7d2d",
+        "lng": "104.561867",
+        "lat": "26.965281",
+        "doc_id": "90000052_c8a933987e282e61b1cd6e9d8bdb7d2d",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "赫章县",
+        "county": "赫章县",
+        "street": "白果街道",
+        "community": "",
+        "show_address": "白果街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市赫章县白果街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "a2bd893ccfb7ae05092640d2162d8838",
+        "lng": "104.69265",
+        "lat": "27.10656",
+        "doc_id": "90000052_a2bd893ccfb7ae05092640d2162d8838",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "七星关区": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "七星关区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "撒拉溪镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市七星关区撒拉溪镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月4日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200205_47210203.html"
+          }
+        ],
+        "id": "41ff02310d598ec1472f4eb5fd68ef28",
+        "lng": "105.04155",
+        "lat": "27.19664",
+        "doc_id": "90000052_41ff02310d598ec1472f4eb5fd68ef28",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "黔西县": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "黔西县",
+        "county": "黔西县",
+        "street": "",
+        "community": "",
+        "show_address": "百花村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "10",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市黔西县素朴镇百花村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200208_47776446.html"
+          },
+          {
+            "title": "2020年2月7日0—12时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47649659.html"
+          },
+          {
+            "title": "2020年2月5日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200206_47396972.html"
+          }
+        ],
+        "id": "c2ca1dbabee933062f8f7fcdc6eb3d1e",
+        "lng": "106.34758",
+        "lat": "26.99025",
+        "doc_id": "90000052_c2ca1dbabee933062f8f7fcdc6eb3d1e",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "织金县": [
+      {
+        "province": "贵州省",
+        "city": "毕节市",
+        "district": "织金县",
+        "county": "织金县",
+        "street": "",
+        "community": "",
+        "show_address": "大桥村转坡组",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省毕节市织金县阿弓镇大桥村转坡组",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月11日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200212_48539710.html"
+          }
+        ],
+        "id": "93054855c9860d6ab9c4a90a03a116db",
+        "lng": "105.493698",
+        "lat": "26.50049",
+        "doc_id": "90000052_93054855c9860d6ab9c4a90a03a116db",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "贵阳市": {
+    "南明区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "",
+        "community": "太慈社区",
+        "show_address": "太慈社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区太慈社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "dcd7bac3abc280d2cb9d92de0fac6724",
+        "lng": "106.682739",
+        "lat": "26.55377",
+        "doc_id": "90000052_dcd7bac3abc280d2cb9d92de0fac6724",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "",
+        "community": "花果社区",
+        "show_address": "花果社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区花果社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          },
+          {
+            "title": "2020年2月10日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200211_48345381.html"
+          }
+        ],
+        "id": "1879261c6a8c1f303e3dacdd6581fc05",
+        "lng": "106.688072",
+        "lat": "26.564131",
+        "doc_id": "90000052_1879261c6a8c1f303e3dacdd6581fc05",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "",
+        "community": "太慈桥兆基新王府",
+        "show_address": "太慈桥兆基新王府",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区太慈桥兆基新王府",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月5日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200206_47396972.html"
+          },
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          }
+        ],
+        "id": "7e75e3cd4794421b326fdb0482848ce2",
+        "lng": "106.687508",
+        "lat": "26.557203",
+        "doc_id": "90000052_7e75e3cd4794421b326fdb0482848ce2",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "",
+        "community": "花果园K区",
+        "show_address": "花果园K区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区花果园K区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "9743e6fc4a2b56856447815538dad5db",
+        "lng": "106.67944",
+        "lat": "26.55568",
+        "doc_id": "90000052_9743e6fc4a2b56856447815538dad5db",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "解放路356号",
+        "community": "",
+        "show_address": "解放路356号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区解放路356号",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "2020年2月12日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200213_48770147.html"
+          }
+        ],
+        "id": "05adcb5cf15728a39b9f1b088cd302c2",
+        "lng": "106.70817",
+        "lat": "26.56003",
+        "doc_id": "90000052_05adcb5cf15728a39b9f1b088cd302c2",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "county": "",
+        "street": "太慈社区",
+        "community": "兆基新王府",
+        "show_address": "兆基新王府",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市南明区太慈社区兆基新王府",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "2020年2月12日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200213_48770147.html"
+          }
+        ],
+        "id": "b01233e55813f76bf0bcf14697864952",
+        "lng": "106.687508",
+        "lat": "26.557203",
+        "doc_id": "90000052_b01233e55813f76bf0bcf14697864952",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "中山东路83号",
+        "show_address": "贵州省人民医院",
+        "full_address": "贵州省贵阳市南明区中山东路83号贵州省人民医院",
+        "id": "51b83c80dda1d3349b3e17dfd6d4995b",
+        "article_source": [
+          {
+            "title": "2020年2月16日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200217_49581610.html"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.72266",
+        "lat": "26.57636",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "机场路",
+        "show_address": "龙洞堡国际机场",
+        "full_address": "贵州省贵阳市南明区机场路龙洞堡国际机场",
+        "id": "6563f2c0758d1815614f2e502c627db6",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.803261",
+        "lat": "26.53462",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "中山东路83号",
+        "show_address": "省人民医院",
+        "full_address": "贵州省贵阳市南明区中山东路83号省人民医院",
+        "id": "9747ff84d6865272e0ca11b4c8cb16eb",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.72266",
+        "lat": "26.57636",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "中山东路",
+        "show_address": "人民医院",
+        "full_address": "贵州省贵阳市南明区中山东路人民医院",
+        "id": "271d568af1a5822bb2b78d047e05ef51",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.705154",
+        "lat": "26.580278",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "延安南路与遵义中路交汇处西100米",
+        "show_address": "花果园T2区",
+        "full_address": "贵州省贵阳市南明区延安南路与遵义中路交汇处西100米花果园T2区",
+        "id": "e0281b3268e8f0b0c6ead47ab1821d91",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.67529",
+        "lat": "26.56387",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "都会大街",
+        "show_address": "花果园k区",
+        "full_address": "贵州省贵阳市南明区都会大街花果园k区",
+        "id": "1e5a1fa6024ce1308d42cbb60d3c6f2d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.68428",
+        "lat": "26.56308",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "中山东路",
+        "show_address": "贵州省人民医院",
+        "full_address": "贵州省贵阳市南明区中山东路贵州省人民医院",
+        "id": "0c9b0894f937970471e085d0a4007c3a",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.722816",
+        "lat": "26.576586",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "南明区",
+        "middle_address": "中山路",
+        "show_address": "网红街",
+        "full_address": "贵州省贵阳市南明区中山路网红街",
+        "id": "52df76baeb088010b35284ae55bdd641",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.7141",
+        "lat": "26.56822",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "修文县": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "修文县",
+        "county": "修文县",
+        "street": "",
+        "community": "",
+        "show_address": "小箐镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市修文县小箐镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月4日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200205_47210203.html"
+          }
+        ],
+        "id": "9a0d64275ebcf9cd53b7884e9e557816",
+        "lng": "106.530403",
+        "lat": "26.934429",
+        "doc_id": "90000052_9a0d64275ebcf9cd53b7884e9e557816",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "花溪区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "county": "",
+        "street": "瑞华社区",
+        "community": "万科大都会",
+        "show_address": "万科大都会",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市花溪区瑞华社区万科大都会",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月5日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200206_47396972.html"
+          },
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          },
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          },
+          {
+            "title": "2020年2月10日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200211_48345381.html"
+          }
+        ],
+        "id": "9c15e7d4f4c775cd9bb5d9bf076600bb",
+        "lng": "106.712738",
+        "lat": "26.52128",
+        "doc_id": "90000052_9c15e7d4f4c775cd9bb5d9bf076600bb",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "北街村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市花溪区青岩镇北街村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "25cef95127670444f42ca18efc7d01d6",
+        "lng": "106.688873",
+        "lat": "26.34",
+        "doc_id": "90000052_25cef95127670444f42ca18efc7d01d6",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "花阁路17号",
+        "show_address": "康耀诊所",
+        "full_address": "贵州省贵阳市花溪区花阁路17号康耀诊所",
+        "id": "f286c5cdfaeea2898e7ec9404562d3f2",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.67704",
+        "lat": "26.43066",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "锦江路316号",
+        "show_address": "众济诊所",
+        "full_address": "贵州省贵阳市花溪区锦江路316号众济诊所",
+        "id": "a86e02d90b4fe2466d5c4adb5e6bd54d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.69433",
+        "lat": "26.51563",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "黄河路420附近",
+        "show_address": "三00医院急诊科",
+        "full_address": "贵州省贵阳市花溪区黄河路420附近三00医院急诊科",
+        "id": "c5fa7ab93531cf82dc5f9b623a6d136b",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.69772",
+        "lat": "26.51048",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "园亭路56号",
+        "show_address": "花溪区人民医院",
+        "full_address": "贵州省贵阳市花溪区园亭路56号花溪区人民医院",
+        "id": "52ffdf40046cdfe3496b0732da0a2380",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.675452",
+        "lat": "26.438257",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "园亭路",
+        "show_address": "花溪区人民医院",
+        "full_address": "贵州省贵阳市花溪区园亭路花溪区人民医院",
+        "id": "1b974ac3ad328d9bd3b109b4da79eeaa",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.676254",
+        "lat": "26.438143",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "花溪大道南段",
+        "show_address": "济潘洲小区",
+        "full_address": "贵州省贵阳市花溪区花溪大道南段济潘洲小区",
+        "id": "de7f13c96b928ebbe9977a0118b36f36",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200214",
+        "lng": "106.673119",
+        "lat": "26.48299",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "花溪区",
+        "middle_address": "乾朗路与富源南路交叉口东北50米",
+        "show_address": "牛郎关钢材市场",
+        "full_address": "贵州省贵阳市花溪区乾朗路与富源南路交叉口东北50米牛郎关钢材市场",
+        "id": "6b8744248534ce94c13c29c1759f827d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.74189",
+        "lat": "26.46459",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "观山湖区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "county": "",
+        "street": "",
+        "community": "军阅国际酒店",
+        "show_address": "军阅国际酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市观山湖区军阅国际酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          },
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "446786a951fc6b11892f483b2e448609",
+        "lng": "106.66951",
+        "lat": "26.62564",
+        "doc_id": "90000052_446786a951fc6b11892f483b2e448609",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "county": "",
+        "street": "",
+        "community": "奥林花园",
+        "show_address": "奥林花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市观山湖区奥林花园",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月12日0—12时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200212_48615461.html"
+          }
+        ],
+        "id": "8b2cf5d242302652dd7162263fd2c505",
+        "lng": "106.612038",
+        "lat": "26.61207",
+        "doc_id": "90000052_8b2cf5d242302652dd7162263fd2c505",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "county": "",
+        "street": "碧海社区",
+        "community": "金元国际",
+        "show_address": "金元国际",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市观山湖区碧海社区金元国际",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月12日0—12时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200212_48615461.html"
+          }
+        ],
+        "id": "22d60d0d5efc3c7a36c7c9c162ce921d",
+        "lng": "106.626793",
+        "lat": "26.63822",
+        "doc_id": "90000052_22d60d0d5efc3c7a36c7c9c162ce921d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "金阳南路",
+        "show_address": "贵阳市第二人民医院",
+        "full_address": "贵州省贵阳市观山湖区金阳南路贵阳市第二人民医院",
+        "id": "abc347387a07f7c0d163d61803c0f3a0",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.619682",
+        "lat": "26.613239",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "石林东路10号",
+        "show_address": "奥林花园",
+        "full_address": "贵州省贵阳市观山湖区石林东路10号奥林花园",
+        "id": "f683b9ef4ee81040cf83b9b5bdc2290d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.61204",
+        "lat": "26.61207",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "金阳南路547号",
+        "show_address": "第二人民医院",
+        "full_address": "贵州省贵阳市观山湖区金阳南路547号第二人民医院",
+        "id": "b6019cae1dcf38cf5725f645bd4c2b9d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.6192",
+        "lat": "26.61453",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "金阳南路547号",
+        "show_address": "贵阳市第二人民医院",
+        "full_address": "贵州省贵阳市观山湖区金阳南路547号贵阳市第二人民医院",
+        "id": "377cbce3e79a562d2fca0b5a64621d6b",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.6192",
+        "lat": "26.61453",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "金阳南路",
+        "show_address": "第二人民医院",
+        "full_address": "贵州省贵阳市观山湖区金阳南路第二人民医院",
+        "id": "d39f0a031572fd4ea16070dc314ba30d",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.619682",
+        "lat": "26.613239",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "观山湖区",
+        "middle_address": "西二环",
+        "show_address": "贵阳北站",
+        "full_address": "贵州省贵阳市观山湖区西二环贵阳北站",
+        "id": "b3c70a65a89b5cabf20afa880f79bcf0",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.674881",
+        "lat": "26.61932",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "白云区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "白云区",
+        "county": "",
+        "street": "云城街道",
+        "community": "阀门厂",
+        "show_address": "阀门厂",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市白云区云城街道阀门厂",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "ac1b594312750e8be7ec20bb2eef67f1",
+        "lng": "106.651833",
+        "lat": "26.674681",
+        "doc_id": "90000052_ac1b594312750e8be7ec20bb2eef67f1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "白云区",
+        "middle_address": "云城街道",
+        "show_address": "阀门厂小区",
+        "full_address": "贵州省贵阳市白云区云城街道阀门厂小区",
+        "id": "d3b00e5c13e8432e14bab64631e75573",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.651833",
+        "lat": "26.674681",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "云岩区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "county": "",
+        "street": "",
+        "community": "优山美诗小区",
+        "show_address": "优山美诗小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市云岩区优山美诗小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日0—14时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_48033756.html"
+          }
+        ],
+        "id": "45c2b04f36a69ec6e7546b68b267316f",
+        "lng": "106.735283",
+        "lat": "26.590981",
+        "doc_id": "90000052_45c2b04f36a69ec6e7546b68b267316f",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "county": "",
+        "street": "",
+        "community": "未来方舟G1组团",
+        "show_address": "未来方舟G1组团",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市云岩区未来方舟G1组团",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "2b8d9eac9349f521b5cf5b34b5c0e1bc",
+        "lng": "106.757851",
+        "lat": "26.60062",
+        "doc_id": "90000052_2b8d9eac9349f521b5cf5b34b5c0e1bc",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "county": "",
+        "street": "水东社区",
+        "community": "中天未来方舟G1组团",
+        "show_address": "中天未来方舟G1组团",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市云岩区水东社区中天未来方舟G1组团",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "2020年2月16日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200217_49581610.html"
+          }
+        ],
+        "id": "b5fc368555f429e88927de8c041219a4",
+        "lng": "106.757851",
+        "lat": "26.60062",
+        "doc_id": "90000052_b5fc368555f429e88927de8c041219a4",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "贵医街",
+        "show_address": "贵州医科大学附属医院",
+        "full_address": "贵州省贵阳市云岩区贵医街贵州医科大学附属医院",
+        "id": "6fcd7919f7468397dd2bbae1f5f37673",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200214",
+        "lng": "106.71405",
+        "lat": "26.594139",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "水东路",
+        "show_address": "未来方舟G1组团",
+        "full_address": "贵州省贵阳市云岩区水东路未来方舟G1组团",
+        "id": "ca880772290decc2e11a5117ad2a9166",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.757851",
+        "lat": "26.60062",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "",
+        "show_address": "水东路",
+        "full_address": "贵州省贵阳市云岩区水东路",
+        "id": "f5d35ac54d4ac2910256e19409303785",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.764473",
+        "lat": "26.608351",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "水东社区",
+        "show_address": "未来方舟G1组团",
+        "full_address": "贵州省贵阳市云岩区水东社区未来方舟G1组团",
+        "id": "5ae5371272eec32cf36418e842e0cb60",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.757851",
+        "lat": "26.60062",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "黔灵镇",
+        "show_address": "优山美诗小区",
+        "full_address": "贵州省贵阳市云岩区黔灵镇优山美诗小区",
+        "id": "78814916f8cec260493e0c2abb3f928b",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.735283",
+        "lat": "26.590981",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "半边街",
+        "show_address": "疾病预防控制中心",
+        "full_address": "贵州省贵阳市云岩区半边街疾病预防控制中心",
+        "id": "9bfd61f6bb567375bb6d042d57851f03",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.717377",
+        "lat": "26.60322",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "云岩区",
+        "middle_address": "",
+        "show_address": "半边街",
+        "full_address": "贵州省贵阳市云岩区半边街",
+        "id": "148b6d929cd3b4dbb649f7ae029b85b1",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.71701",
+        "lat": "26.603069",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "清镇市": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "清镇市",
+        "county": "",
+        "street": "",
+        "community": "君悦国际",
+        "show_address": "君悦国际",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省贵阳市清镇市君悦国际",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "2020年2月16日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200217_49581610.html"
+          },
+          {
+            "title": "2020年2月18日0—12时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200218_49962617.html"
+          }
+        ],
+        "id": "274bffbdd72075be26230d7aaa3fae12",
+        "lng": "106.470123",
+        "lat": "26.56122",
+        "doc_id": "90000052_274bffbdd72075be26230d7aaa3fae12",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "清镇市",
+        "middle_address": "云岭东路",
+        "show_address": "君悦国际",
+        "full_address": "贵州省贵阳市清镇市云岭东路君悦国际",
+        "id": "8483847d48737bd00b25af214aec8b81",
+        "article_source": [
+          {
+            "title": "2020年2月16日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200217_49581610.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "106.470123",
+        "lat": "26.56122",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "清镇市",
+        "middle_address": "",
+        "show_address": "清镇市一医",
+        "full_address": "贵州省贵阳市清镇市清镇市一医",
+        "id": "16d96489fa8bd5abf6a873b104685ac5",
+        "article_source": [
+          {
+            "title": "2020年2月16日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200217_49581610.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "106.466766",
+        "lat": "26.550289",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "乌当区": [
+      {
+        "province": "贵州省",
+        "city": "贵阳市",
+        "district": "乌当区",
+        "middle_address": "高新路北",
+        "show_address": "新庄幸福小区",
+        "full_address": "贵州省贵阳市乌当区高新路北新庄幸福小区",
+        "id": "e4d4ed05502d5bf9ea62a142af18a02b",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.795547",
+        "lat": "26.63851",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "遵义市": {
+    "仁怀市": [
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "仁怀市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "九仓镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市仁怀市九仓镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "5f7fddd6ed393275e6b2a348b09e9d3a",
+        "lng": "106.06144",
+        "lat": "27.694679",
+        "doc_id": "90000052_5f7fddd6ed393275e6b2a348b09e9d3a",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "道真县": [
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真县",
+        "county": "道真县",
+        "street": "",
+        "community": "",
+        "show_address": "民星村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真县忠信镇民星村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日0—12时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200206_47458093.html"
+          }
+        ],
+        "id": "f9701b7f9e8379076f9df111a84cca80",
+        "lng": "107.712677",
+        "lat": "28.933941",
+        "doc_id": "90000052_f9701b7f9e8379076f9df111a84cca80",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真县",
+        "county": "道真县",
+        "street": "新城社区",
+        "community": "迎江一号",
+        "show_address": "迎江一号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真县玉溪镇新城社区迎江一号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日0—12时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200206_47458093.html"
+          },
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "8d18264a7377d857e565043361e11ca3",
+        "lng": "107.608543",
+        "lat": "28.863443",
+        "doc_id": "90000052_8d18264a7377d857e565043361e11ca3",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真县",
+        "county": "道真县",
+        "street": "永城社区",
+        "community": "",
+        "show_address": "永城社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真县玉溪镇永城社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          }
+        ],
+        "id": "858206102b81b0374b87353237ae02b1",
+        "lng": "107.603043",
+        "lat": "28.877069",
+        "doc_id": "90000052_858206102b81b0374b87353237ae02b1",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真县",
+        "county": "道真县",
+        "street": "新城社区",
+        "community": "",
+        "show_address": "新城社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真县玉溪镇新城社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200208_47776446.html"
+          },
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "a2591fd57fe6ef74fe2c0b4dfa317aef",
+        "lng": "107.608543",
+        "lat": "28.863443",
+        "doc_id": "90000052_a2591fd57fe6ef74fe2c0b4dfa317aef",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真县",
+        "county": "道真县",
+        "street": "",
+        "community": "新田坝社区",
+        "show_address": "新田坝社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真县上坝乡新田坝社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200211_48345381.html"
+          }
+        ],
+        "id": "892f43c67511f62bd87b91606b2e70eb",
+        "lng": "107.578346",
+        "lat": "28.80954",
+        "doc_id": "90000052_892f43c67511f62bd87b91606b2e70eb",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "凤冈县": [
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "凤冈县",
+        "county": "凤冈县",
+        "street": "",
+        "community": "第四中学旁",
+        "show_address": "第四中学旁",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市凤冈县龙泉镇第四中学旁",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200208_47776446.html"
+          }
+        ],
+        "id": "142c0547ca6d98dbe65a617157a8ec58",
+        "lng": "107.707428",
+        "lat": "27.95013",
+        "doc_id": "90000052_142c0547ca6d98dbe65a617157a8ec58",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "汇川区": [
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "汇川区",
+        "county": "",
+        "street": "人民路",
+        "community": "九节滩政府某小区",
+        "show_address": "九节滩政府某小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市汇川区人民路九节滩政府某小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "d2c6b83c4ea8f18182c0fa803c08f2ad",
+        "lng": "106.929611",
+        "lat": "27.72533",
+        "doc_id": "90000052_d2c6b83c4ea8f18182c0fa803c08f2ad",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "汇川区",
+        "county": "",
+        "street": "上海路",
+        "community": "龙华山水小区",
+        "show_address": "龙华山水小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市汇川区上海路龙华山水小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月11日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200212_48539710.html"
+          }
+        ],
+        "id": "bc334687ccd872227411f576f3a16e5f",
+        "lng": "106.91777",
+        "lat": "27.7047",
+        "doc_id": "90000052_bc334687ccd872227411f576f3a16e5f",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "汇川区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "泗渡镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市汇川区泗渡镇",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2020年2月13日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200214_48951996.html"
+          },
+          {
+            "title": "2020年2月13日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200214_48951996.html"
+          },
+          {
+            "title": "2020年2月13日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200214_48951996.html"
+          }
+        ],
+        "id": "af72bfa82a98d6ca9d7aac4c4b6d76b7",
+        "lng": "106.937073",
+        "lat": "27.914181",
+        "doc_id": "90000052_af72bfa82a98d6ca9d7aac4c4b6d76b7",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "汇川区",
+        "county": "",
+        "street": "",
+        "community": "泗渡居",
+        "show_address": "泗渡居",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市汇川区泗渡镇泗渡居",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "2020年2月14日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.html"
+          },
+          {
+            "title": "2020年2月14日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.html"
+          },
+          {
+            "title": "2020年2月14日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.html"
+          }
+        ],
+        "id": "e9aea023f485eeae71d9b85422d9aadc",
+        "lng": "106.936707",
+        "lat": "27.914289",
+        "doc_id": "90000052_e9aea023f485eeae71d9b85422d9aadc",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "汇川区",
+        "county": "",
+        "street": "",
+        "community": "建国社区代家坝还房小区",
+        "show_address": "建国社区代家坝还房小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市汇川区董公寺镇建国社区代家坝还房小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月11日0—16时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200211_48421137.html"
+          }
+        ],
+        "id": "e34fda0564ea337f5ff465a1ffa38bbc",
+        "lng": "106.926117",
+        "lat": "27.713511",
+        "doc_id": "90000052_e34fda0564ea337f5ff465a1ffa38bbc",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "道真仡佬族苗族自治县": [
+      {
+        "province": "贵州省",
+        "city": "遵义市",
+        "district": "道真仡佬族苗族自治县",
+        "county": "",
+        "street": "",
+        "community": "新诚新区未来国际小区",
+        "show_address": "新诚新区未来国际小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省遵义市道真仡佬族苗族自治县玉溪镇新诚新区未来国际小区",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "2020年2月15日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200216_49400070.html"
+          }
+        ],
+        "id": "f691568486ab1c4b38331a9fab2865bf",
+        "lng": "107.602463",
+        "lat": "28.853279",
+        "doc_id": "90000052_f691568486ab1c4b38331a9fab2865bf",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "安顺市": {
+    "黄果树旅游区": [
+      {
+        "province": "贵州省",
+        "city": "安顺市",
+        "district": "黄果树旅游区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "黄果树镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省安顺市黄果树旅游区黄果树镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月4日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200205_47210203.html"
+          }
+        ],
+        "id": "d525fd4fcc6cba2ec6ce7ac181caaf07",
+        "lng": "105.680428",
+        "lat": "26.00915",
+        "doc_id": "90000052_d525fd4fcc6cba2ec6ce7ac181caaf07",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "普定县": [
+      {
+        "province": "贵州省",
+        "city": "安顺市",
+        "district": "普定县",
+        "county": "普定县",
+        "street": "",
+        "community": "",
+        "show_address": "余官村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省安顺市普定县马官镇余官村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          }
+        ],
+        "id": "5dca1a1ef47fa5d4d38b2e69131b7499",
+        "lng": "105.798698",
+        "lat": "26.21093",
+        "doc_id": "90000052_5dca1a1ef47fa5d4d38b2e69131b7499",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "六盘水市": {
+    "钟山区": [
+      {
+        "province": "贵州省",
+        "city": "六盘水市",
+        "district": "钟山区",
+        "county": "",
+        "street": "凤凰社区",
+        "community": "派华新都",
+        "show_address": "派华新都",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省六盘水市钟山区凤凰社区派华新都",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "04df7971c7d90a4eb6e47367362c8e9e",
+        "lng": "104.908737",
+        "lat": "26.56284",
+        "doc_id": "90000052_04df7971c7d90a4eb6e47367362c8e9e",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "黔东南苗族侗族自治州": {
+    "天柱县": [
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "district": "天柱县",
+        "county": "天柱县",
+        "street": "",
+        "community": "",
+        "show_address": "岩门村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔东南苗族侗族自治州天柱县渡马乡岩门村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "79063049d97413b8db1088095dbb83cb",
+        "lng": "109.298958",
+        "lat": "26.969851",
+        "doc_id": "90000052_79063049d97413b8db1088095dbb83cb",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "district": "天柱县",
+        "county": "天柱县",
+        "street": "",
+        "community": "",
+        "show_address": "白市镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔东南苗族侗族自治州天柱县白市镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月4日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200205_47210203.html"
+          }
+        ],
+        "id": "a0a7fc13387a3aac45d6f2840ae06e7a",
+        "lng": "109.448792",
+        "lat": "26.96892",
+        "doc_id": "90000052_a0a7fc13387a3aac45d6f2840ae06e7a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "凯里市": [
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "district": "凯里市",
+        "county": "凯里市",
+        "street": "",
+        "community": "",
+        "show_address": "南江村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔东南苗族侗族自治州凯里市凯棠镇南江村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日0—14时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_48033756.html"
+          }
+        ],
+        "id": "df7f982e27e7269628690b0e5db4a6bd",
+        "lng": "108.094551",
+        "lat": "26.69367",
+        "doc_id": "90000052_df7f982e27e7269628690b0e5db4a6bd",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "district": "凯里市",
+        "county": "凯里市",
+        "street": "城西街道",
+        "community": "",
+        "show_address": "城西街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔东南苗族侗族自治州凯里市城西街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200211_48345381.html"
+          }
+        ],
+        "id": "8e7171adbdd04cf3c1d12dd4b0ec92ce",
+        "lng": "107.973099",
+        "lat": "26.583229",
+        "doc_id": "90000052_8e7171adbdd04cf3c1d12dd4b0ec92ce",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "锦屏县": [
+      {
+        "province": "贵州省",
+        "city": "黔东南苗族侗族自治州",
+        "district": "锦屏县",
+        "county": "锦屏县",
+        "street": "",
+        "community": "",
+        "show_address": "救民村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔东南苗族侗族自治州锦屏县彦洞乡救民村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "a5753260c7a7d4a6489eb6351a8ea683",
+        "lng": "108.900078",
+        "lat": "26.620461",
+        "doc_id": "90000052_a5753260c7a7d4a6489eb6351a8ea683",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "黔南布依族苗族自治州": {
+    "贵定县": [
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "贵定县",
+        "county": "贵定县",
+        "street": "",
+        "community": "",
+        "show_address": "云雾镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州贵定县云雾镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "d612c4a3c92d36bb86c9c55aa2c9cc95",
+        "lng": "107.080078",
+        "lat": "26.21851",
+        "doc_id": "90000052_d612c4a3c92d36bb86c9c55aa2c9cc95",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "贵定县",
+        "county": "贵定县",
+        "street": "金南街道庆熙社区",
+        "community": "锦江华府",
+        "show_address": "锦江华府",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "8",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州贵定县金南街道庆熙社区锦江华府",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月6日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200207_47575171.html"
+          },
+          {
+            "title": "2020年2月11日0—14时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200211_48421135.html"
+          }
+        ],
+        "id": "09f01554d350dc5c06e9d8ba84bec4f3",
+        "lng": "107.236832",
+        "lat": "26.58148",
+        "doc_id": "90000052_09f01554d350dc5c06e9d8ba84bec4f3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "贵定县",
+        "county": "",
+        "street": "",
+        "community": "锦江华府二期1号楼",
+        "show_address": "锦江华府二期1号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "7",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州贵定县锦江华府二期1号楼",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          }
+        ],
+        "id": "5735bf67bf20c7059d4e05e22b294323",
+        "lng": "107.236832",
+        "lat": "26.58148",
+        "doc_id": "90000052_5735bf67bf20c7059d4e05e22b294323",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "都匀市": [
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "都匀市",
+        "county": "",
+        "street": "沙包堡街道",
+        "community": "伯爵花园",
+        "show_address": "伯爵花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州都匀市沙包堡街道伯爵花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "69712d5eabb1ff615de7b794e4a738af",
+        "lng": "107.518028",
+        "lat": "26.27714",
+        "doc_id": "90000052_69712d5eabb1ff615de7b794e4a738af",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "都匀市",
+        "middle_address": "庆云宫路68号",
+        "show_address": "广惠街道办事处",
+        "full_address": "贵州省黔南布依族苗族自治州都匀市庆云宫路68号广惠街道办事处",
+        "id": "067f096480d42ba66e3fe50ced68e9f2",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "107.51805",
+        "lat": "26.24592",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "惠水县": [
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "惠水县",
+        "county": "",
+        "street": "涟江街道",
+        "community": "钻石城",
+        "show_address": "钻石城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州惠水县涟江街道钻石城",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2020年2月11日0—15时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200211_48421136.html"
+          },
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          }
+        ],
+        "id": "a97be4fb35b9c19d02e7f5b2751622c4",
+        "lng": "106.651154",
+        "lat": "26.120251",
+        "doc_id": "90000052_a97be4fb35b9c19d02e7f5b2751622c4",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "长顺县": [
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "长顺县",
+        "county": "",
+        "street": "长寨街道",
+        "community": "威远社区新坝村平寨",
+        "show_address": "威远社区新坝村平寨",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔南布依族苗族自治州长顺县长寨街道威远社区新坝村平寨",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Z82Xb0HFi6Q3Pfi_3LnF5w"
+          }
+        ],
+        "id": "372d7a03bde4d914015a0f564e15a4fd",
+        "lng": "106.5",
+        "lat": "26.011225",
+        "doc_id": "90000052_372d7a03bde4d914015a0f564e15a4fd",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "龙里县": [
+      {
+        "province": "贵州省",
+        "city": "黔南布依族苗族自治州",
+        "district": "龙里县",
+        "middle_address": "贵龙大道与贵龙纵线交汇处",
+        "show_address": "茵特拉根小镇别墅",
+        "full_address": "贵州省黔南布依族苗族自治州龙里县贵龙大道与贵龙纵线交汇处茵特拉根小镇别墅",
+        "id": "5c1d1e66de9ab97c8407a4b702aac0a6",
+        "article_source": [
+          {
+            "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+            "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200214",
+        "lng": "106.862251",
+        "lat": "26.480921",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "黔西南布依族苗族自治州": {
+    "义龙新区": [
+      {
+        "province": "贵州省",
+        "city": "黔西南布依族苗族自治州",
+        "district": "义龙新区",
+        "county": "",
+        "street": "顶效街道",
+        "community": "",
+        "show_address": "顶效街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔西南布依族苗族自治州义龙新区顶效街道",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200204_47017878.html"
+          }
+        ],
+        "id": "a3a20d13588e3d96025ed1b53f939be0",
+        "lng": "105.002922",
+        "lat": "25.156481",
+        "doc_id": "90000052_a3a20d13588e3d96025ed1b53f939be0",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "兴仁市": [
+      {
+        "province": "贵州省",
+        "city": "黔西南布依族苗族自治州",
+        "district": "兴仁市",
+        "county": "兴仁市",
+        "street": "",
+        "community": "",
+        "show_address": "杨柳井村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省黔西南布依族苗族自治州兴仁市波阳镇杨柳井村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日12—24时贵州省新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200208_47776446.html"
+          }
+        ],
+        "id": "ec8acb39468ce7bad7c7898ba47e4376",
+        "lng": "105.369232",
+        "lat": "25.73991",
+        "doc_id": "90000052_ec8acb39468ce7bad7c7898ba47e4376",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "铜仁市": {
+    "江口县": [
+      {
+        "province": "贵州省",
+        "city": "铜仁市",
+        "district": "江口县",
+        "county": "江口县",
+        "street": "",
+        "community": "",
+        "show_address": "鱼良溪村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省铜仁市江口县闵孝镇鱼良溪村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日12—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200209_47967133.html"
+          }
+        ],
+        "id": "288803f1e04785d7e58d09b3d7307f33",
+        "lng": "108.713661",
+        "lat": "27.657379",
+        "doc_id": "90000052_288803f1e04785d7e58d09b3d7307f33",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "玉屏县": [
+      {
+        "province": "贵州省",
+        "city": "铜仁市",
+        "district": "玉屏县",
+        "county": "玉屏县",
+        "street": "",
+        "community": "",
+        "show_address": "金竹村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省铜仁市玉屏县田坪镇金竹村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200210_48158684.html"
+          }
+        ],
+        "id": "9963a951d301fbd0559118d0e88cab5d",
+        "lng": "109.058884",
+        "lat": "27.410721",
+        "doc_id": "90000052_9963a951d301fbd0559118d0e88cab5d",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "碧江区": [
+      {
+        "province": "贵州省",
+        "city": "铜仁市",
+        "district": "碧江区",
+        "county": "",
+        "street": "河西街道",
+        "community": "",
+        "show_address": "河西街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "贵州省铜仁市碧江区河西街道",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月11日14—24时贵州省新型冠状病毒肺炎疫情情况",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200212_48539710.html"
+          }
+        ],
+        "id": "df17864a774d9d397b3a91220142d58c",
+        "lng": "109.179024",
+        "lat": "27.72212",
+        "doc_id": "90000052_df17864a774d9d397b3a91220142d58c",
+        "source": [
+          {
+            "name": "贵州省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

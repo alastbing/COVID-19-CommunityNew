@@ -1,0 +1,684 @@
+{"陕西省": {
+  "西安市": {
+    "鄠邑区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "鄠邑区",
+        "middle_address": "",
+        "show_address": "西安医学高等专科学校附属医院",
+        "full_address": "陕西省西安市鄠邑区西安医学高等专科学校附属医院",
+        "id": "77eb28dd7db3f4065025a409353eff23",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "108.727028",
+        "lat": "34.108871",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "鄠邑区",
+        "county": "",
+        "street": "余下街道",
+        "community": "惠南小区",
+        "show_address": "惠南小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市鄠邑区余下街道惠南小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "鄠邑区新型冠状病毒感染肺炎防控情况通报",
+            "url": "http://www.xahy.gov.cn/info/iList.jsp?&tm_id=49&info_id=85693"
+          }
+        ],
+        "id": "e5fb6a8e475d731883700935b603aac5",
+        "lng": "108.627968",
+        "lat": "34.055893",
+        "doc_id": "90000052_e5fb6a8e475d731883700935b603aac5",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "鄠邑区",
+        "county": "",
+        "street": "玉蝉街办",
+        "community": "曲抱村",
+        "show_address": "曲抱村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市鄠邑区玉蝉街办曲抱村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "鄠邑区新型冠状病毒感染肺炎防控情况通报",
+            "url": "http://www.xahy.gov.cn/info/iList.jsp?&tm_id=49&info_id=85693"
+          }
+        ],
+        "id": "6aa5032269505f89a9696fc214935fb0",
+        "lng": "108.570961",
+        "lat": "34.095181",
+        "doc_id": "90000052_6aa5032269505f89a9696fc214935fb0",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "碑林区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "碑林区",
+        "middle_address": "",
+        "show_address": "陕西省友谊医院",
+        "full_address": "陕西省西安市碑林区陕西省友谊医院",
+        "id": "1a91dde414d674a6e808a092188a5974",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "108.927246",
+        "lat": "34.241795",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "碑林区",
+        "middle_address": "",
+        "show_address": "西安碑林红缨医院",
+        "full_address": "陕西省西安市碑林区西安碑林红缨医院",
+        "id": "babf3efcc999839ff61d6d148e2b28bd",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "108.925362",
+        "lat": "34.235371",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "碑林区",
+        "middle_address": "",
+        "show_address": "西安市碑林区",
+        "full_address": "陕西省西安市碑林区西安市碑林区",
+        "id": "9dc6be3525c93f1e24468acbfa0a4130",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "108.93425",
+        "lat": "34.23053",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "碑林区",
+        "county": "",
+        "street": "玄风桥4号",
+        "community": "",
+        "show_address": "玄风桥4号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市碑林区玄风桥4号",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "西安市新增确诊病例基本情况",
+            "url": "https://mp.weixin.qq.com/s/NFgUBvyo3ys_gREOY7-mmg"
+          }
+        ],
+        "id": "33a9cac3bcec0c25c700a8e55bf310b8",
+        "lng": "108.96559",
+        "lat": "34.25616",
+        "doc_id": "90000052_33a9cac3bcec0c25c700a8e55bf310b8",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "碑林区",
+        "county": "",
+        "street": "东关正街109号",
+        "community": "",
+        "show_address": "东关正街109号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市碑林区东关正街109号",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "西安市新增确诊病例基本情况",
+            "url": "https://mp.weixin.qq.com/s/NFgUBvyo3ys_gREOY7-mmg"
+          }
+        ],
+        "id": "d480c05167bd35f8aabf82e149c99dae",
+        "lng": "108.97568",
+        "lat": "34.25969",
+        "doc_id": "90000052_d480c05167bd35f8aabf82e149c99dae",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "灞桥区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "灞桥区",
+        "county": "",
+        "street": "米秦路",
+        "community": "",
+        "show_address": "米秦路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市灞桥区米秦路",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "id": "0b8f08809490327dc9bea7b4b968117b",
+        "lng": "109.00164",
+        "lat": "34.29406",
+        "doc_id": "90000052_0b8f08809490327dc9bea7b4b968117b",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "灞桥区",
+        "middle_address": "",
+        "show_address": "十里铺董家门村",
+        "full_address": "陕西省西安市灞桥区十里铺董家门村",
+        "id": "018200cbf4f59c54bf7235382d3b0de3",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "109.01693",
+        "lat": "34.292091",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "灞桥区",
+        "middle_address": "",
+        "show_address": "双建酒店",
+        "full_address": "陕西省西安市灞桥区双建酒店",
+        "id": "6efe0a0f5b6521c2d0611ba787e1a1ad",
+        "article_source": [
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473973976565277"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "109.061569",
+        "lat": "34.282101",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "灞桥区",
+        "middle_address": "",
+        "show_address": "唐都医院",
+        "full_address": "陕西省西安市灞桥区唐都医院",
+        "id": "5ecfd2c2a4392e9054c50bbdbba68c57",
+        "article_source": [
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473973976565277"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "109.062294",
+        "lat": "34.285213",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "高新区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "高新区",
+        "county": "",
+        "street": "丈八三路",
+        "community": "",
+        "show_address": "丈八三路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "陕西省西安市高新区丈八三路",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "id": "990213e36ca30ddf38d83613580a191a",
+        "lng": "108.88913",
+        "lat": "34.195202",
+        "doc_id": "90000052_990213e36ca30ddf38d83613580a191a",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "长安区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "长安区",
+        "middle_address": "",
+        "show_address": "西安市胸科医院",
+        "full_address": "陕西省西安市长安区西安市胸科医院",
+        "id": "7bf6a8629bfa5de0de506089244cef50",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          },
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          },
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "3",
+        "release_date": "20200217",
+        "lng": "109.005829",
+        "lat": "34.17643",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "雁塔区": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "雁塔区",
+        "middle_address": "丈八三路",
+        "show_address": "宁心堂大药房",
+        "full_address": "陕西省西安市雁塔区丈八三路宁心堂大药房",
+        "id": "311eb977c78e6d32901c4a9da98c1ba1",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "108.87571",
+        "lat": "34.19693",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "雁塔区",
+        "middle_address": "",
+        "show_address": "521医院",
+        "full_address": "陕西省西安市雁塔区521医院",
+        "id": "612f3e2b2e7496591fa60178ad3ad28a",
+        "article_source": [
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473607700865113"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "108.94878",
+        "lat": "34.22259",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "雁塔区",
+        "middle_address": "",
+        "show_address": "陕西省传染病院",
+        "full_address": "陕西省西安市雁塔区陕西省传染病院",
+        "id": "1c2cd710fb23035f0ae2699b85f8aacd",
+        "article_source": [
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473607700865113"
+          },
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473973976565277"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200220",
+        "lng": "108.942322",
+        "lat": "34.196556",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "雁塔区",
+        "middle_address": "",
+        "show_address": "西安市第八医院",
+        "full_address": "陕西省西安市雁塔区西安市第八医院",
+        "id": "3d84289a3405de3bdfe255ea9c9b381c",
+        "article_source": [
+          {
+            "title": "西安新增2例确诊病例 患者活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/79xpZIM6QqsP0Wf1MzOeEQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "108.942322",
+        "lat": "34.196556",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "户县": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "户县",
+        "middle_address": "",
+        "show_address": "西安医学高等专科学校附属医院",
+        "full_address": "陕西省西安市户县西安医学高等专科学校附属医院",
+        "id": "8b84dc871a44e43c1584b5506ed3291b",
+        "article_source": [
+          {
+            "title": "联防联控，西安在行动",
+            "url": "https://m.weibo.cn/3757167087/4473973976565277"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200220",
+        "lng": "108.727028",
+        "lat": "34.108871",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "咸阳市": [
+      {
+        "province": "陕西省",
+        "city": "西安市",
+        "district": "咸阳市",
+        "middle_address": "渭城区",
+        "show_address": "西安咸阳机场",
+        "full_address": "陕西省西安市咸阳市渭城区西安咸阳机场",
+        "id": "9781f2d86e427d149404da7372773ddf",
+        "article_source": [
+          {
+            "title": "全市疫情确诊病例追溯",
+            "url": "https://mp.weixin.qq.com/s/_ZKLrYIa86y4Ny07KQJOfQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200209",
+        "lng": "108.761269",
+        "lat": "34.43515",
+        "source": [
+          {
+            "name": "西安发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "安康市": {
+    "旬阳县": [
+      {
+        "province": "陕西省",
+        "city": "安康市",
+        "district": "旬阳县",
+        "middle_address": "",
+        "show_address": "旬阳县医院",
+        "full_address": "陕西省安康市旬阳县旬阳县医院",
+        "id": "6c5da1ef81e24f53fba90960fa691061",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "109.366341",
+        "lat": "32.8335",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "咸阳市": {
+    "秦都区": [
+      {
+        "province": "陕西省",
+        "city": "咸阳市",
+        "district": "秦都区",
+        "middle_address": "",
+        "show_address": "咸阳市中心医院",
+        "full_address": "陕西省咸阳市秦都区咸阳市中心医院",
+        "id": "b1196e21817a780f6c9f762c41ea8813",
+        "article_source": [
+          {
+            "title": "陕西新增4例新冠肺炎 确诊病例累计240例",
+            "url": "http://sxwjw.shaanxi.gov.cn/art/2020/2/17/art_9_68076.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "108.727699",
+        "lat": "34.337662",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

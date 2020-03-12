@@ -1,0 +1,28 @@
+{"广州省": {
+  "深圳市": {
+    "龙华区": [
+      {
+        "province": "广州省",
+        "city": "深圳市",
+        "district": "龙华区",
+        "middle_address": "民治街道北站社区致远中路",
+        "show_address": "深圳北火车站",
+        "full_address": "广州省深圳市龙华区民治街道北站社区致远中路深圳北火车站",
+        "id": "185e8271147e6de830ef98ccb6b71738",
+        "article_source": [
+          {
+            "title": "全市疫情确诊病例追溯",
+            "url": "https://mp.weixin.qq.com/s/_ZKLrYIa86y4Ny07KQJOfQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200208",
+        "lng": "114.032318",
+        "lat": "22.609335",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

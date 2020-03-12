@@ -1,0 +1,4840 @@
+{"上海市": {
+  "上海市": {
+    "嘉定区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "金园一路1118弄",
+        "show_address": "金园一路1118弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区江桥镇金园一路1118弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "5512635c49f000bb226df613af5d13db",
+        "lng": "121.31561",
+        "lat": "31.24792",
+        "doc_id": "90000052_5512635c49f000bb226df613af5d13db",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "首创旭辉城",
+        "show_address": "首创旭辉城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区首创旭辉城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "69ba766efa2e0934b1c7169932cc6180",
+        "lng": "121.200417",
+        "lat": "31.413019",
+        "doc_id": "90000052_69ba766efa2e0934b1c7169932cc6180",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "华润中央公园",
+        "show_address": "华润中央公园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区华润中央公园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "01d1740490deec145a1fc6bb353fcba4",
+        "lng": "121.317062",
+        "lat": "31.311838",
+        "doc_id": "90000052_01d1740490deec145a1fc6bb353fcba4",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "光明D9空间",
+        "show_address": "光明D9空间",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区光明D9空间",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "c51fa9c80238e7be0f54ddd1f037c2e1",
+        "lng": "121.264946",
+        "lat": "31.347109",
+        "doc_id": "90000052_c51fa9c80238e7be0f54ddd1f037c2e1",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "发祥路89号",
+        "show_address": "发祥路89号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区发祥路89号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "89311b828c52631bd16e634b6fc721a0",
+        "lng": "121.33683",
+        "lat": "31.24547",
+        "doc_id": "90000052_89311b828c52631bd16e634b6fc721a0",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "永辉超市（嘉定宝龙广场店）",
+        "show_address": "永辉超市（嘉定宝龙广场店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区永辉超市（嘉定宝龙广场店）",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "4030e7018fb49397877b23de19cda840",
+        "lng": "121.260529",
+        "lat": "31.345648",
+        "doc_id": "90000052_4030e7018fb49397877b23de19cda840",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "双佳翠庭",
+        "show_address": "双佳翠庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区双佳翠庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "c42aba91cac0333ffd2533d3ced77e4e",
+        "lng": "121.31324",
+        "lat": "31.24744",
+        "doc_id": "90000052_c42aba91cac0333ffd2533d3ced77e4e",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "嘉亭荟城市生活广场",
+        "show_address": "嘉亭荟城市生活广场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区嘉亭荟城市生活广场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          },
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          }
+        ],
+        "id": "2a62eaf3e2a7e483f74311b36da104ee",
+        "lng": "121.161552",
+        "lat": "31.287861",
+        "doc_id": "90000052_2a62eaf3e2a7e483f74311b36da104ee",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "嘉定区",
+        "county": "",
+        "street": "",
+        "community": "龙湖天璞小区",
+        "show_address": "龙湖天璞小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市嘉定区龙湖天璞小区",
+        "release_date": "20200223",
+        "article_source": [
+          {
+            "title": "上海公布2月22日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/Yf5f_f7EldzjCZwuJRJNrw"
+          }
+        ],
+        "id": "20a6e9857a4794a42e6bfec105da944a",
+        "lng": "121.32473",
+        "lat": "31.271049",
+        "doc_id": "90000052_20a6e9857a4794a42e6bfec105da944a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "宝山区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "海尚菊苑",
+        "show_address": "海尚菊苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区海尚菊苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "0fe10b7cd133ec91ea0aa60e7e452965",
+        "lng": "121.36705",
+        "lat": "31.354639",
+        "doc_id": "90000052_0fe10b7cd133ec91ea0aa60e7e452965",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "采菊苑",
+        "show_address": "采菊苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区采菊苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "53a070262f319c9983d17b138ea10fcd",
+        "lng": "121.366638",
+        "lat": "31.34984",
+        "doc_id": "90000052_53a070262f319c9983d17b138ea10fcd",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "共康雅苑（二期）",
+        "show_address": "共康雅苑（二期）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区共康雅苑（二期）",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "2f57f06467a633352e17c21bcc37487a",
+        "lng": "121.42256",
+        "lat": "31.33",
+        "doc_id": "90000052_2f57f06467a633352e17c21bcc37487a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "南秀雅苑",
+        "show_address": "南秀雅苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区南秀雅苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          },
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "8cce957dd2d024cf7a3078630697e44c",
+        "lng": "121.392418",
+        "lat": "31.29599",
+        "doc_id": "90000052_8cce957dd2d024cf7a3078630697e44c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "四季绿城",
+        "show_address": "四季绿城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区四季绿城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月9日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200210/6874c20ccc0d4e7bb205ee61a8d5fbe7.html"
+          }
+        ],
+        "id": "ef453516190ac4d519e01289d15605f9",
+        "lng": "121.47599",
+        "lat": "31.33058",
+        "doc_id": "90000052_ef453516190ac4d519e01289d15605f9",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "呼玛三村",
+        "show_address": "呼玛三村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区呼玛三村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "cb49c22c7be554e77b8a79c5904679f8",
+        "lng": "121.44062",
+        "lat": "31.339899",
+        "doc_id": "90000052_cb49c22c7be554e77b8a79c5904679f8",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "呼玛集贸市场",
+        "show_address": "呼玛集贸市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区呼玛集贸市场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "631faec216ffc46809534ce9c4b86966",
+        "lng": "121.449509",
+        "lat": "31.339861",
+        "doc_id": "90000052_631faec216ffc46809534ce9c4b86966",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "美罗家园年吉苑",
+        "show_address": "美罗家园年吉苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区美罗家园年吉苑",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          },
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "b8c31d2c7ff89b537dd11a12919b2975",
+        "lng": "121.34621",
+        "lat": "31.40254",
+        "doc_id": "90000052_b8c31d2c7ff89b537dd11a12919b2975",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "2358快时尚百货（上海美兰湖店）",
+        "show_address": "2358快时尚百货（上海美兰湖店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区2358快时尚百货（上海美兰湖店）",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "ca123c68edbdeff2ed50243ec2870aa1",
+        "lng": "121.352226",
+        "lat": "31.40645",
+        "doc_id": "90000052_ca123c68edbdeff2ed50243ec2870aa1",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "世纪联华大卖场（上海罗店）",
+        "show_address": "世纪联华大卖场（上海罗店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区世纪联华大卖场（上海罗店）",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          },
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "61720b699ef55641366de6590d32c2d1",
+        "lng": "121.35078",
+        "lat": "31.40284",
+        "doc_id": "90000052_61720b699ef55641366de6590d32c2d1",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "京东便利店（美丹路222号113室）",
+        "show_address": "京东便利店（美丹路222号113室）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区京东便利店（美丹路222号113室）",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "48b8633d48f7f5cc1bda9f8a73b1dd4e",
+        "lng": "121.35152",
+        "lat": "31.40185",
+        "doc_id": "90000052_48b8633d48f7f5cc1bda9f8a73b1dd4e",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "上海新星集贸市场",
+        "show_address": "上海新星集贸市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区上海新星集贸市场",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "上海公布2月15日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/XM3rDaC-yFX9tS_2YdhkHA"
+          }
+        ],
+        "id": "20a197f115afc5c6d7ba5e07389a95ba",
+        "lng": "121.46006",
+        "lat": "31.334578",
+        "doc_id": "90000052_20a197f115afc5c6d7ba5e07389a95ba",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "宝山区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "泗塘五村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市宝山区泗塘五村",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "上海公布2月15日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/XM3rDaC-yFX9tS_2YdhkHA"
+          }
+        ],
+        "id": "5363044d01c1260464fd4f7527a17049",
+        "lng": "121.461594",
+        "lat": "31.333349",
+        "doc_id": "90000052_5363044d01c1260464fd4f7527a17049",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "徐汇区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "安吉斯铭汽车销售服务有限公司",
+        "show_address": "安吉斯铭汽车销售服务有限公司",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区安吉斯铭汽车销售服务有限公司",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "2361cc7b31b426f4b7897a1981d3ae21",
+        "lng": "121.454147",
+        "lat": "31.193081",
+        "doc_id": "90000052_2361cc7b31b426f4b7897a1981d3ae21",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "枫林路街道",
+        "community": "东安二村",
+        "show_address": "东安二村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区枫林路街道东安二村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "b3a23425cd38337122877b4c4ac0e858",
+        "lng": "121.454437",
+        "lat": "31.18749",
+        "doc_id": "90000052_b3a23425cd38337122877b4c4ac0e858",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "炎虹路76弄",
+        "show_address": "炎虹路76弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区炎虹路76弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "a470ac6565c542ec046816756db54886",
+        "lng": "121.464785",
+        "lat": "31.2026",
+        "doc_id": "90000052_a470ac6565c542ec046816756db54886",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "地铁大木桥路站",
+        "show_address": "地铁大木桥路站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区地铁大木桥路站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "e1e4a90dbabf0f8b5a12f8209c59bbbb",
+        "lng": "121.465134",
+        "lat": "31.202801",
+        "doc_id": "90000052_e1e4a90dbabf0f8b5a12f8209c59bbbb",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "地铁陕西南路站",
+        "show_address": "地铁陕西南路站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区地铁陕西南路站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "32011a4d4a7177dcfa7aeb4a86fb9286",
+        "lng": "121.45681",
+        "lat": "31.214729",
+        "doc_id": "90000052_32011a4d4a7177dcfa7aeb4a86fb9286",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "尚海湾豪庭",
+        "show_address": "尚海湾豪庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区尚海湾豪庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月9日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200210/6874c20ccc0d4e7bb205ee61a8d5fbe7.html"
+          }
+        ],
+        "id": "a3d2fc48f1f70db13995bf72d2777d8a",
+        "lng": "121.459511",
+        "lat": "31.179001",
+        "doc_id": "90000052_a3d2fc48f1f70db13995bf72d2777d8a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "上中路51弄",
+        "show_address": "上中路51弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区上中路51弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "4e064c85ece7c6edd0e216d4caa55f2a",
+        "lng": "121.433869",
+        "lat": "31.135545",
+        "doc_id": "90000052_4e064c85ece7c6edd0e216d4caa55f2a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "凯滨路19弄",
+        "show_address": "凯滨路19弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区凯滨路19弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "73c769b037329ff41ce3ac57a937ff4b",
+        "lng": "121.459909",
+        "lat": "31.179178",
+        "doc_id": "90000052_73c769b037329ff41ce3ac57a937ff4b",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "宾阳路62弄",
+        "show_address": "宾阳路62弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区宾阳路62弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "fbe0cc2e52ef74a413b9716c8f681f18",
+        "lng": "121.438126",
+        "lat": "31.164425",
+        "doc_id": "90000052_fbe0cc2e52ef74a413b9716c8f681f18",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "正阳路36号",
+        "show_address": "正阳路36号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区正阳路36号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "39eb8229d8d6f6a8dcab8874e60da1e4",
+        "lng": "121.4637",
+        "lat": "31.20075",
+        "doc_id": "90000052_39eb8229d8d6f6a8dcab8874e60da1e4",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "永嘉路356弄",
+        "show_address": "永嘉路356弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区永嘉路356弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "f07d7aa768e57be0dbedb52932686635",
+        "lng": "121.456399",
+        "lat": "31.209043",
+        "doc_id": "90000052_f07d7aa768e57be0dbedb52932686635",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "漕东支路218弄",
+        "show_address": "漕东支路218弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区漕东支路218弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "9b54d8c61c1c14f118a5f63d2c7ac108",
+        "lng": "121.437403",
+        "lat": "31.175362",
+        "doc_id": "90000052_9b54d8c61c1c14f118a5f63d2c7ac108",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "科苑新村",
+        "show_address": "科苑新村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区科苑新村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "e12ce5ab6ddc0ff5f208015cd7a4a68a",
+        "lng": "121.433052",
+        "lat": "31.16309",
+        "doc_id": "90000052_e12ce5ab6ddc0ff5f208015cd7a4a68a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "罗秀路620弄",
+        "show_address": "罗秀路620弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区罗秀路620弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          },
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "a49502c9ad2609d7df6ea8446d93e78c",
+        "lng": "121.43623",
+        "lat": "31.13266",
+        "doc_id": "90000052_a49502c9ad2609d7df6ea8446d93e78c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "老沪闵路790弄",
+        "show_address": "老沪闵路790弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区老沪闵路790弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          },
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "79ca308796d6d4287911777477ff59c4",
+        "lng": "121.431809",
+        "lat": "31.139969",
+        "doc_id": "90000052_79ca308796d6d4287911777477ff59c4",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "钦州南路917弄",
+        "show_address": "钦州南路917弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区钦州南路917弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "1c5bee25a01e4a56a622469028247e54",
+        "lng": "121.412447",
+        "lat": "31.155402",
+        "doc_id": "90000052_1c5bee25a01e4a56a622469028247e54",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "钦州路108弄",
+        "show_address": "钦州路108弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区钦州路108弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "e9ff8b5e3cff38a88efb46f272d4f203",
+        "lng": "121.43063",
+        "lat": "31.16333",
+        "doc_id": "90000052_e9ff8b5e3cff38a88efb46f272d4f203",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "龙吴路1343弄",
+        "show_address": "龙吴路1343弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区龙吴路1343弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "ad6139f28486bb83f89c4c6e79f36783",
+        "lng": "121.450792",
+        "lat": "31.138076",
+        "doc_id": "90000052_ad6139f28486bb83f89c4c6e79f36783",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "梅陇汽车站“枫梅线”站点",
+        "show_address": "梅陇汽车站“枫梅线”站点",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区梅陇汽车站“枫梅线”站点",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "8026a83f0846febf8b9677bbef852f64",
+        "lng": "121.423286",
+        "lat": "31.131325",
+        "doc_id": "90000052_8026a83f0846febf8b9677bbef852f64",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "佳安公寓",
+        "show_address": "佳安公寓",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区佳安公寓",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "720e859ad715e250b4d0529df9fa2c3a",
+        "lng": "121.446693",
+        "lat": "31.189711",
+        "doc_id": "90000052_720e859ad715e250b4d0529df9fa2c3a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "家乐福（斜土路店）",
+        "show_address": "家乐福（斜土路店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区家乐福（斜土路店）",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "99c100e397146a9ccf425b31264ae421",
+        "lng": "121.450920",
+        "lat": "31.193891",
+        "doc_id": "90000052_99c100e397146a9ccf425b31264ae421",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "宏润国际花园",
+        "show_address": "宏润国际花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区宏润国际花园",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "cbf97759c12b117086f5b2a0320efa24",
+        "lng": "121.438828",
+        "lat": "31.174971",
+        "doc_id": "90000052_cbf97759c12b117086f5b2a0320efa24",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "",
+        "community": "田林东路4114弄",
+        "show_address": "田林东路4114弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区田林东路4114弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海市徐汇区公布确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/vkaVcXlFPR3YTpj-c7i6ow"
+          }
+        ],
+        "id": "e003fabbfd4b302c489c1d00a2ef91b0",
+        "lng": "121.432716",
+        "lat": "31.174721",
+        "doc_id": "90000052_e003fabbfd4b302c489c1d00a2ef91b0",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "徐汇区",
+        "county": "",
+        "street": "桂林路",
+        "community": "沃尔玛",
+        "show_address": "沃尔玛",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市徐汇区桂林路沃尔玛",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "上海公布2月17日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/bd-k4x7mHeD_E3F6mbSX9A"
+          }
+        ],
+        "id": "6c6cfd69b2d1c2af0075767f6a5bfaee",
+        "lng": "121.417007",
+        "lat": "31.170956",
+        "doc_id": "90000052_6c6cfd69b2d1c2af0075767f6a5bfaee",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "杨浦区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "定海路街道",
+        "community": "宁武路218弄",
+        "show_address": "宁武路218弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区定海路街道宁武路218弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "7107583ecff761ae4aef6ae36e32ea5b",
+        "lng": "121.54556",
+        "lat": "31.26775",
+        "doc_id": "90000052_7107583ecff761ae4aef6ae36e32ea5b",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "",
+        "community": "东森花园",
+        "show_address": "东森花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区东森花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "cc1c9a7b452cf58a6eefdd46c546bec7",
+        "lng": "121.524101",
+        "lat": "31.327641",
+        "doc_id": "90000052_cc1c9a7b452cf58a6eefdd46c546bec7",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "",
+        "community": "凤城花园",
+        "show_address": "凤城花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区凤城花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "5cc92b6f59e944623a875a8cd7fad1ba",
+        "lng": "121.52076",
+        "lat": "31.27943",
+        "doc_id": "90000052_5cc92b6f59e944623a875a8cd7fad1ba",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "",
+        "community": "市京集贸市场",
+        "show_address": "市京集贸市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区市京集贸市场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "fb7e332bac1efdc2f368292189003f9d",
+        "lng": "121.523849",
+        "lat": "31.322269",
+        "doc_id": "90000052_fb7e332bac1efdc2f368292189003f9d",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "",
+        "community": "新江湾城悠方购物中心",
+        "show_address": "新江湾城悠方购物中心",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区新江湾城悠方购物中心",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "10eb83d6b70a0fbd4336969f1527a239",
+        "lng": "121.508507",
+        "lat": "31.329967",
+        "doc_id": "90000052_10eb83d6b70a0fbd4336969f1527a239",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "",
+        "community": "上海嫩原粮油批发市场",
+        "show_address": "上海嫩原粮油批发市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区上海嫩原粮油批发市场",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "0dc723a25424db916f758b9d524390fc",
+        "lng": "121.493469",
+        "lat": "31.29948",
+        "doc_id": "90000052_0dc723a25424db916f758b9d524390fc",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "杨浦区",
+        "county": "",
+        "street": "邯郸路20弄",
+        "community": "",
+        "show_address": "邯郸路20弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市杨浦区邯郸路20弄",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "58c4b9b94699a695c105a1854c4b0079",
+        "lng": "121.49049",
+        "lat": "31.29512",
+        "doc_id": "90000052_58c4b9b94699a695c105a1854c4b0079",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "松江区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "沃天百联生活超市(新桥店)",
+        "show_address": "沃天百联生活超市(新桥店)",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区沃天百联生活超市(新桥店)",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "d15849df4146d08b9bc77ee6bcb5817d",
+        "lng": "121.316254",
+        "lat": "31.066111",
+        "doc_id": "90000052_d15849df4146d08b9bc77ee6bcb5817d",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "华兴小区",
+        "show_address": "华兴小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区新桥镇华兴小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "6cd7a9562aa67da729830e0105e71160",
+        "lng": "121.336342",
+        "lat": "31.06971",
+        "doc_id": "90000052_6cd7a9562aa67da729830e0105e71160",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "久阳文华府邸",
+        "show_address": "久阳文华府邸",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区久阳文华府邸",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "83664ec3b76775df4420e3c1e42e06e5",
+        "lng": "121.193558",
+        "lat": "31.041071",
+        "doc_id": "90000052_83664ec3b76775df4420e3c1e42e06e5",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "乐都西路1636弄",
+        "show_address": "乐都西路1636弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区乐都西路1636弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "261ccb3c5100bf0a2b81ca7d76b27f5d",
+        "lng": "121.187535",
+        "lat": "31.013995",
+        "doc_id": "90000052_261ccb3c5100bf0a2b81ca7d76b27f5d",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "亭中小区",
+        "show_address": "亭中小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区亭中小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "0ea2e88f504a19402a957a4e3683b75f",
+        "lng": "121.322739",
+        "lat": "31.127291",
+        "doc_id": "90000052_0ea2e88f504a19402a957a4e3683b75f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "地铁九号线九亭站",
+        "show_address": "地铁九号线九亭站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区地铁九号线九亭站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "825da4268384fcc4fd14d111f0cc22b0",
+        "lng": "121.31952",
+        "lat": "31.13737",
+        "doc_id": "90000052_825da4268384fcc4fd14d111f0cc22b0",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "松江大学城站",
+        "show_address": "松江大学城站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区松江大学城站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "b695f2e6ce272052ae3a0b5f8fd9ed57",
+        "lng": "121.232498",
+        "lat": "31.053949",
+        "doc_id": "90000052_b695f2e6ce272052ae3a0b5f8fd9ed57",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "新凯家园一期",
+        "show_address": "新凯家园一期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区新凯家园一期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "660cad058b7329bedb35a7d4c4d3a1e7",
+        "lng": "121.23413",
+        "lat": "31.10654",
+        "doc_id": "90000052_660cad058b7329bedb35a7d4c4d3a1e7",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "松江区",
+        "county": "",
+        "street": "",
+        "community": "翔昆苑",
+        "show_address": "翔昆苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市松江区翔昆苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "ee4322dc757e76e9bc11b921f528d8a8",
+        "lng": "121.121811",
+        "lat": "31.028481",
+        "doc_id": "90000052_ee4322dc757e76e9bc11b921f528d8a8",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "浦东新区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "北蔡芳草路欧麦克KTV",
+        "show_address": "北蔡芳草路欧麦克KTV",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区北蔡芳草路欧麦克KTV",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "588854813c263544c3236cd4c2d4564a",
+        "lng": "121.55655",
+        "lat": "31.19357",
+        "doc_id": "90000052_588854813c263544c3236cd4c2d4564a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "惠南镇锦江之星宾馆",
+        "show_address": "惠南镇锦江之星宾馆",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区惠南镇锦江之星宾馆",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "31e7d2e694ee90774147a12993d26766",
+        "lng": "121.700043",
+        "lat": "31.199623",
+        "doc_id": "90000052_31e7d2e694ee90774147a12993d26766",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "新高苑",
+        "show_address": "新高苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区新高苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "43546b39c3c21433b31b9e173ed8b8bd",
+        "lng": "121.620445",
+        "lat": "31.29067",
+        "doc_id": "90000052_43546b39c3c21433b31b9e173ed8b8bd",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "民乐城兰丽苑",
+        "show_address": "民乐城兰丽苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区民乐城兰丽苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "92ce9b732381025eaff7d7b473a1d781",
+        "lng": "121.737137",
+        "lat": "31.064249",
+        "doc_id": "90000052_92ce9b732381025eaff7d7b473a1d781",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "金京路地铁站",
+        "show_address": "金京路地铁站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区金京路地铁站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "49d65ca3eba5d6da368dbf1ca1372a7a",
+        "lng": "121.61555",
+        "lat": "31.27993",
+        "doc_id": "90000052_49d65ca3eba5d6da368dbf1ca1372a7a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "阳光花城",
+        "show_address": "阳光花城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区阳光花城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "cf646c892359e1eddbe8bb762b9bf07a",
+        "lng": "121.622902",
+        "lat": "31.207769",
+        "doc_id": "90000052_cf646c892359e1eddbe8bb762b9bf07a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "上海贺普药业股份有限公司",
+        "show_address": "上海贺普药业股份有限公司",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区上海贺普药业股份有限公司",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "7e8573c3ac4ca40b3c2061f608a6762f",
+        "lng": "121.657356",
+        "lat": "31.320013",
+        "doc_id": "90000052_7e8573c3ac4ca40b3c2061f608a6762f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "汤臣豪园四期",
+        "show_address": "汤臣豪园四期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区汤臣豪园四期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "c35d60dadb4998d90ee4dd7de14d0ffe",
+        "lng": "121.585335",
+        "lat": "31.209278",
+        "doc_id": "90000052_c35d60dadb4998d90ee4dd7de14d0ffe",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "浦东国际机场",
+        "show_address": "浦东国际机场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区浦东国际机场",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          },
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          },
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          },
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "518d41c3144daae4bd8bfc3b669b185b",
+        "lng": "121.808853",
+        "lat": "31.151133",
+        "doc_id": "90000052_518d41c3144daae4bd8bfc3b669b185b",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "证大家园",
+        "show_address": "证大家园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区证大家园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "aac2333dfea838e5bf6ba5f0affb24f8",
+        "lng": "121.601028",
+        "lat": "31.282129",
+        "doc_id": "90000052_aac2333dfea838e5bf6ba5f0affb24f8",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "陆家嘴锦绣前城",
+        "show_address": "陆家嘴锦绣前城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区陆家嘴锦绣前城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "9ba8bd394761c8db2e39c6dc2a1c6e49",
+        "lng": "121.536339",
+        "lat": "31.19557",
+        "doc_id": "90000052_9ba8bd394761c8db2e39c6dc2a1c6e49",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "地杰国际城E欧泊时光",
+        "show_address": "地杰国际城E欧泊时光",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区地杰国际城E欧泊时光",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "c257162a2a2a532e958e785687b21172",
+        "lng": "121.576233",
+        "lat": "31.157391",
+        "doc_id": "90000052_c257162a2a2a532e958e785687b21172",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "绿地崴廉公寓",
+        "show_address": "绿地崴廉公寓",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区绿地崴廉公寓",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "f234b73d8b4734c37051180d99fff07d",
+        "lng": "121.61319",
+        "lat": "31.290377",
+        "doc_id": "90000052_f234b73d8b4734c37051180d99fff07d",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "绿林路51弄",
+        "show_address": "绿林路51弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区绿林路51弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "403aadb973a2f3ada5be2fe238357a5b",
+        "lng": "121.548279",
+        "lat": "31.173469",
+        "doc_id": "90000052_403aadb973a2f3ada5be2fe238357a5b",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "智选假日酒店（唐镇店）",
+        "show_address": "智选假日酒店（唐镇店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区智选假日酒店（唐镇店）",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          },
+          {
+            "title": "快讯！上海公布2月14日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/CygV9wzenHDT9z8uI_fbtw"
+          }
+        ],
+        "id": "5ed13bfd8d9feffe01783b1252a2f6a6",
+        "lng": "121.653328",
+        "lat": "31.212732",
+        "doc_id": "90000052_5ed13bfd8d9feffe01783b1252a2f6a6",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "长达佳苑",
+        "show_address": "长达佳苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区长达佳苑",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          },
+          {
+            "title": "上海公布2月17日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/bd-k4x7mHeD_E3F6mbSX9A"
+          }
+        ],
+        "id": "2af7345afaef345c435b4db7c80bebc6",
+        "lng": "121.577461",
+        "lat": "31.02553",
+        "doc_id": "90000052_2af7345afaef345c435b4db7c80bebc6",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "长达佳苑",
+        "show_address": "长达佳苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市涌东新区长达佳苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          }
+        ],
+        "id": "e0728dddaf104c79edff758ea451880c",
+        "lng": "121.577461",
+        "lat": "31.02553",
+        "doc_id": "90000052_e0728dddaf104c79edff758ea451880c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "周浦镇",
+        "street": "",
+        "community": "",
+        "show_address": "界浜村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区周浦镇界浜村",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "上海公布2月15日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/XM3rDaC-yFX9tS_2YdhkHA"
+          }
+        ],
+        "id": "cdf63fcd08e8ea29bbee32764c694fbd",
+        "lng": "121.649307",
+        "lat": "31.11274",
+        "doc_id": "90000052_cdf63fcd08e8ea29bbee32764c694fbd",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "大润发（康桥店）",
+        "show_address": "大润发（康桥店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区大润发（康桥店）",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "上海公布2月15日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/XM3rDaC-yFX9tS_2YdhkHA"
+          }
+        ],
+        "id": "fab6c740950215abd255606a4adcd166",
+        "lng": "121.578941",
+        "lat": "31.13501",
+        "doc_id": "90000052_fab6c740950215abd255606a4adcd166",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "",
+        "community": "玉兰香苑",
+        "show_address": "玉兰香苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区玉兰香苑",
+        "release_date": "20200303",
+        "article_source": [
+          {
+            "title": "上海公布3月2日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/i3xhmn1pJ_E0bMM3zakDDA"
+          }
+        ],
+        "id": "1bf33d264632f8fb1178b96f271c8d05",
+        "lng": "121.633293",
+        "lat": "31.201309",
+        "doc_id": "90000052_1bf33d264632f8fb1178b96f271c8d05",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "浦东新区",
+        "county": "",
+        "street": "益江路",
+        "community": "联华超市",
+        "show_address": "联华超市",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市浦东新区益江路联华超市",
+        "release_date": "20200303",
+        "article_source": [
+          {
+            "title": "上海公布3月2日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/i3xhmn1pJ_E0bMM3zakDDA"
+          }
+        ],
+        "id": "39fa55545b43bf3c1a478e10c23ca56c",
+        "lng": "121.596786",
+        "lat": "30.994551",
+        "doc_id": "90000052_39fa55545b43bf3c1a478e10c23ca56c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "长宁区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "长宁区",
+        "county": "",
+        "street": "虹桥街道",
+        "community": "虹桥路1024弄",
+        "show_address": "虹桥路1024弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市长宁区虹桥街道虹桥路1024弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "8516351d4ae0b0703937fe86b0c8a183",
+        "lng": "121.419243",
+        "lat": "31.194629",
+        "doc_id": "90000052_8516351d4ae0b0703937fe86b0c8a183",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "长宁区",
+        "county": "",
+        "street": "",
+        "community": "新华豪庭",
+        "show_address": "新华豪庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市长宁区新华豪庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "d8d64ab9b78b5278bb60fd40d0b0f6ba",
+        "lng": "121.431282",
+        "lat": "31.203419",
+        "doc_id": "90000052_d8d64ab9b78b5278bb60fd40d0b0f6ba",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "长宁区",
+        "county": "",
+        "street": "",
+        "community": "新泾家苑",
+        "show_address": "新泾家苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市长宁区新泾家苑",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "2d92a32b8223a3e73c89115c973206b8",
+        "lng": "121.35038",
+        "lat": "31.20738",
+        "doc_id": "90000052_2d92a32b8223a3e73c89115c973206b8",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "长宁区",
+        "county": "",
+        "street": "",
+        "community": "天山路665弄",
+        "show_address": "天山路665弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市长宁区天山路665弄",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          },
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          }
+        ],
+        "id": "663b9384c9dfaeb0962ae02add7d3bac",
+        "lng": "121.39708",
+        "lat": "31.21133",
+        "doc_id": "90000052_663b9384c9dfaeb0962ae02add7d3bac",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "长宁区",
+        "county": "",
+        "street": "",
+        "community": "汇金百货（虹桥店）",
+        "show_address": "汇金百货（虹桥店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市长宁区汇金百货（虹桥店）",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          },
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          }
+        ],
+        "id": "fc45f58c353c0ab6d472234f1b9114e3",
+        "lng": "121.405144",
+        "lat": "31.211508",
+        "doc_id": "90000052_fc45f58c353c0ab6d472234f1b9114e3",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "闵行区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "虹桥火车站",
+        "show_address": "虹桥火车站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区虹桥火车站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          },
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          },
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "88292fd9f3525bdba18abe49ff757210",
+        "lng": "121.3201",
+        "lat": "31.19405",
+        "doc_id": "90000052_88292fd9f3525bdba18abe49ff757210",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "中华美路60弄",
+        "show_address": "中华美路60弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区中华美路60弄",
+        "release_date": "20200221",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          },
+          {
+            "title": "上海公布2月20日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/MCnV0aWEaXB0NeiZ5VpiDA"
+          }
+        ],
+        "id": "48e5734510536b9beb2188c9b053fa30",
+        "lng": "121.3301",
+        "lat": "31.21915",
+        "doc_id": "90000052_48e5734510536b9beb2188c9b053fa30",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "地铁虹桥2号航站楼站",
+        "show_address": "地铁虹桥2号航站楼站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区地铁虹桥2号航站楼站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "a9eb66bf7e1510b85087047d3af6643f",
+        "lng": "121.326217",
+        "lat": "31.194251",
+        "doc_id": "90000052_a9eb66bf7e1510b85087047d3af6643f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "大润发（华漕店）",
+        "show_address": "大润发（华漕店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区大润发（华漕店）",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "11e47b571535942f9f61f8ef449b1ac9",
+        "lng": "121.288918",
+        "lat": "31.212481",
+        "doc_id": "90000052_11e47b571535942f9f61f8ef449b1ac9",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "爱博一村",
+        "show_address": "爱博一村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区爱博一村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "2310b49161e46e2c3dc5c81abd1fd039",
+        "lng": "121.310722",
+        "lat": "31.20664",
+        "doc_id": "90000052_2310b49161e46e2c3dc5c81abd1fd039",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "虹桥国际机场",
+        "show_address": "虹桥国际机场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区虹桥国际机场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "14f49ae178699451fca4a8591a6f9149",
+        "lng": "121.337601",
+        "lat": "31.19668",
+        "doc_id": "90000052_14f49ae178699451fca4a8591a6f9149",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "城市超市（虹梅路店）",
+        "show_address": "城市超市（虹梅路店）",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区城市超市（虹梅路店）",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月9日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200210/6874c20ccc0d4e7bb205ee61a8d5fbe7.html"
+          }
+        ],
+        "id": "d0f9065d909f6ddacd4df65c0f1e2bdc",
+        "lng": "121.38788",
+        "lat": "31.187",
+        "doc_id": "90000052_d0f9065d909f6ddacd4df65c0f1e2bdc",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "虹六菜市场",
+        "show_address": "虹六菜市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区虹六菜市场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月9日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200210/6874c20ccc0d4e7bb205ee61a8d5fbe7.html"
+          }
+        ],
+        "id": "274dd3f97ddb859e4e87246e64366994",
+        "lng": "121.382591",
+        "lat": "31.18428",
+        "doc_id": "90000052_274dd3f97ddb859e4e87246e64366994",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "虹桥花苑",
+        "show_address": "虹桥花苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区虹桥花苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月9日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200210/6874c20ccc0d4e7bb205ee61a8d5fbe7.html"
+          }
+        ],
+        "id": "93d297aad2d7005d6e8f1a163a07afc0",
+        "lng": "121.388138",
+        "lat": "31.18898",
+        "doc_id": "90000052_93d297aad2d7005d6e8f1a163a07afc0",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "春申景城",
+        "show_address": "春申景城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区春申景城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "e4aeec369daee7a4a30a6c46c3d1a4f0",
+        "lng": "121.412048",
+        "lat": "31.105883",
+        "doc_id": "90000052_e4aeec369daee7a4a30a6c46c3d1a4f0",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "莘沥路232号",
+        "show_address": "莘沥路232号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区莘沥路232号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "e673e820a2ac7c4aa7aa242fd37cf36b",
+        "lng": "121.37254",
+        "lat": "31.11131",
+        "doc_id": "90000052_e673e820a2ac7c4aa7aa242fd37cf36b",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "华联吉买盛(吴泾店)",
+        "show_address": "华联吉买盛(吴泾店)",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区华联吉买盛(吴泾店)",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "34ef5cd9c19026fb3c87d27fa2f5437c",
+        "lng": "121.45565",
+        "lat": "31.041",
+        "doc_id": "90000052_34ef5cd9c19026fb3c87d27fa2f5437c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "君莲生活小区",
+        "show_address": "君莲生活小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区君莲生活小区",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "82e01ea69db4e7f97d5debb47988fac7",
+        "lng": "121.40583",
+        "lat": "31.085791",
+        "doc_id": "90000052_82e01ea69db4e7f97d5debb47988fac7",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "",
+        "community": "欧风花都",
+        "show_address": "欧风花都",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区欧风花都",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "上海公布2月17日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/bd-k4x7mHeD_E3F6mbSX9A"
+          }
+        ],
+        "id": "2b46f4a76beaef54be2f603f69374afe",
+        "lng": "121.385727",
+        "lat": "31.15151",
+        "doc_id": "90000052_2b46f4a76beaef54be2f603f69374afe",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "闵行区",
+        "county": "",
+        "street": "龙茗路",
+        "community": "世纪联华",
+        "show_address": "世纪联华",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市闵行区龙茗路世纪联华",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "上海公布2月17日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/bd-k4x7mHeD_E3F6mbSX9A"
+          }
+        ],
+        "id": "ddb5d3afd8bba2a622ae144d110b8933",
+        "lng": "121.38521",
+        "lat": "31.14391",
+        "doc_id": "90000052_ddb5d3afd8bba2a622ae144d110b8933",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "黄浦区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "黄浦区",
+        "county": "",
+        "street": "",
+        "community": "陕西南路地铁站",
+        "show_address": "陕西南路地铁站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市黄浦区陕西南路地铁站",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "20e684461907c65d6d954efcf2f67e6f",
+        "lng": "121.461998",
+        "lat": "31.208599",
+        "doc_id": "90000052_20e684461907c65d6d954efcf2f67e6f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "奉贤区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "奉贤区",
+        "county": "",
+        "street": "",
+        "community": "南行贤苑",
+        "show_address": "南行贤苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市奉贤区南行贤苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "6a89ba596306212d51969b6a74ff379c",
+        "lng": "121.514526",
+        "lat": "30.962879",
+        "doc_id": "90000052_6a89ba596306212d51969b6a74ff379c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "奉贤区",
+        "county": "",
+        "street": "",
+        "community": "阳光二期",
+        "show_address": "阳光二期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市奉贤区南桥镇阳光二期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海9例确诊病例活动轨迹公布：武汉返沪又去杭州探亲，一家5人确诊7人隔离",
+            "url": "https://view.inews.qq.com/a/20200207A0HXAX00"
+          }
+        ],
+        "id": "2ccedf6986c87b2d186b35b3e52a242e",
+        "lng": "121.446541",
+        "lat": "30.901299",
+        "doc_id": "90000052_2ccedf6986c87b2d186b35b3e52a242e",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "奉贤区",
+        "county": "",
+        "street": "齐贤万顺路",
+        "community": "南行贤苑",
+        "show_address": "南行贤苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市奉贤区金汇镇齐贤万顺路南行贤苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海9例确诊病例活动轨迹公布：武汉返沪又去杭州探亲，一家5人确诊7人隔离",
+            "url": "https://view.inews.qq.com/a/20200207A0HXAX00"
+          }
+        ],
+        "id": "a778ec3bb2a1f4d4c496d5f109250b0f",
+        "lng": "121.514526",
+        "lat": "30.962879",
+        "doc_id": "90000052_a778ec3bb2a1f4d4c496d5f109250b0f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "奉贤区",
+        "county": "",
+        "street": "",
+        "community": "齐贤南百小区",
+        "show_address": "齐贤南百小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "5",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市奉贤区金汇镇齐贤南百小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "上海9例确诊病例活动轨迹公布：武汉返沪又去杭州探亲，一家5人确诊7人隔离",
+            "url": "https://view.inews.qq.com/a/20200207A0HXAX00"
+          }
+        ],
+        "id": "e92a0ba5384e36ecca1555b7b73bfc35",
+        "lng": "121.512459",
+        "lat": "30.954531",
+        "doc_id": "90000052_e92a0ba5384e36ecca1555b7b73bfc35",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "普陀区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "曹杨新村街道",
+        "community": "连亮路111弄",
+        "show_address": "连亮路111弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区曹杨新村街道连亮路111弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月6日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/7Odzuq-I-eqrHPwU9vEujQ"
+          }
+        ],
+        "id": "265f49c85a0ca268b532b675c5ca6d18",
+        "lng": "121.392059",
+        "lat": "31.291031",
+        "doc_id": "90000052_265f49c85a0ca268b532b675c5ca6d18",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "",
+        "community": "西乡路91弄",
+        "show_address": "西乡路91弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区西乡路91弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "bcc45ef2e1c70496511a4cacc8ea1da5",
+        "lng": "121.42646",
+        "lat": "31.26913",
+        "doc_id": "90000052_bcc45ef2e1c70496511a4cacc8ea1da5",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "",
+        "community": "南泉苑小区",
+        "show_address": "南泉苑小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区南泉苑小区",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "d95a9e73b80818f14d8f9aee0cf9ae81",
+        "lng": "121.426407",
+        "lat": "31.269091",
+        "doc_id": "90000052_d95a9e73b80818f14d8f9aee0cf9ae81",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "梅岭北路400弄",
+        "community": "",
+        "show_address": "梅岭北路400弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区梅岭北路400弄",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "0c56fd100d2c9a189d6509233f97923c",
+        "lng": "121.406039",
+        "lat": "31.243069",
+        "doc_id": "90000052_0c56fd100d2c9a189d6509233f97923c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "梅岭支路85弄",
+        "community": "",
+        "show_address": "梅岭支路85弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区梅岭支路85弄",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "30685e6164d4d460bd972ce11c9c3f6a",
+        "lng": "121.410851",
+        "lat": "31.235731",
+        "doc_id": "90000052_30685e6164d4d460bd972ce11c9c3f6a",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "普陀区",
+        "county": "",
+        "street": "",
+        "community": "逸流公寓",
+        "show_address": "逸流公寓",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市普陀区逸流公寓",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "93c2c0295ac2a2e002d5f17717d9294f",
+        "lng": "121.422493",
+        "lat": "31.23727",
+        "doc_id": "90000052_93c2c0295ac2a2e002d5f17717d9294f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "静安区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "静安区",
+        "county": "",
+        "street": "",
+        "community": "嘉利明珠城",
+        "show_address": "嘉利明珠城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市静安区嘉利明珠城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月7日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200208/f3882592b1144b558a13a5a9c4ac4a9f.html"
+          }
+        ],
+        "id": "2f04ddca1acab4360e5805c61ed4e33c",
+        "lng": "121.4636",
+        "lat": "31.27363",
+        "doc_id": "90000052_2f04ddca1acab4360e5805c61ed4e33c",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "静安区",
+        "county": "",
+        "street": "",
+        "community": "闻喜路935弄",
+        "show_address": "闻喜路935弄",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市静安区闻喜路935弄",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月8日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "http://wsjkw.sh.gov.cn/xwfb/20200209/033cf9bb5c694a41929a093f6c386482.html"
+          }
+        ],
+        "id": "a435ab1d464e689bff04e6d181168f64",
+        "lng": "121.44716",
+        "lat": "31.30789",
+        "doc_id": "90000052_a435ab1d464e689bff04e6d181168f64",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "静安区",
+        "county": "",
+        "street": "",
+        "community": "中铁十五局集团有限公司",
+        "show_address": "中铁十五局集团有限公司",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市静安区中铁十五局集团有限公司",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "79e7bbf5506aabb7cc9e29df61d9c2e8",
+        "lng": "121.463379",
+        "lat": "31.254589",
+        "doc_id": "90000052_79e7bbf5506aabb7cc9e29df61d9c2e8",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "静安区",
+        "county": "",
+        "street": "",
+        "community": "铁路上海站",
+        "show_address": "铁路上海站",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市静安区铁路上海站",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "a61dc730eb3d6435be452a352bbdfc06",
+        "lng": "121.476181",
+        "lat": "31.24972",
+        "doc_id": "90000052_a61dc730eb3d6435be452a352bbdfc06",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "静安区",
+        "county": "",
+        "street": "",
+        "community": "锦江出租车六分公司",
+        "show_address": "锦江出租车六分公司",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市静安区锦江出租车六分公司",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "上海公布2月15日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/XM3rDaC-yFX9tS_2YdhkHA"
+          }
+        ],
+        "id": "6bfc8ba920404ba8a97bc7584bf9ceed",
+        "lng": "121.45591",
+        "lat": "31.22352",
+        "doc_id": "90000052_6bfc8ba920404ba8a97bc7584bf9ceed",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "金山区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "金山区",
+        "county": "",
+        "street": "",
+        "community": "枫岸华庭",
+        "show_address": "枫岸华庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市金山区枫岸华庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "455fbfd82c941719d8ef23f654ccfeec",
+        "lng": "121.028069",
+        "lat": "30.896959",
+        "doc_id": "90000052_455fbfd82c941719d8ef23f654ccfeec",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "金山区",
+        "county": "",
+        "street": "",
+        "community": "枫泾汽车站“枫梅线”站点",
+        "show_address": "枫泾汽车站“枫梅线”站点",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市金山区枫泾汽车站“枫梅线”站点",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月10日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/AJ0tZuej6lQIpOdScncjVA"
+          }
+        ],
+        "id": "f6819dbe6b122930313099e23fa40009",
+        "lng": "121.032356",
+        "lat": "30.896992",
+        "doc_id": "90000052_f6819dbe6b122930313099e23fa40009",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "金山区",
+        "county": "",
+        "street": "建昌路",
+        "community": "八一菜场",
+        "show_address": "八一菜场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市金山区金山卫镇建昌路八一菜场",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "上海公布2月26日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/YRnx2GYuvq9R7UtEusOKpA"
+          }
+        ],
+        "id": "c4f307d30455e729b61b10ef4afe892f",
+        "lng": "121.31955",
+        "lat": "30.727859",
+        "doc_id": "90000052_c4f307d30455e729b61b10ef4afe892f",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "金山区",
+        "county": "",
+        "street": "",
+        "community": "金山国际贸易城",
+        "show_address": "金山国际贸易城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市金山区金山国际贸易城",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "上海公布2月26日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/YRnx2GYuvq9R7UtEusOKpA"
+          }
+        ],
+        "id": "d669b928fa662aae1160e448b56ad7bf",
+        "lng": "121.307541",
+        "lat": "30.73061",
+        "doc_id": "90000052_d669b928fa662aae1160e448b56ad7bf",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "崇明区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "崇明区",
+        "county": "",
+        "street": "",
+        "community": "横沙乡新春村",
+        "show_address": "横沙乡新春村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市崇明区横沙乡新春村",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月12日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/X8IW_UVzhrRyONHi7d66IQ"
+          }
+        ],
+        "id": "6a2d2375ed457c4bbc13f868323132b2",
+        "lng": "121.830162",
+        "lat": "31.328529",
+        "doc_id": "90000052_6a2d2375ed457c4bbc13f868323132b2",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "崇明区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "五滧村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市崇明区堡镇五滧村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          },
+          {
+            "title": "快讯！上海公布2月11日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/4QJs998QDWJD8Xip4TX0Ig"
+          }
+        ],
+        "id": "f4bea24b3696eb382e9fb851b99f6bd9",
+        "lng": "121.675652",
+        "lat": "31.535601",
+        "doc_id": "90000052_f4bea24b3696eb382e9fb851b99f6bd9",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "虹口区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "虹口区",
+        "county": "",
+        "street": "",
+        "community": "沪陵农贸市场",
+        "show_address": "沪陵农贸市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市虹口区沪陵农贸市场",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "ece83c4f04bbbbde2b47d890dc8684a6",
+        "lng": "121.491692",
+        "lat": "31.2929",
+        "doc_id": "90000052_ece83c4f04bbbbde2b47d890dc8684a6",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "虹口区",
+        "county": "",
+        "street": "",
+        "community": "百联曲阳购物中心",
+        "show_address": "百联曲阳购物中心",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市虹口区百联曲阳购物中心",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "快讯！上海公布2月13日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/8Q9R4I4cp2h-fM59ZkZoGQ"
+          }
+        ],
+        "id": "2bafe878bd9f0106b1d66e2df3671d69",
+        "lng": "121.49154",
+        "lat": "31.28644",
+        "doc_id": "90000052_2bafe878bd9f0106b1d66e2df3671d69",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "青浦区": [
+      {
+        "province": "上海市",
+        "city": "上海市",
+        "district": "青浦区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "青龙村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "上海市青浦区白鹤镇青龙村",
+        "release_date": "20200226",
+        "article_source": [
+          {
+            "title": "上海公布2月25日（0-24时）确诊病例涉及区域和场所情况",
+            "url": "https://mp.weixin.qq.com/s/R9Qp8TCjSwO-7aQY77ROJg"
+          }
+        ],
+        "id": "05727616090052fe39c7fb689d031b3d",
+        "lng": "121.176613",
+        "lat": "31.23946",
+        "doc_id": "90000052_05727616090052fe39c7fb689d031b3d",
+        "source": [
+          {
+            "name": "上海发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

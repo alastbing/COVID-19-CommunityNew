@@ -1,0 +1,300 @@
+{"河北省": {
+  "石家庄市": {
+    "桥西区": [
+      {
+        "province": "河北省",
+        "city": "石家庄市",
+        "district": "桥西区",
+        "county": "",
+        "street": "",
+        "community": "建胜路",
+        "show_address": "建胜路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省石家庄市桥西区建胜路",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "石家庄市确诊病例行程轨迹提示",
+            "url": "https://mp.weixin.qq.com/s/ENBcukErQaX-ykk9P2usZQ"
+          }
+        ],
+        "id": "c2dcbfd2e1cb73c9cf43ad86f5ecfa2c",
+        "lng": "114.502274",
+        "lat": "38.020016",
+        "doc_id": "90000052_c2dcbfd2e1cb73c9cf43ad86f5ecfa2c",
+        "source": [
+          {
+            "name": "河北省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "河北省",
+        "city": "石家庄市",
+        "district": "桥西区",
+        "county": "",
+        "street": "",
+        "community": "新华西路",
+        "show_address": "新华西路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省石家庄市桥西区新华西路",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "石家庄市确诊病例行程轨迹提示",
+            "url": "https://mp.weixin.qq.com/s/ENBcukErQaX-ykk9P2usZQ"
+          }
+        ],
+        "id": "13fc324e0d74e7cdb84bc098d14b3feb",
+        "lng": "114.470108",
+        "lat": "38.048031",
+        "doc_id": "90000052_13fc324e0d74e7cdb84bc098d14b3feb",
+        "source": [
+          {
+            "name": "河北省卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "沧州市": {
+    "献县": [
+      {
+        "province": "河北省",
+        "city": "沧州市",
+        "district": "献县",
+        "county": "献县",
+        "street": "",
+        "community": "",
+        "show_address": "十五级乡西杨村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省沧州市献县十五级乡西杨村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "献县新型冠状病毒感染肺炎疫情通告",
+            "url": "https://mp.weixin.qq.com/s/vW47OEy7YrDpRpNDCzCOJw"
+          }
+        ],
+        "id": "d471ef947884687c0651ba833d56056d",
+        "lng": "116.246834",
+        "lat": "38.275051",
+        "doc_id": "90000052_d471ef947884687c0651ba833d56056d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "河北省",
+        "city": "沧州市",
+        "district": "献县",
+        "county": "献县",
+        "street": "",
+        "community": "",
+        "show_address": "梭庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省沧州市献县河街镇梭庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "献县河城街一男子确诊新冠肺炎！活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/UBb-hi1Rg0poB31La6x3Cg"
+          }
+        ],
+        "id": "ac9d4a61f566886ed02e152df2a70dc7",
+        "lng": "116.218178",
+        "lat": "38.14822",
+        "doc_id": "90000052_ac9d4a61f566886ed02e152df2a70dc7",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "张家口市": {
+    "尚义县": [
+      {
+        "province": "河北省",
+        "city": "张家口市",
+        "district": "尚义县",
+        "county": "尚义县",
+        "street": "",
+        "community": "南壕堑镇",
+        "show_address": "南壕堑镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省张家口市尚义县南壕堑镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市第10-12例确诊病例行程轨迹提示！",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzAwNjg3OTE4Ng==&mid=2247515156&idx=1&sn=21f4324a5d663fa92b936474b3100ada&chksm=9b045ea9ac73d7bf14585418731aa39c99d8de4dfa75e8ca1038b4f24bafd0ad0ab3f5cdd746&mpshare=1&scene=1&srcid=&sharer_sharetime=1581076487530&sharer_shareid=e178610be0d8376cda28b51d9ed90b2a#rd"
+          }
+        ],
+        "id": "77a2cb0cf1e5a7882b7430acf12f7c34",
+        "lng": "113.989937",
+        "lat": "41.087608",
+        "doc_id": "90000052_77a2cb0cf1e5a7882b7430acf12f7c34",
+        "source": [
+          {
+            "name": "张家口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "桥西区": [
+      {
+        "province": "河北省",
+        "city": "张家口市",
+        "district": "桥西区",
+        "county": "",
+        "street": "",
+        "community": "美居丽景小区",
+        "show_address": "美居丽景小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省张家口市桥西区美居丽景小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市第10-12例确诊病例行程轨迹提示！",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzAwNjg3OTE4Ng==&mid=2247515156&idx=1&sn=21f4324a5d663fa92b936474b3100ada&chksm=9b045ea9ac73d7bf14585418731aa39c99d8de4dfa75e8ca1038b4f24bafd0ad0ab3f5cdd746&mpshare=1&scene=1&srcid=&sharer_sharetime=1581076487530&sharer_shareid=e178610be0d8376cda28b51d9ed90b2a#rd"
+          }
+        ],
+        "id": "ba50474b39f11ff438e4ebf00a905c75",
+        "lng": "114.866737",
+        "lat": "40.822315",
+        "doc_id": "90000052_ba50474b39f11ff438e4ebf00a905c75",
+        "source": [
+          {
+            "name": "张家口发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "廊坊市": {
+    "霸州市": [
+      {
+        "province": "河北省",
+        "city": "廊坊市",
+        "district": "霸州市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "煎茶铺镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省廊坊市霸州市煎茶铺镇",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "【关注】廊坊新增1例确诊病例活动轨迹（附最全确诊病例活动轨迹）",
+            "url": "https://mp.weixin.qq.com/s/zMZNB6EX2x5i3nI4ekKgCw"
+          }
+        ],
+        "id": "1b7af59aeceb9ffcf4fbc6bd40135fd8",
+        "lng": "116.518913",
+        "lat": "39.110668",
+        "doc_id": "90000052_1b7af59aeceb9ffcf4fbc6bd40135fd8",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "保定市": {
+    "易县": [
+      {
+        "province": "河北省",
+        "city": "保定市",
+        "district": "易县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "寨头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "河北省保定市易县桥家河乡寨头村",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "易县公布1例新增确诊病例的行程轨迹",
+            "url": "https://mp.weixin.qq.com/s/gOnpZq1maakeAg_h5-Hwtg"
+          }
+        ],
+        "id": "f97ca7d8fb659643661d25e9bc50aa03",
+        "lng": "114.905579",
+        "lat": "39.218319",
+        "doc_id": "90000052_f97ca7d8fb659643661d25e9bc50aa03",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

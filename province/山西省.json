@@ -1,0 +1,1457 @@
+{"山西省": {
+  "晋城市": {
+    "城区": [
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "county": "",
+        "street": "迎宾街",
+        "community": "建行小区",
+        "show_address": "建行小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市城区钟家庄迎宾街建行小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "晋城2例确诊病例的详细活动轨迹公布！",
+            "url": "https://weibo.com/2824120872/IsbvR4pth"
+          }
+        ],
+        "id": "e4540ea1b045d7fb9c5507752b4da915",
+        "lng": "112.856483",
+        "lat": "35.479191",
+        "doc_id": "90000052_e4540ea1b045d7fb9c5507752b4da915",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "county": "",
+        "street": "北街街道办事处",
+        "community": "古矿东区",
+        "show_address": "古矿东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市城区北街街道办事处古矿东区",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "id": "d9fdfa2168f26ba0e873e5e0a0a2e768",
+        "lng": "112.850998",
+        "lat": "35.5112",
+        "doc_id": "90000052_d9fdfa2168f26ba0e873e5e0a0a2e768",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "county": "",
+        "street": "书院街1261号",
+        "community": "古矿东区39号楼",
+        "show_address": "古矿东区39号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市城区书院街1261号古矿东区39号楼",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "晋城新增确诊病例1例，病例10活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/lp3si4NKILdkYD3j6vorBQ"
+          }
+        ],
+        "id": "d87ba26506c41945d14f806e03ea8e73",
+        "lng": "112.84142",
+        "lat": "35.51087",
+        "doc_id": "90000052_d87ba26506c41945d14f806e03ea8e73",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "北街金囤市场",
+        "full_address": "山西省晋城市城区北街金囤市场",
+        "id": "31781a62c77ebe675df70174a6053fd8",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "112.840378",
+        "lat": "35.510029",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "泽州北路",
+        "show_address": "寺河嘉苑",
+        "full_address": "山西省晋城市城区泽州北路寺河嘉苑",
+        "id": "6e3efb24825d882a008762cb149255b3",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "112.855843",
+        "lat": "35.517021",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "晋城市城区中医院",
+        "full_address": "山西省晋城市城区晋城市城区中医院",
+        "id": "dcf815f2d9ebcc109e501501e6e3ea4c",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "112.845016",
+        "lat": "35.50576",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "晋城市人民医院",
+        "full_address": "山西省晋城市城区晋城市人民医院",
+        "id": "9816699870dafcae5c01f12965612427",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          },
+          {
+            "title": "晋城新增确诊病例1例，病例10活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/lp3si4NKILdkYD3j6vorBQ"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200219",
+        "lng": "112.860031",
+        "lat": "35.484322",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "浙江商贸城",
+        "full_address": "山西省晋城市城区浙江商贸城",
+        "id": "fb0249b41c88830d95a2186d0b0700fb",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "112.844139",
+        "lat": "35.50169",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "古阎路638号",
+        "show_address": "古书院矿医院",
+        "full_address": "山西省晋城市城区古阎路638号古书院矿医院",
+        "id": "fac699529e369c0f01a90fcd809b81d1",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "112.84386",
+        "lat": "35.51707",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "晋城大医院",
+        "full_address": "山西省晋城市城区晋城大医院",
+        "id": "4377c8164b3e061a3bb4d05f4f308167",
+        "article_source": [
+          {
+            "title": "我市新增1例确诊，病例9活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/QOuR-sp2N79HqOKpPU9y2Q"
+          },
+          {
+            "title": "晋城新增确诊病例1例，病例10活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/lp3si4NKILdkYD3j6vorBQ"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200219",
+        "lng": "112.906303",
+        "lat": "35.548988",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "万德福超市古矿店",
+        "full_address": "山西省晋城市城区万德福超市古矿店",
+        "id": "1ef93ce9cc1b2a183057815e073fcf75",
+        "article_source": [
+          {
+            "title": "晋城新增确诊病例1例，病例10活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/lp3si4NKILdkYD3j6vorBQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.843147",
+        "lat": "35.51128",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "城区",
+        "middle_address": "",
+        "show_address": "古矿医院发热门诊",
+        "full_address": "山西省晋城市城区古矿医院发热门诊",
+        "id": "f667053c13c381a7e2b188c1005b21c0",
+        "article_source": [
+          {
+            "title": "晋城新增确诊病例1例，病例10活动轨迹公布...",
+            "url": "https://mp.weixin.qq.com/s/lp3si4NKILdkYD3j6vorBQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.905487",
+        "lat": "35.5499",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "泽州县": [
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "泽州县",
+        "county": "泽州县",
+        "street": "",
+        "community": "红星三巷",
+        "show_address": "红星三巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市泽州县北义城镇北义城村红星三巷",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "晋城新增确诊病例1例！泽州县北义城人，出行轨迹公布",
+            "url": "https://weibo.com/2824120872/IsgrhlQWg"
+          }
+        ],
+        "id": "29d20d0a5d6fc982f9b003e939ca9cfc",
+        "lng": "112.952431",
+        "lat": "35.638569",
+        "doc_id": "90000052_29d20d0a5d6fc982f9b003e939ca9cfc",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "泽州县",
+        "county": "泽州县",
+        "street": "",
+        "community": "锦泰嘉园小区",
+        "show_address": "锦泰嘉园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市泽州县北石店镇锦泰嘉园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "晋城新增3例！出行轨迹公布！北石店镇、芹池镇、郑庄镇！",
+            "url": "https://weibo.com/2824120872/IsrqeqjSy"
+          }
+        ],
+        "id": "95a53f05c12f5f83bf2aabd368cc4a01",
+        "lng": "112.902649",
+        "lat": "35.550671",
+        "doc_id": "90000052_95a53f05c12f5f83bf2aabd368cc4a01",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "阳城县": [
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "阳城县",
+        "county": "阳城县",
+        "street": "",
+        "community": "商业园B区",
+        "show_address": "商业园B区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市阳城县水村商业园B区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "晋城新增3例！出行轨迹公布！北石店镇、芹池镇、郑庄镇！",
+            "url": "https://weibo.com/2824120872/IsrqeqjSy"
+          }
+        ],
+        "id": "ad31a1ab4800338d0a6d469e070df8f3",
+        "lng": "112.40662",
+        "lat": "35.49018",
+        "doc_id": "90000052_ad31a1ab4800338d0a6d469e070df8f3",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "陵川县": [
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "陵川县",
+        "county": "陵川县",
+        "street": "",
+        "community": "王家巷",
+        "show_address": "王家巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市陵川县崇文镇城南社区王家巷",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "晋城2例确诊病例的详细活动轨迹公布！",
+            "url": "https://weibo.com/2824120872/IsbvR4pth"
+          }
+        ],
+        "id": "8adaf7036ef0fc9a8369319001778a3d",
+        "lng": "113.277977",
+        "lat": "35.770893",
+        "doc_id": "90000052_8adaf7036ef0fc9a8369319001778a3d",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "沁水县": [
+      {
+        "province": "山西省",
+        "city": "晋城市",
+        "district": "沁水县",
+        "county": "沁水县",
+        "street": "",
+        "community": "",
+        "show_address": "中乡村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋城市沁水县郑庄镇中乡村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "疫情快报！我市新增确诊病例3例，详细活动轨迹公布……",
+            "url": "https://mp.weixin.qq.com/s/ZAwe2UqZE8e_MfvtmGrWmA"
+          },
+          {
+            "title": "晋城病例7（沁水县）详细行动轨迹公布，其丈夫为晋城第6例病例！",
+            "url": "https://weibo.com/2824120872/IsBigicsa?from=page_1005052824120872_profile&wvr=6&mod=weibotime&type=comment#_rnd1580800485232"
+          },
+          {
+            "title": "我市新增1例，4例症状明显好转，2例即将出院！",
+            "url": "https://mp.weixin.qq.com/s/4WrsExcc7Ca7xf8SJrPBDQ"
+          },
+          {
+            "title": "快讯：我市两例重症患者从太原治愈出院",
+            "url": "https://mp.weixin.qq.com/s/DrO-i7faYIwL0WrlqNVEZg"
+          }
+        ],
+        "id": "7b08ecfd23c951cefdb42218e21c8853",
+        "lng": "112.456207",
+        "lat": "35.677219",
+        "doc_id": "90000052_7b08ecfd23c951cefdb42218e21c8853",
+        "source": [
+          {
+            "name": "晋城通",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "太原市": {
+    "小店区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "小店区",
+        "county": "",
+        "street": "",
+        "community": "华泰御景湾",
+        "show_address": "华泰御景湾",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市小店区华泰御景湾",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "4b0ade0871e408cf5a26d1ee1d423d81",
+        "lng": "112.544342",
+        "lat": "37.798328",
+        "doc_id": "90000052_4b0ade0871e408cf5a26d1ee1d423d81",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "小店区",
+        "county": "",
+        "street": "正阳街",
+        "community": "汇泰丽城",
+        "show_address": "汇泰丽城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市小店区正阳街汇泰丽城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "1c1fdda081d212e24bf83561a699dc32",
+        "lng": "112.577393",
+        "lat": "37.723492",
+        "doc_id": "90000052_1c1fdda081d212e24bf83561a699dc32",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "小店区",
+        "county": "",
+        "street": "营盘街道体育北街6号",
+        "community": "山西省政法管理干部学院宿舍",
+        "show_address": "山西省政法管理干部学院宿舍",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市小店区营盘街道体育北街6号山西省政法管理干部学院宿舍",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "71248a6251712750fec21a58db741033",
+        "lng": "112.57749",
+        "lat": "37.83687",
+        "doc_id": "90000052_71248a6251712750fec21a58db741033",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "尖草坪区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "尖草坪区",
+        "county": "",
+        "street": "汇丰街道",
+        "community": "兴华街北小区",
+        "show_address": "兴华街北小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市尖草坪区汇丰街道兴华街北小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "f8a482322e59476e314018e306e63537",
+        "lng": "112.520851",
+        "lat": "37.887348",
+        "doc_id": "90000052_f8a482322e59476e314018e306e63537",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "尖草坪区",
+        "county": "",
+        "street": "",
+        "community": "南寨兴安社区64号楼",
+        "show_address": "南寨兴安社区64号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市尖草坪区南寨兴安社区64号楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市新增确诊一例！确诊病例活动轨迹公布！重点疑似病例活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/YC6Yd_Wd2dy94GvPv4Nc_g"
+          }
+        ],
+        "id": "fd0478ea4d9506bb2ca8ab6ff81d54dd",
+        "lng": "112.536919",
+        "lat": "37.975979",
+        "doc_id": "90000052_fd0478ea4d9506bb2ca8ab6ff81d54dd",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "晋源区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "晋源区",
+        "county": "",
+        "street": "",
+        "community": "焦化小区",
+        "show_address": "焦化小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市晋源区焦化小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "725c7e6232e5d0c77c9f4399612bcaf7",
+        "lng": "112.483788",
+        "lat": "37.761532",
+        "doc_id": "90000052_725c7e6232e5d0c77c9f4399612bcaf7",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "晋源区",
+        "county": "",
+        "street": "义井街道",
+        "community": "绿地世纪城二期8号楼",
+        "show_address": "绿地世纪城二期8号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市晋源区义井街道绿地世纪城二期8号楼",
+        "release_date": "20200221",
+        "article_source": [
+          {
+            "title": "太原市新增1例确诊病例！生活就诊轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/cd5lEQfPXTrnIcpLJomYGw"
+          }
+        ],
+        "id": "7c29e966d03d2283bd9386f9fdde844a",
+        "lng": "112.53022",
+        "lat": "37.7865",
+        "doc_id": "90000052_7c29e966d03d2283bd9386f9fdde844a",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "杏花岭区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "county": "",
+        "street": "巨轮街",
+        "community": "胜利桥东路省统计局宿舍",
+        "show_address": "胜利桥东路省统计局宿舍",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市杏花岭区巨轮街胜利桥东路省统计局宿舍",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原市11例确诊病例活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/fiPO4ouAgfAo1C66a0l9Jw"
+          }
+        ],
+        "id": "5272c6601f678527f3bb677b7255b922",
+        "lng": "112.563538",
+        "lat": "37.877636",
+        "doc_id": "90000052_5272c6601f678527f3bb677b7255b922",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "county": "",
+        "street": "胜利东街",
+        "community": "晋安3号院",
+        "show_address": "晋安3号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市杏花岭区胜利东街晋安3号院",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "扩散！太原杏花岭区胜利东街晋安3号院确诊病例活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/5bhbrWWRu2NNuTv2eiPUVg"
+          }
+        ],
+        "id": "92a142b9bea98edff9d308ab0a656f48",
+        "lng": "112.578262",
+        "lat": "37.895027",
+        "doc_id": "90000052_92a142b9bea98edff9d308ab0a656f48",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "county": "",
+        "street": "敦化坊街道",
+        "community": "胜利街27号晋安3号院",
+        "show_address": "胜利街27号晋安3号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市杏花岭区敦化坊街道胜利街27号晋安3号院",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "山西省2月14日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/SR0GBnFsmdCtSnhWJ1kEYw"
+          }
+        ],
+        "id": "7b5931e13e2e60a8f9cbe647ac75ba06",
+        "lng": "112.57835",
+        "lat": "37.89444",
+        "doc_id": "90000052_7b5931e13e2e60a8f9cbe647ac75ba06",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "middle_address": "",
+        "show_address": "太原市中心医院",
+        "full_address": "山西省太原市杏花岭区太原市中心医院",
+        "id": "78052123be13a095a2472cf4cb2db8a0",
+        "article_source": [
+          {
+            "title": "山西省2月14日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/SR0GBnFsmdCtSnhWJ1kEYw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "112.56514",
+        "lat": "37.884876",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "middle_address": "",
+        "show_address": "山西医科大学第二医院",
+        "full_address": "山西省太原市杏花岭区山西医科大学第二医院",
+        "id": "609d26c32e71963c8d89b7b7e5413ea4",
+        "article_source": [
+          {
+            "title": "山西省2月14日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/SR0GBnFsmdCtSnhWJ1kEYw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "112.574577",
+        "lat": "37.87878",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "杏花岭区",
+        "middle_address": "滨河东路",
+        "show_address": "汾河景观小区8号楼",
+        "full_address": "山西省太原市杏花岭区滨河东路汾河景观小区8号楼",
+        "id": "b405616e2ee65fecc962d47c207bf726",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.539551",
+        "lat": "37.893082",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "迎泽区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "迎泽区",
+        "county": "",
+        "street": "桥东街道",
+        "community": "东方红小区",
+        "show_address": "东方红小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市迎泽区桥东街道东方红小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原迎泽区今日新增两例确诊病例！两人活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/FGUC1Ki9-TYHbNEkq2JELQ"
+          }
+        ],
+        "id": "01d62f74e8adf8624eca60e490a4c4a2",
+        "lng": "112.59063",
+        "lat": "37.852959",
+        "doc_id": "90000052_01d62f74e8adf8624eca60e490a4c4a2",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "迎泽区",
+        "county": "",
+        "street": "迎泽街道",
+        "community": "牛站巷迎泽苑8号楼",
+        "show_address": "牛站巷迎泽苑8号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省太原市迎泽区迎泽街道牛站巷迎泽苑8号楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "太原迎泽区今日新增两例确诊病例！两人活动轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/FGUC1Ki9-TYHbNEkq2JELQ"
+          }
+        ],
+        "id": "7752472c4f974728e082108670050c55",
+        "lng": "112.561471",
+        "lat": "37.848552",
+        "doc_id": "90000052_7752472c4f974728e082108670050c55",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "万柏林区": [
+      {
+        "province": "山西省",
+        "city": "太原市",
+        "district": "万柏林区",
+        "middle_address": "",
+        "show_address": "太原市第四人民医院",
+        "full_address": "山西省太原市万柏林区太原市第四人民医院",
+        "id": "6144706c3da565cfaa5d97132bfe971f",
+        "article_source": [
+          {
+            "title": "山西省2月14日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/SR0GBnFsmdCtSnhWJ1kEYw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200116",
+        "lng": "112.4729",
+        "lat": "37.861362",
+        "source": [
+          {
+            "name": "热爱太原",
+            "url": ""
+          },
+          {
+            "name": "山西新闻联播",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "晋中市": {
+    "寿阳县": [
+      {
+        "province": "山西省",
+        "city": "晋中市",
+        "district": "寿阳县",
+        "county": "",
+        "street": "田园路",
+        "community": "",
+        "show_address": "田园路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋中市寿阳县田园路",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "最新！疫情数据通报！",
+            "url": "https://mp.weixin.qq.com/s/mOlDBx2KIGmYoI5fbUY9rw"
+          }
+        ],
+        "id": "d3ececad2694c62f0965f471b2c85462",
+        "lng": "113.180862",
+        "lat": "37.889339",
+        "doc_id": "90000052_d3ececad2694c62f0965f471b2c85462",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "平遥县": [
+      {
+        "province": "山西省",
+        "city": "晋中市",
+        "district": "平遥县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "闫长头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省晋中市平遥县杜家庄乡闫长头村",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "山西省2月16日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/5dHFJjU33nwt2bd3CWdGmQ"
+          }
+        ],
+        "id": "06bc0ccdf2aa9151b48840600e1d8338",
+        "lng": "112.106651",
+        "lat": "37.262772",
+        "doc_id": "90000052_06bc0ccdf2aa9151b48840600e1d8338",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "长治市": {
+    "长子县": [
+      {
+        "province": "山西省",
+        "city": "长治市",
+        "district": "长子县",
+        "county": "",
+        "street": "",
+        "community": "庆丰小区",
+        "show_address": "庆丰小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省长治市长子县庆丰小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "最新！疫情数据通报！",
+            "url": "https://mp.weixin.qq.com/s/mOlDBx2KIGmYoI5fbUY9rw"
+          }
+        ],
+        "id": "01425d06e8ba59881219353195a89b3d",
+        "lng": "112.875748",
+        "lat": "36.116348",
+        "doc_id": "90000052_01425d06e8ba59881219353195a89b3d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "朔州市": {
+    "朔城区": [
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "朔城区",
+        "county": "",
+        "street": "北旺庄街道",
+        "community": "福煤小区",
+        "show_address": "福煤小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "山西省朔州市朔城区北旺庄街道福煤小区",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "id": "bb3049ac6c48baf4288a8583bcf04760",
+        "lng": "112.437134",
+        "lat": "39.35553",
+        "doc_id": "90000052_bb3049ac6c48baf4288a8583bcf04760",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "朔城区",
+        "middle_address": "",
+        "show_address": "神头一电厂",
+        "full_address": "山西省朔州市朔城区神头一电厂",
+        "id": "f7a9d9593d1f9f882a376fef93101345",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.557419",
+        "lat": "39.37331",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "朔城区",
+        "middle_address": "",
+        "show_address": "朔城区中医药集团医院",
+        "full_address": "山西省朔州市朔城区朔城区中医药集团医院",
+        "id": "6055644b48cf48fb8ed3dc0471538797",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.431183",
+        "lat": "39.312992",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "朔城区",
+        "middle_address": "",
+        "show_address": "平朔工业集团医院",
+        "full_address": "山西省朔州市朔城区平朔工业集团医院",
+        "id": "7240b4165f01bfcc0e8ef7068de11de4",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.448891",
+        "lat": "39.354012",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "朔城区",
+        "middle_address": "",
+        "show_address": "朔州市传染病医院",
+        "full_address": "山西省朔州市朔城区朔州市传染病医院",
+        "id": "e26c63d83265ab470ad2bf1b6d885c85",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.430923",
+        "lat": "39.355579",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "山阴县": [
+      {
+        "province": "山西省",
+        "city": "朔州市",
+        "district": "山阴县",
+        "middle_address": "",
+        "show_address": "朔州市促进外来投资局",
+        "full_address": "山西省朔州市山阴县朔州市促进外来投资局",
+        "id": "e57789df221d179c844d0a7c627b8687",
+        "article_source": [
+          {
+            "title": "山西省2月17日新增1例确诊病例生活就诊轨迹",
+            "url": "https://mp.weixin.qq.com/s/Jk3uYKA4XxtLDXPP2OjiQg"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "112.81572",
+        "lat": "39.52625",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

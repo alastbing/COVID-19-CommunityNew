@@ -1,0 +1,3173 @@
+{"北京市": {
+  "北京市": {
+    "东城区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "东城区",
+        "county": "",
+        "street": "体育馆路街道",
+        "community": "驹章胡同",
+        "show_address": "驹章胡同",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市东城区体育馆路街道驹章胡同",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "839fda06994879e38eda19316fbfcec3",
+        "lng": "116.425087",
+        "lat": "39.889252",
+        "doc_id": "90000052_839fda06994879e38eda19316fbfcec3",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "东城区",
+        "county": "",
+        "street": "北新桥街道",
+        "community": "后永康2巷",
+        "show_address": "后永康2巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市东城区北新桥街道后永康2巷",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "7349f22ad930da2943563d9157ea1bf8",
+        "lng": "116.424438",
+        "lat": "39.942402",
+        "doc_id": "90000052_7349f22ad930da2943563d9157ea1bf8",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "东城区",
+        "county": "",
+        "street": "北新桥街道",
+        "community": "东直门北小街8号",
+        "show_address": "东直门北小街8号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市东城区北新桥街道东直门北小街8号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "44c39537f3b8bdc1f452adb3e8db7a0b",
+        "lng": "116.426272",
+        "lat": "39.947741",
+        "doc_id": "90000052_44c39537f3b8bdc1f452adb3e8db7a0b",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "东城区",
+        "county": "",
+        "street": "东直门街道",
+        "community": "新中街18号",
+        "show_address": "新中街18号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市东城区东直门街道新中街18号",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          }
+        ],
+        "id": "c80b1a0b7f9988e267bc664ee27a7db8",
+        "lng": "116.44003",
+        "lat": "39.93562",
+        "doc_id": "90000052_c80b1a0b7f9988e267bc664ee27a7db8",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "大兴区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "",
+        "community": "金茂悦北区5号院",
+        "show_address": "金茂悦北区5号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区瀛海镇金茂悦北区5号院",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "f0daf34e51359b150db1973ca22b459c",
+        "lng": "116.484139",
+        "lat": "39.754539",
+        "doc_id": "90000052_f0daf34e51359b150db1973ca22b459c",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "观音寺街道",
+        "community": "双河南里",
+        "show_address": "双河南里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区观音寺街道双河南里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "a48e617b57e2553348e9b2fa0f1542f5",
+        "lng": "116.347168",
+        "lat": "39.734291",
+        "doc_id": "90000052_a48e617b57e2553348e9b2fa0f1542f5",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "",
+        "community": "格林云墅",
+        "show_address": "格林云墅",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区黄村镇格林云墅",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "0ef7c559073dbbe9bb95fd8188ecdc82",
+        "lng": "116.401649",
+        "lat": "39.708168",
+        "doc_id": "90000052_0ef7c559073dbbe9bb95fd8188ecdc82",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "兴丰街道",
+        "community": "瑞康家园小区",
+        "show_address": "瑞康家园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区兴丰街道瑞康家园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "4b377dd1e9f0819139890fe9850ad873",
+        "lng": "116.34198",
+        "lat": "39.7393",
+        "doc_id": "90000052_4b377dd1e9f0819139890fe9850ad873",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "林校路街道",
+        "community": "泰禾中央广场",
+        "show_address": "泰禾中央广场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区林校路街道泰禾中央广场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "d166a53dc34a4aa30ef9eccd8539ba66",
+        "lng": "116.320198",
+        "lat": "39.713459",
+        "doc_id": "90000052_d166a53dc34a4aa30ef9eccd8539ba66",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "",
+        "community": "瑞海家园二区",
+        "show_address": "瑞海家园二区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区西红门镇瑞海家园二区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "8095d713900820249a0b4a1a56d5aa10",
+        "lng": "116.33179",
+        "lat": "39.78655",
+        "doc_id": "90000052_8095d713900820249a0b4a1a56d5aa10",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "",
+        "community": "格林云墅小区",
+        "show_address": "格林云墅小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区黄村镇格林云墅小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          }
+        ],
+        "id": "57aed089b2f245b0541d559d87b95ce4",
+        "lng": "116.401649",
+        "lat": "39.708168",
+        "doc_id": "90000052_57aed089b2f245b0541d559d87b95ce4",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "大兴区",
+        "county": "",
+        "street": "",
+        "community": "润枫锦尚小区",
+        "show_address": "润枫锦尚小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市大兴区旧宫镇润枫锦尚小区",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          },
+          {
+            "title": "北京2月13日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/XW51bawiZgvqekag1RQrzA"
+          }
+        ],
+        "id": "f1f4f2f0a46ade40027ef5d4721ea32b",
+        "lng": "116.428787",
+        "lat": "39.790588",
+        "doc_id": "90000052_f1f4f2f0a46ade40027ef5d4721ea32b",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "怀柔区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "怀柔区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "郑重庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市怀柔区庙城镇郑重庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "17b74b0721c46606bfd58ff1ce88c020",
+        "lng": "116.616211",
+        "lat": "40.285912",
+        "doc_id": "90000052_17b74b0721c46606bfd58ff1ce88c020",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "朝阳区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "恒大江湾",
+        "show_address": "恒大江湾",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区东坝乡恒大江湾",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "7591f3dc619789b1e6e7109f83dc2189",
+        "lng": "116.531891",
+        "lat": "39.969803",
+        "doc_id": "90000052_7591f3dc619789b1e6e7109f83dc2189",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "北苑路86号嘉铭园",
+        "show_address": "北苑路86号嘉铭园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区北苑路86号嘉铭园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "4e781f6501948fb9551110d7b4301e69",
+        "lng": "116.42212",
+        "lat": "40.00216",
+        "doc_id": "90000052_4e781f6501948fb9551110d7b4301e69",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "慈云寺北里",
+        "show_address": "慈云寺北里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区慈云寺北里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "a9b3797a43d2a41b40b0988131556997",
+        "lng": "116.49498",
+        "lat": "39.917599",
+        "doc_id": "90000052_a9b3797a43d2a41b40b0988131556997",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "高碑店乡陶家湾",
+        "show_address": "高碑店乡陶家湾",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区高碑店乡陶家湾",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "016f1d4ce4be3ca8131fb8579968352e",
+        "lng": "116.542572",
+        "lat": "39.9053",
+        "doc_id": "90000052_016f1d4ce4be3ca8131fb8579968352e",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "来广营乡筑华年",
+        "show_address": "来广营乡筑华年",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区来广营乡筑华年",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "76959d5e22c316f2cae80e32837f9650",
+        "lng": "116.427711",
+        "lat": "40.036083",
+        "doc_id": "90000052_76959d5e22c316f2cae80e32837f9650",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "亚运村街道",
+        "community": "安慧北里",
+        "show_address": "安慧北里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区亚运村街道安慧北里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "6e6e1083f7c1eb04298662f303e2d18c",
+        "lng": "116.414322",
+        "lat": "39.995655",
+        "doc_id": "90000052_6e6e1083f7c1eb04298662f303e2d18c",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "奥运村街道",
+        "community": "林萃路10号院",
+        "show_address": "林萃路10号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区奥运村街道林萃路10号院",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "eec757c91fbfae5f665f86ae6acb4178",
+        "lng": "116.374276",
+        "lat": "40.010511",
+        "doc_id": "90000052_eec757c91fbfae5f665f86ae6acb4178",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "来广营乡",
+        "community": "明天第一城",
+        "show_address": "明天第一城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区来广营乡明天第一城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "c60d8666d1a5bf2a4fc95aca8ed51b8f",
+        "lng": "116.40921",
+        "lat": "40.046188",
+        "doc_id": "90000052_c60d8666d1a5bf2a4fc95aca8ed51b8f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "将台乡芳园里小区",
+        "show_address": "将台乡芳园里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区将台乡芳园里小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "792b697c7dbabcd4bbe0895be2094059",
+        "lng": "116.48835",
+        "lat": "39.974339",
+        "doc_id": "90000052_792b697c7dbabcd4bbe0895be2094059",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "高碑店北花园社区超级蜂巢",
+        "show_address": "高碑店北花园社区超级蜂巢",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区高碑店北花园社区超级蜂巢",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "b91f451d4cf8dac5d1edbd35aed2b7ac",
+        "lng": "116.548889",
+        "lat": "39.899143",
+        "doc_id": "90000052_b91f451d4cf8dac5d1edbd35aed2b7ac",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "",
+        "community": "世纪东方嘉园",
+        "show_address": "世纪东方嘉园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区南磨房乡世纪东方嘉园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "3489a409714cfdfb544588869263a647",
+        "lng": "116.4935",
+        "lat": "39.875549",
+        "doc_id": "90000052_3489a409714cfdfb544588869263a647",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "垡头街道",
+        "community": "翠城熙园小区",
+        "show_address": "翠城熙园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区垡头街道翠城熙园小区",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "北京2月13日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/XW51bawiZgvqekag1RQrzA"
+          }
+        ],
+        "id": "3864c8a371984ab5ff93efe7f1c6377f",
+        "lng": "116.50351",
+        "lat": "39.856232",
+        "doc_id": "90000052_3864c8a371984ab5ff93efe7f1c6377f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "和平街",
+        "community": "和平家园10区",
+        "show_address": "和平家园10区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区和平街和平家园10区",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "北京2月21日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/6ypmdLiKjh_vI094OvySgw"
+          }
+        ],
+        "id": "b99109bef7c6ccc6494f3622dc746272",
+        "lng": "116.422623",
+        "lat": "39.962959",
+        "doc_id": "90000052_b99109bef7c6ccc6494f3622dc746272",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "常营中路6号院",
+        "community": "",
+        "show_address": "常营中路6号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区常营乡常营中路6号院",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "北京2月21日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/6ypmdLiKjh_vI094OvySgw"
+          }
+        ],
+        "id": "fdf1f662d762d28bda9ca87c198eac9f",
+        "lng": "116.60249",
+        "lat": "39.92742",
+        "doc_id": "90000052_fdf1f662d762d28bda9ca87c198eac9f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "朝阳区",
+        "county": "",
+        "street": "安贞街道",
+        "community": "裕民路甲3号",
+        "show_address": "裕民路甲3号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市朝阳区安贞街道裕民路甲3号",
+        "release_date": "20200229",
+        "article_source": [
+          {
+            "title": "北京2月24日新发病例活动过的小区公布！",
+            "url": "https://mp.weixin.qq.com/s/W-AM5ljAzqEmg0Sa9FZotg"
+          },
+          {
+            "title": "北京2月26日新发病例活动过的小区，看这里！",
+            "url": "https://mp.weixin.qq.com/s/G-cICg9f7jJdosBKv540yw"
+          },
+          {
+            "title": "北京2月28日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/upTvlb7EeKzSnTkwa2Onag"
+          }
+        ],
+        "id": "d4cb2e9f44e5bdd75a1b47d2ca9f1ee4",
+        "lng": "116.38794",
+        "lat": "39.97438",
+        "doc_id": "90000052_d4cb2e9f44e5bdd75a1b47d2ca9f1ee4",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "海淀区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "北太平庄街道",
+        "community": "新街口外大街15号院",
+        "show_address": "新街口外大街15号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区北太平庄街道新街口外大街15号院",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "ef54f088220da3c94efac5be6de2b3e9",
+        "lng": "116.370025",
+        "lat": "39.963371",
+        "doc_id": "90000052_ef54f088220da3c94efac5be6de2b3e9",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "紫竹院街道",
+        "community": "民族大学西路66号鑫德家园",
+        "show_address": "民族大学西路66号鑫德家园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区紫竹院街道民族大学西路66号鑫德家园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "a6c5573aba173b0798b23f32f184b918",
+        "lng": "116.3173",
+        "lat": "39.9495",
+        "doc_id": "90000052_a6c5573aba173b0798b23f32f184b918",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "中关村街道",
+        "community": "中科院东南小区",
+        "show_address": "中科院东南小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区中关村街道中科院东南小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "4f8bf43adef7e1240d83d136fecbed27",
+        "lng": "116.323593",
+        "lat": "39.978989",
+        "doc_id": "90000052_4f8bf43adef7e1240d83d136fecbed27",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "北太平庄街道",
+        "community": "北京师范大学小区",
+        "show_address": "北京师范大学小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区北太平庄街道北京师范大学小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "d9033e66e046595799a2b10446bba7b5",
+        "lng": "116.365944",
+        "lat": "39.960609",
+        "doc_id": "90000052_d9033e66e046595799a2b10446bba7b5",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "田村路街道",
+        "community": "玉海园二里小区",
+        "show_address": "玉海园二里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区田村路街道玉海园二里小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "53d9b08ea260e6b52d9217e1ac2bf210",
+        "lng": "116.253677",
+        "lat": "39.919514",
+        "doc_id": "90000052_53d9b08ea260e6b52d9217e1ac2bf210",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "中关村街道",
+        "community": "知春路82号院小区",
+        "show_address": "知春路82号院小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区中关村街道知春路82号院小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月9日新冠肺炎新发病例在这些小区或场所活动过！",
+            "url": "https://m.weibo.cn/status/4470451361130883?"
+          }
+        ],
+        "id": "7e4df0b309993e0d8074273db8bc484b",
+        "lng": "116.329456",
+        "lat": "39.974753",
+        "doc_id": "90000052_7e4df0b309993e0d8074273db8bc484b",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "中关村街道",
+        "community": "软件小区",
+        "show_address": "软件小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区中关村街道软件小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京2月10日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/status/4470813413414657?"
+          }
+        ],
+        "id": "b57cf6c50833add764edeef46b50b18f",
+        "lng": "116.335518",
+        "lat": "39.98159",
+        "doc_id": "90000052_b57cf6c50833add764edeef46b50b18f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "紫竹院街道",
+        "community": "鑫德嘉园",
+        "show_address": "鑫德嘉园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区紫竹院街道鑫德嘉园",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "北京2月13日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/XW51bawiZgvqekag1RQrzA"
+          },
+          {
+            "title": "北京2月14日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/CDeSgrx_KqwZqOujnhUQ9Q"
+          },
+          {
+            "title": "北京2月18日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/45tygKyvb7hLa4kVpIqXxA"
+          }
+        ],
+        "id": "282965a8076d5d0f083792f6fa91d2d3",
+        "lng": "116.317482",
+        "lat": "39.949142",
+        "doc_id": "90000052_282965a8076d5d0f083792f6fa91d2d3",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "county": "",
+        "street": "",
+        "community": "唐家岭新城T05小区",
+        "show_address": "唐家岭新城T05小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市海淀区西北旺（地区）镇唐家岭新城T05小区",
+        "release_date": "20200302",
+        "article_source": [
+          {
+            "title": "北京3月1日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/NW94Lyn0by4bcNTHpXDsLg"
+          }
+        ],
+        "id": "634d021aacf5091dc87f4808afc09d1e",
+        "lng": "116.275215",
+        "lat": "40.039284",
+        "doc_id": "90000052_634d021aacf5091dc87f4808afc09d1e",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "石景山区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "石景山区",
+        "county": "",
+        "street": "五里坨街道",
+        "community": "西街天翠阳光新城",
+        "show_address": "西街天翠阳光新城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市石景山区五里坨街道西街天翠阳光新城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "11e67fa6bf6b1bdf4613fa5820e34149",
+        "lng": "116.123558",
+        "lat": "39.95443",
+        "doc_id": "90000052_11e67fa6bf6b1bdf4613fa5820e34149",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "石景山区",
+        "county": "",
+        "street": "八宝山街道",
+        "community": "鲁谷远洋山水",
+        "show_address": "鲁谷远洋山水",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市石景山区八宝山街道鲁谷远洋山水",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "47d1d9902035cd0723ed6e9c6e0fe4db",
+        "lng": "116.23951",
+        "lat": "39.900459",
+        "doc_id": "90000052_47d1d9902035cd0723ed6e9c6e0fe4db",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "石景山区",
+        "county": "",
+        "street": "",
+        "community": "玉泉北里2区",
+        "show_address": "玉泉北里2区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市石景山区玉泉北里2区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          }
+        ],
+        "id": "58f8ae29f43c9c3f7ef8366130659577",
+        "lng": "116.248871",
+        "lat": "39.91946",
+        "doc_id": "90000052_58f8ae29f43c9c3f7ef8366130659577",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "石景山区",
+        "county": "",
+        "street": "老山街道",
+        "community": "玉泉北里2区",
+        "show_address": "玉泉北里2区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市石景山区老山街道玉泉北里2区",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "北京2月13日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/XW51bawiZgvqekag1RQrzA"
+          }
+        ],
+        "id": "bb9b8ae2869eaa1990623fc867f840a8",
+        "lng": "116.247726",
+        "lat": "39.919353",
+        "doc_id": "90000052_bb9b8ae2869eaa1990623fc867f840a8",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "西城区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "展览路街道",
+        "community": "南营房社区",
+        "show_address": "南营房社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区展览路街道南营房社区",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          },
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          }
+        ],
+        "id": "3f2359793abc63dc140c558f7366cb3f",
+        "lng": "116.350113",
+        "lat": "39.918201",
+        "doc_id": "90000052_3f2359793abc63dc140c558f7366cb3f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "月坛街道",
+        "community": "复兴门外大街甲20号",
+        "show_address": "复兴门外大街甲20号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛街道复兴门外大街甲20号",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "新冠肺炎病例发病期间活动过的小区或场所首次发布",
+            "url": "https://view.inews.qq.com/a/20200206A0FDXK00?uid=100002432933&shareto=wx&devid=CCB8A9B0-2626-4750-A089-3E39160270FE&qimei=ccb8a9b0-2626-4750-a089-3e39160270fe&openid=o04IBAN51LDg3QyZgad2arqZge-4&key=5ca1c72b3b00563e2c7980f41b2dee82d20374f60e0142afb231dc843a162f808c5f120e3c529e4aa6e4cde464770b8d9c58ed4abf4860a4ccf006e9f2ff1682aa9f2ad39e9859cad7adf2f362b2f33e&version=6208006f&devicetype=Windows+10&wuid=oDdoCtx_oCDN8as2DVnkwOUU4h2Q&cv=0x6208006f&dt=15&lang=zh_CN&pass_ticket=mqQ3RhFHJ7fP9dVN6EWKuItgKzkt8MnSdFTBdBCv2%2BZ%2B1PcSE%2BNEm50iJquDKivv"
+          },
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          },
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          },
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          },
+          {
+            "title": "北京2月18日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/45tygKyvb7hLa4kVpIqXxA"
+          }
+        ],
+        "id": "595a5529892c8656dddd980c251ea785",
+        "lng": "116.33971",
+        "lat": "39.9064",
+        "doc_id": "90000052_595a5529892c8656dddd980c251ea785",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "",
+        "community": "新街口街道富国里",
+        "show_address": "新街口街道富国里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区新街口街道富国里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "40c29c1f7c461abba7b2f6a9a3a28962",
+        "lng": "116.365723",
+        "lat": "39.930149",
+        "doc_id": "90000052_40c29c1f7c461abba7b2f6a9a3a28962",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "月坛街道",
+        "community": "三里河三区",
+        "show_address": "三里河三区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛街道三里河三区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京2月10日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/status/4470813413414657?"
+          }
+        ],
+        "id": "125c87a5d4e2c9b81d5f507eca9e483b",
+        "lng": "116.339264",
+        "lat": "39.909752",
+        "doc_id": "90000052_125c87a5d4e2c9b81d5f507eca9e483b",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "广安门外街道",
+        "community": "红居南街1号院",
+        "show_address": "红居南街1号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区广安门外街道红居南街1号院",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          }
+        ],
+        "id": "ec195dd5b5b197929243f00a6411d8d5",
+        "lng": "116.33934",
+        "lat": "39.8836",
+        "doc_id": "90000052_ec195dd5b5b197929243f00a6411d8d5",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "月坛街道",
+        "community": "复兴门外大街20号",
+        "show_address": "复兴门外大街20号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛街道复兴门外大街20号",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          }
+        ],
+        "id": "697466eb79b5e726714ca0d9ce02a74f",
+        "lng": "116.33991",
+        "lat": "39.90688",
+        "doc_id": "90000052_697466eb79b5e726714ca0d9ce02a74f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "月坛街道",
+        "community": "莲花池东路甲5号院",
+        "show_address": "莲花池东路甲5号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛街道莲花池东路甲5号院",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          }
+        ],
+        "id": "454d0aa15dff6829f99f5bc9221427ec",
+        "lng": "116.33956",
+        "lat": "39.89841",
+        "doc_id": "90000052_454d0aa15dff6829f99f5bc9221427ec",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "广安门外街道",
+        "community": "三义东里",
+        "show_address": "三义东里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区广安门外街道三义东里",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "北京2月18日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/45tygKyvb7hLa4kVpIqXxA"
+          }
+        ],
+        "id": "4cd3d9702a575e5a05689e5f602cde06",
+        "lng": "116.332985",
+        "lat": "39.888783",
+        "doc_id": "90000052_4cd3d9702a575e5a05689e5f602cde06",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "月坛街道",
+        "community": "三里河一区",
+        "show_address": "三里河一区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛街道三里河一区",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "北京2月18日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/45tygKyvb7hLa4kVpIqXxA"
+          }
+        ],
+        "id": "64debecd44135940fcb6a991ab875964",
+        "lng": "116.34214",
+        "lat": "39.916176",
+        "doc_id": "90000052_64debecd44135940fcb6a991ab875964",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "西城区",
+        "county": "",
+        "street": "",
+        "community": "月坛三里河一区",
+        "show_address": "月坛三里河一区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市西城区月坛三里河一区",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "北京2月19日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/lk80CLU1eiTDC2g4iDmb5g"
+          }
+        ],
+        "id": "b3cde2dda51bf4a15c15a13dc218a192",
+        "lng": "116.34214",
+        "lat": "39.916176",
+        "doc_id": "90000052_b3cde2dda51bf4a15c15a13dc218a192",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "丰台区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "丰台街道",
+        "community": "电报局街小区",
+        "show_address": "电报局街小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区丰台街道电报局街小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "6c0d423b1d34bfb2305d24e71e8cc872",
+        "lng": "116.286903",
+        "lat": "39.849232",
+        "doc_id": "90000052_6c0d423b1d34bfb2305d24e71e8cc872",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "卢沟桥街道",
+        "community": "西府颐园",
+        "show_address": "西府颐园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区卢沟桥街道西府颐园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "cfbde02b04921518ccad11c59d30ba63",
+        "lng": "116.267921",
+        "lat": "39.883171",
+        "doc_id": "90000052_cfbde02b04921518ccad11c59d30ba63",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "东铁营街道",
+        "community": "定安东里",
+        "show_address": "定安东里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区东铁营街道定安东里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "19706c055b9de24e6cb3fe022f7f4dc2",
+        "lng": "116.414841",
+        "lat": "39.85947",
+        "doc_id": "90000052_19706c055b9de24e6cb3fe022f7f4dc2",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "丰台街道",
+        "community": "建国街一里",
+        "show_address": "建国街一里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区丰台街道建国街一里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "1924ff06321fa134c0424b1c47eb7dfd",
+        "lng": "116.293396",
+        "lat": "39.847782",
+        "doc_id": "90000052_1924ff06321fa134c0424b1c47eb7dfd",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "太平桥街道",
+        "community": "华源四里",
+        "show_address": "华源四里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区太平桥街道华源四里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "462f8adfe8bc8cbfaba0d7e8cdcc4f71",
+        "lng": "116.317902",
+        "lat": "39.880962",
+        "doc_id": "90000052_462f8adfe8bc8cbfaba0d7e8cdcc4f71",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "新村街道",
+        "community": "富丰园",
+        "show_address": "富丰园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区新村街道富丰园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "05061496324b2e3709f4c99f8f5d0938",
+        "lng": "116.282761",
+        "lat": "39.837036",
+        "doc_id": "90000052_05061496324b2e3709f4c99f8f5d0938",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "东高地街道",
+        "community": "万源南里小区",
+        "show_address": "万源南里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区东高地街道万源南里小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "abbe5a3ce65cbdaa3c0dce97993d0cd0",
+        "lng": "116.42553",
+        "lat": "39.7973",
+        "doc_id": "90000052_abbe5a3ce65cbdaa3c0dce97993d0cd0",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "新村街道",
+        "community": "刘孟家园小区",
+        "show_address": "刘孟家园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区新村街道刘孟家园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月9日新冠肺炎新发病例在这些小区或场所活动过！",
+            "url": "https://m.weibo.cn/status/4470451361130883?"
+          }
+        ],
+        "id": "6f149c96654e4c9d79c35783f7acf180",
+        "lng": "116.302071",
+        "lat": "39.838261",
+        "doc_id": "90000052_6f149c96654e4c9d79c35783f7acf180",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "花乡街道",
+        "community": "幸福家园小区东区",
+        "show_address": "幸福家园小区东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区花乡街道幸福家园小区东区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月9日新冠肺炎新发病例在这些小区或场所活动过！",
+            "url": "https://m.weibo.cn/status/4470451361130883?"
+          }
+        ],
+        "id": "5971ae77edfc4451e43f16f5edb25d2e",
+        "lng": "116.310715",
+        "lat": "39.818203",
+        "doc_id": "90000052_5971ae77edfc4451e43f16f5edb25d2e",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "花乡地区",
+        "community": "刘孟家园小区",
+        "show_address": "刘孟家园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区花乡地区刘孟家园小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          }
+        ],
+        "id": "e36a4482728a31410093679d2da116b6",
+        "lng": "116.302071",
+        "lat": "39.838261",
+        "doc_id": "90000052_e36a4482728a31410093679d2da116b6",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "南苑街道",
+        "community": "南庭新苑北区",
+        "show_address": "南庭新苑北区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区南苑街道南庭新苑北区",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          }
+        ],
+        "id": "ddc57f16373b183affdd1e06bb3bf8db",
+        "lng": "116.36904",
+        "lat": "39.80689",
+        "doc_id": "90000052_ddc57f16373b183affdd1e06bb3bf8db",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "右安门街道",
+        "community": "家和园小区",
+        "show_address": "家和园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区右安门街道家和园小区",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          },
+          {
+            "title": "北京2月14日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/CDeSgrx_KqwZqOujnhUQ9Q"
+          }
+        ],
+        "id": "ce170ec2a0e5e8ffc073d9c7572488f4",
+        "lng": "116.360748",
+        "lat": "39.860336",
+        "doc_id": "90000052_ce170ec2a0e5e8ffc073d9c7572488f4",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "",
+        "community": "花乡幸福家园小区东区",
+        "show_address": "花乡幸福家园小区东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区花乡幸福家园小区东区",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "北京2月14日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/CDeSgrx_KqwZqOujnhUQ9Q"
+          }
+        ],
+        "id": "b9ae57b28ffde04f09f4e83bdc7221d9",
+        "lng": "116.310715",
+        "lat": "39.818203",
+        "doc_id": "90000052_b9ae57b28ffde04f09f4e83bdc7221d9",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "新村街道",
+        "community": "富丰园小区",
+        "show_address": "富丰园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区新村街道富丰园小区",
+        "release_date": "20200221",
+        "article_source": [
+          {
+            "title": "北京2月15日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/vxoSnf1vLKFd2oZHEektlg"
+          },
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          },
+          {
+            "title": "北京2月20日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/dSwzw1jS_42Cb7vplUHt6A"
+          }
+        ],
+        "id": "0803fbb078442a9e559e4405ecd5748a",
+        "lng": "116.282761",
+        "lat": "39.837036",
+        "doc_id": "90000052_0803fbb078442a9e559e4405ecd5748a",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "丰台区",
+        "county": "",
+        "street": "大红门街道",
+        "community": "石榴园南里小区",
+        "show_address": "石榴园南里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市丰台区大红门街道石榴园南里小区",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "北京2月26日新发病例活动过的小区，看这里！",
+            "url": "https://mp.weixin.qq.com/s/G-cICg9f7jJdosBKv540yw"
+          }
+        ],
+        "id": "3ba62a0d7c33b2aaa0fd95563187f083",
+        "lng": "116.418259",
+        "lat": "39.844082",
+        "doc_id": "90000052_3ba62a0d7c33b2aaa0fd95563187f083",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "房山区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "房山区",
+        "county": "",
+        "street": "西潞街道",
+        "community": "西潞东里小区",
+        "show_address": "西潞东里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市房山区西潞街道西潞东里小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "aa84895584fa03e3bc8acaca768432f1",
+        "lng": "116.135231",
+        "lat": "39.733238",
+        "doc_id": "90000052_aa84895584fa03e3bc8acaca768432f1",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "房山区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "西白岱村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市房山区张坊镇西白岱村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          }
+        ],
+        "id": "1b4794856b68792856835364a83507c5",
+        "lng": "115.736198",
+        "lat": "39.56778",
+        "doc_id": "90000052_1b4794856b68792856835364a83507c5",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "房山区",
+        "county": "",
+        "street": "祥云街1号院",
+        "community": "",
+        "show_address": "祥云街1号院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市房山区长阳镇祥云街1号院",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "北京2月15日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/vxoSnf1vLKFd2oZHEektlg"
+          }
+        ],
+        "id": "e1c7e4de67bf7263de5c21f83783010f",
+        "lng": "116.204817",
+        "lat": "39.763028",
+        "doc_id": "90000052_e1c7e4de67bf7263de5c21f83783010f",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "房山区",
+        "county": "",
+        "street": "",
+        "community": "康泽佳苑小区",
+        "show_address": "康泽佳苑小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市房山区长阳镇康泽佳苑小区",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "就一个！北京2月16日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/PC7-D44S2_coEQiNmqQl7g"
+          }
+        ],
+        "id": "3bf0947c4bcd992f66721b00188d8321",
+        "lng": "116.207199",
+        "lat": "39.768761",
+        "doc_id": "90000052_3bf0947c4bcd992f66721b00188d8321",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "昌平区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "天通苑北街道",
+        "community": "天通苑北一区",
+        "show_address": "天通苑北一区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区天通苑北街道天通苑北一区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "a0574aedb3ec054f8465375a2acedf50",
+        "lng": "116.417297",
+        "lat": "40.076759",
+        "doc_id": "90000052_a0574aedb3ec054f8465375a2acedf50",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "龙泽园街道",
+        "community": "龙泽苑东区",
+        "show_address": "龙泽苑东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区龙泽园街道龙泽苑东区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "acb75e29b6f50df5b38f5c15f2250acd",
+        "lng": "116.326332",
+        "lat": "40.073669",
+        "doc_id": "90000052_acb75e29b6f50df5b38f5c15f2250acd",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "",
+        "community": "长滩壹号",
+        "show_address": "长滩壹号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区南邵镇长滩壹号",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "北京2月10日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/status/4470813413414657?"
+          },
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          }
+        ],
+        "id": "938a7ee19c0deb49e10dd7282aa66aed",
+        "lng": "116.274963",
+        "lat": "40.197479",
+        "doc_id": "90000052_938a7ee19c0deb49e10dd7282aa66aed",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "",
+        "community": "北亚花园社区",
+        "show_address": "北亚花园社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区北七家镇北亚花园社区",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          }
+        ],
+        "id": "fa4058f6be383ed59343f1448f4cc550",
+        "lng": "116.421494",
+        "lat": "40.129375",
+        "doc_id": "90000052_fa4058f6be383ed59343f1448f4cc550",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "天通苑南街道",
+        "community": "天通东苑二区",
+        "show_address": "天通东苑二区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区天通苑南街道天通东苑二区",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "北京2月12日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/8sVDyheTuCXjLxQcukVxrQ"
+          },
+          {
+            "title": "北京2月15日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/vxoSnf1vLKFd2oZHEektlg"
+          },
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          }
+        ],
+        "id": "b5c05f90dbf9a4fa3fc33f4145799e94",
+        "lng": "116.4394",
+        "lat": "40.06607",
+        "doc_id": "90000052_b5c05f90dbf9a4fa3fc33f4145799e94",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "",
+        "community": "天通苑东三区2号",
+        "show_address": "天通苑东三区2号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区天通苑东三区2号",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          }
+        ],
+        "id": "bea89f09ae3f29c84fa0b795af91c9dd",
+        "lng": "116.439049",
+        "lat": "40.073002",
+        "doc_id": "90000052_bea89f09ae3f29c84fa0b795af91c9dd",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "昌平区",
+        "county": "",
+        "street": "天通苑北街道",
+        "community": "天通北苑一区",
+        "show_address": "天通北苑一区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市昌平区天通苑北街道天通北苑一区",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "北京2月17日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/w3hOQj_Ue7gsnVaqlXnt1Q"
+          }
+        ],
+        "id": "e55e5af9a466d141c51e526561bd8b5b",
+        "lng": "116.41789",
+        "lat": "40.07656",
+        "doc_id": "90000052_e55e5af9a466d141c51e526561bd8b5b",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "顺义区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "顺义区",
+        "county": "",
+        "street": "空港街道",
+        "community": "龙湖滟澜山",
+        "show_address": "龙湖滟澜山",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市顺义区空港街道龙湖滟澜山",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "37211ada87ff915982693e5309a27f82",
+        "lng": "116.50148",
+        "lat": "40.091801",
+        "doc_id": "90000052_37211ada87ff915982693e5309a27f82",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "顺义区",
+        "county": "",
+        "street": "",
+        "community": "胜利街道义宾南区",
+        "show_address": "胜利街道义宾南区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市顺义区胜利街道义宾南区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "#北京公布2月8日新发病例活动小区或场所#",
+            "url": "https://m.weibo.cn/status/4470089023572923?"
+          }
+        ],
+        "id": "1c199f7b87183446ef9b96e5d6d9c647",
+        "lng": "116.646248",
+        "lat": "40.130978",
+        "doc_id": "90000052_1c199f7b87183446ef9b96e5d6d9c647",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "通州区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "通州区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "崔各庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市通州区于家务回族乡崔各庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "【#2月6日新发病例活动过的小区或场所# ，在这里！】",
+            "url": "https://m.weibo.cn/status/4469366836159267?"
+          }
+        ],
+        "id": "29a30f70dfbc468c1e9c648511439ba4",
+        "lng": "116.7183",
+        "lat": "39.693851",
+        "doc_id": "90000052_29a30f70dfbc468c1e9c648511439ba4",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "通州区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "马驹桥镇北门口村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市通州区马驹桥镇北门口村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "北京2月10日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/status/4470813413414657?"
+          }
+        ],
+        "id": "5d00e3a2ae42f5bc5dd2bce0216213db",
+        "lng": "116.553642",
+        "lat": "39.766441",
+        "doc_id": "90000052_5d00e3a2ae42f5bc5dd2bce0216213db",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "通州区",
+        "county": "",
+        "street": "",
+        "community": "北杨洼小区梨园家属院",
+        "show_address": "北杨洼小区梨园家属院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市通州区梨园镇北杨洼小区梨园家属院",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "北京2月15日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/vxoSnf1vLKFd2oZHEektlg"
+          },
+          {
+            "title": "北京2月19日新发病例活动过的小区或场所，看这里！",
+            "url": "https://mp.weixin.qq.com/s/lk80CLU1eiTDC2g4iDmb5g"
+          }
+        ],
+        "id": "848344c86b2ea8cb5752d7ad6d6241ea",
+        "lng": "116.66819",
+        "lat": "39.889252",
+        "doc_id": "90000052_848344c86b2ea8cb5752d7ad6d6241ea",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "密云区": [
+      {
+        "province": "北京市",
+        "city": "北京市",
+        "district": "密云区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "河槽村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "北京市密云区十里堡镇河槽村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "北京市疫情最新通报，附2月7日新发病例活动过的小区或场所",
+            "url": "https://mp.weixin.qq.com/s/Slt3aKxHmVftV5yvZALaaA"
+          },
+          {
+            "title": "北京2月11日新发病例活动过的小区或场所，看这里！",
+            "url": "https://m.weibo.cn/1893892941/4471175315008089"
+          }
+        ],
+        "id": "817e67f11cc2088ab1047057e83ef0d7",
+        "lng": "116.801804",
+        "lat": "40.358109",
+        "doc_id": "90000052_817e67f11cc2088ab1047057e83ef0d7",
+        "source": [
+          {
+            "name": "北京日报",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

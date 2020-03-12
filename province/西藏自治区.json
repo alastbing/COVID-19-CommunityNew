@@ -1,0 +1,28 @@
+{"西藏自治区": {
+  "拉萨市": {
+    "山南市": [
+      {
+        "province": "西藏自治区",
+        "city": "拉萨市",
+        "district": "山南市",
+        "middle_address": "贡嘎县",
+        "show_address": "贡嘎机场",
+        "full_address": "西藏自治区拉萨市山南市贡嘎县贡嘎机场",
+        "id": "eb60d9837c92f0c5ff2791278ea27975",
+        "article_source": [
+          {
+            "title": "全市疫情确诊病例追溯",
+            "url": "https://mp.weixin.qq.com/s/_ZKLrYIa86y4Ny07KQJOfQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200209",
+        "lng": "90.901581",
+        "lat": "29.282988",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

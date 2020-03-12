@@ -1,0 +1,28 @@
+{"新疆维吾尔自治区": {
+  "乌鲁木齐市": {
+    "新市区": [
+      {
+        "province": "新疆维吾尔自治区",
+        "city": "乌鲁木齐市",
+        "district": "新市区",
+        "middle_address": "安宁渠路169号",
+        "show_address": "乌鲁木齐维也纳国际酒店（国际机场店）",
+        "full_address": "新疆维吾尔自治区乌鲁木齐市新市区安宁渠路169号乌鲁木齐维也纳国际酒店（国际机场店）",
+        "id": "88c925b08e6d49fc31a12478ccd5427e",
+        "article_source": [
+          {
+            "title": "为防疫情扩散 哈尔滨公布新增9例确诊患者活动轨迹",
+            "url": "https://news.163.com/20/0206/18/F4NJHBE90001899O.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200206",
+        "lng": "87.52145",
+        "lat": "43.90773",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

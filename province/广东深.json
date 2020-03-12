@@ -1,0 +1,32 @@
+{"广东深": {
+  "珠海市": {
+    "金湾区": [
+      {
+        "province": "广东深",
+        "city": "珠海市",
+        "district": "金湾区",
+        "middle_address": "金海东路",
+        "show_address": "珠海机场",
+        "full_address": "广东深珠海市金湾区金海东路珠海机场",
+        "id": "12c718cf5f2d5772a86ff709e98c0011",
+        "article_source": [
+          {
+            "title": "全市疫情确诊病例追溯",
+            "url": "https://mp.weixin.qq.com/s/_ZKLrYIa86y4Ny07KQJOfQ"
+          },
+          {
+            "title": "全市疫情确诊病例追溯",
+            "url": "https://mp.weixin.qq.com/s/_ZKLrYIa86y4Ny07KQJOfQ"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200209",
+        "lng": "113.382729",
+        "lat": "22.006611",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

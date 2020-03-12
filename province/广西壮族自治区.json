@@ -1,0 +1,2596 @@
+{"广西壮族自治区": {
+  "南宁市": {
+    "江南区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "江南区",
+        "county": "",
+        "street": "白沙大道19号",
+        "community": "金湾花城",
+        "show_address": "金湾花城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市江南区白沙大道19号金湾花城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "e5b8ec5df450c681a414a78e4cc5a6f6",
+        "lng": "108.32747",
+        "lat": "22.78343",
+        "doc_id": "90000052_e5b8ec5df450c681a414a78e4cc5a6f6",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "良庆区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "良庆区",
+        "county": "",
+        "street": "",
+        "community": "天誉城",
+        "show_address": "天誉城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市良庆区良庆镇天誉城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "4e1136cb77cf030b76f6b0b74bcfdca5",
+        "lng": "108.427086",
+        "lat": "22.756317",
+        "doc_id": "90000052_4e1136cb77cf030b76f6b0b74bcfdca5",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "良庆区",
+        "county": "",
+        "street": "五象大道",
+        "community": "光明澜湾九里",
+        "show_address": "光明澜湾九里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市良庆区五象大道光明澜湾九里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日南宁市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4196623.html"
+          }
+        ],
+        "id": "373a9075ade0a88ee27c2c706359e9f4",
+        "lng": "108.398781",
+        "lat": "22.76309",
+        "doc_id": "90000052_373a9075ade0a88ee27c2c706359e9f4",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "邕宁区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "邕宁区",
+        "county": "",
+        "street": "新邕路198号",
+        "community": "君华锦云小区",
+        "show_address": "君华锦云小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市邕宁区新邕路198号君华锦云小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "04ad8af468f8730bea6719980e930dc8",
+        "lng": "108.478902",
+        "lat": "22.781561",
+        "doc_id": "90000052_04ad8af468f8730bea6719980e930dc8",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "邕宁区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "祥旦村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市邕宁区中和镇祥旦村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "f4812c2353ee6096e57bc7a80b26036d",
+        "lng": "108.763031",
+        "lat": "22.70966",
+        "doc_id": "90000052_f4812c2353ee6096e57bc7a80b26036d",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "隆安县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "隆安县",
+        "county": "隆安县",
+        "street": "",
+        "community": "",
+        "show_address": "那门村平安屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市隆安县那桐镇那门村平安屯",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "485ebdb9c8a51a701c4de7a265c55ae4",
+        "lng": "107.851067",
+        "lat": "23.07926",
+        "doc_id": "90000052_485ebdb9c8a51a701c4de7a265c55ae4",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "隆安县",
+        "county": "隆安县",
+        "street": "",
+        "community": "",
+        "show_address": "上邓村花陆屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市隆安县那桐镇上邓村花陆屯",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "f7575dca71ba7de49d6b3b17539b535c",
+        "lng": "107.800179",
+        "lat": "23.076191",
+        "doc_id": "90000052_f7575dca71ba7de49d6b3b17539b535c",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "隆安县",
+        "county": "隆安县",
+        "street": "城西路25号",
+        "community": "",
+        "show_address": "城西路25号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市隆安县城厢镇城西路25号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "7fa3940e182656ab349463c0a0c86b55",
+        "lng": "107.68787",
+        "lat": "23.17454",
+        "doc_id": "90000052_7fa3940e182656ab349463c0a0c86b55",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "青秀区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "星湖路",
+        "community": "北一里民语委小区",
+        "show_address": "北一里民语委小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区星湖路北一里民语委小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "cc2d3b13209e49bb9ed6a01c386051e1",
+        "lng": "108.49693",
+        "lat": "22.78658",
+        "doc_id": "90000052_cc2d3b13209e49bb9ed6a01c386051e1",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "仙葫大道",
+        "community": "天池山小区",
+        "show_address": "天池山小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区仙葫大道天池山小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月10日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4198944.html"
+          },
+          {
+            "title": "2020年2月11日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4199966.html"
+          }
+        ],
+        "id": "7569a3c0474a8dbcce92d812cabe78d8",
+        "lng": "108.458138",
+        "lat": "22.81039",
+        "doc_id": "90000052_7569a3c0474a8dbcce92d812cabe78d8",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "民族大道168号",
+        "community": "翡翠园小区",
+        "show_address": "翡翠园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区民族大道168号翡翠园小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2020年2月11日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4199966.html"
+          }
+        ],
+        "id": "fe63db63404cd6ad33760247e47155e3",
+        "lng": "108.40915",
+        "lat": "22.81096",
+        "doc_id": "90000052_fe63db63404cd6ad33760247e47155e3",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "",
+        "community": "佛子岭路21号",
+        "show_address": "佛子岭路21号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区佛子岭路21号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197173.html"
+          }
+        ],
+        "id": "c277fa01fc8f4d668939724abc753650",
+        "lng": "108.40745",
+        "lat": "22.83294",
+        "doc_id": "90000052_c277fa01fc8f4d668939724abc753650",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "竹溪大道73号",
+        "community": "领东尚层",
+        "show_address": "领东尚层",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区竹溪大道73号领东尚层",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          },
+          {
+            "title": "2020年2月8日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197173.html"
+          }
+        ],
+        "id": "d4b4973bf08de3d444389c59d5c0744a",
+        "lng": "108.37375",
+        "lat": "22.80608",
+        "doc_id": "90000052_d4b4973bf08de3d444389c59d5c0744a",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "东葛路159号",
+        "community": "景晖花园",
+        "show_address": "景晖花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区东葛路159号景晖花园",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          },
+          {
+            "title": "2020年2月8日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197173.html"
+          },
+          {
+            "title": "2020年2月11日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4199966.html"
+          }
+        ],
+        "id": "3c88b66bacc716c79e24ca5d8119a7b5",
+        "lng": "108.37202",
+        "lat": "22.83166",
+        "doc_id": "90000052_3c88b66bacc716c79e24ca5d8119a7b5",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "长湖路15号",
+        "community": "中鼎温馨家园",
+        "show_address": "中鼎温馨家园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区长湖路15号中鼎温馨家园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "a0fd5fcbbb0c01141ccd5c74131517a6",
+        "lng": "108.36636",
+        "lat": "22.82676",
+        "doc_id": "90000052_a0fd5fcbbb0c01141ccd5c74131517a6",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "",
+        "community": "覃谢屋10号",
+        "show_address": "覃谢屋10号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区津头村覃谢屋10号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197723.html"
+          }
+        ],
+        "id": "2f028102bbae8955c102f876a0bfeb99",
+        "lng": "108.348824",
+        "lat": "22.794142",
+        "doc_id": "90000052_2f028102bbae8955c102f876a0bfeb99",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "中山街道",
+        "community": "黄屋坡34-1号",
+        "show_address": "黄屋坡34-1号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区中山街道黄屋坡34-1号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月9日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197723.html"
+          }
+        ],
+        "id": "2006fd11a8afe069bfb9e9f173aa7c4f",
+        "lng": "108.34539",
+        "lat": "22.798124",
+        "doc_id": "90000052_2006fd11a8afe069bfb9e9f173aa7c4f",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "星湖路",
+        "community": "南一里一巷18号单位住宅",
+        "show_address": "南一里一巷18号单位住宅",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区星湖路南一里一巷18号单位住宅",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "e9f5e4fd051d3c1d762820f291f440a6",
+        "lng": "108.34351",
+        "lat": "22.80584",
+        "doc_id": "90000052_e9f5e4fd051d3c1d762820f291f440a6",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "青秀区",
+        "county": "",
+        "street": "津头街道",
+        "community": "教育路7号",
+        "show_address": "教育路7号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市青秀区津头街道教育路7号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "a1bed1d7883100a8dd84dec9eb77b9cd",
+        "lng": "108.33821",
+        "lat": "22.80272",
+        "doc_id": "90000052_a1bed1d7883100a8dd84dec9eb77b9cd",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "西乡塘区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "西乡塘区",
+        "middle_address": "",
+        "show_address": "自治区人民医院邕武医院",
+        "full_address": "广西壮族自治区南宁市西乡塘区自治区人民医院邕武医院",
+        "id": "d3df0ba449677e3dc11873793063e95a",
+        "article_source": [
+          {
+            "title": "2020年2月20日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200221-2408176.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200221",
+        "lng": "108.342537",
+        "lat": "22.88711",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "西乡塘区",
+        "county": "",
+        "street": "北大北路25号",
+        "community": "梦泽园小区",
+        "show_address": "梦泽园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市西乡塘区北大北路25号梦泽园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4198944.html"
+          }
+        ],
+        "id": "e70d1fcd9144e28fac7b157aa4a1adc2",
+        "lng": "108.30083",
+        "lat": "22.82406",
+        "doc_id": "90000052_e70d1fcd9144e28fac7b157aa4a1adc2",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "西乡塘区",
+        "county": "",
+        "street": "安园东路9号",
+        "community": "桃花源小区",
+        "show_address": "桃花源小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市西乡塘区安园东路9号桃花源小区",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "2020年2月16日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4203722.html"
+          },
+          {
+            "title": "2020年2月21日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4209066.html"
+          }
+        ],
+        "id": "e20cc42a9931cef7cefdf7739eae74b0",
+        "lng": "108.30961",
+        "lat": "22.8766",
+        "doc_id": "90000052_e20cc42a9931cef7cefdf7739eae74b0",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "西乡塘区",
+        "county": "",
+        "street": "",
+        "community": "大学东路118号",
+        "show_address": "大学东路118号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市西乡塘区大学东路118号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月8日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4197173.html"
+          }
+        ],
+        "id": "7ed502a19addc153c23d38034aab5995",
+        "lng": "108.2845",
+        "lat": "22.83435",
+        "doc_id": "90000052_7ed502a19addc153c23d38034aab5995",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "横县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "横县",
+        "county": "横县",
+        "street": "",
+        "community": "",
+        "show_address": "八联谷闭村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市横县六景镇八联谷闭村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "南宁市截至2月6日24时确诊病例地点",
+            "url": "https://mp.weixin.qq.com/s/1risXFZ606vPE9WPb2A0jA"
+          }
+        ],
+        "id": "9a6ce925458aaea7c6fa90623dd9ff35",
+        "lng": "108.881058",
+        "lat": "22.875931",
+        "doc_id": "90000052_9a6ce925458aaea7c6fa90623dd9ff35",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "马山县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "马山县",
+        "county": "马山县",
+        "street": "",
+        "community": "",
+        "show_address": "乐江村塘乐屯区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市马山县金钗镇乐江村塘乐屯区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4198944.html"
+          }
+        ],
+        "id": "1a0fcf94248e39944649946e035493ab",
+        "lng": "108.43557",
+        "lat": "23.994989",
+        "doc_id": "90000052_1a0fcf94248e39944649946e035493ab",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "马山县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "乐江村塘乐屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市马山县金钗镇乐江村塘乐屯",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "2020年2月15日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4203433.html"
+          },
+          {
+            "title": "2020年2月17日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4204951.html"
+          }
+        ],
+        "id": "8992fba89bf816a9c89801f1a9382933",
+        "lng": "108.43557",
+        "lat": "23.994989",
+        "doc_id": "90000052_8992fba89bf816a9c89801f1a9382933",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "district": "马山县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "乐江村上凌屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区南宁市马山县金钗镇乐江村上凌屯",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "2020年2月17日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4204951.html"
+          },
+          {
+            "title": "2020年2月17日南宁市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.nanning.gov.cn/gzdt/bjdt/t4204951.html"
+          }
+        ],
+        "id": "285a2e271fc5cb90d368bf46cac9aeab",
+        "lng": "108.42627",
+        "lat": "24.022499",
+        "doc_id": "90000052_285a2e271fc5cb90d368bf46cac9aeab",
+        "source": [
+          {
+            "name": "健康南宁",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "来宾市": {
+    "兴宾区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "来宾市",
+        "district": "兴宾区",
+        "county": "",
+        "street": "西山路",
+        "community": "古三安置小区",
+        "show_address": "古三安置小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区来宾市兴宾区西山路古三安置小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "来宾新增1例确诊患者活动轨迹公布，急寻接触者！",
+            "url": "https://view.inews.qq.com/a/20200207A0I1U300?openid=o04IBAB29P2rT6qo8vio4Rz-lMcQ&key=&version=17000a2c&devicetype=iOS13.3&wuid=oDdoCt6ecWveUDxTYkrIHWIWiskc&sharer=o04IBAB29P2rT6qo8vio4Rz-lMcQ&uid=&shareto="
+          }
+        ],
+        "id": "89c42eb18d62fe583d802631820ebb6f",
+        "lng": "109.214813",
+        "lat": "23.74552",
+        "doc_id": "90000052_89c42eb18d62fe583d802631820ebb6f",
+        "source": [
+          {
+            "name": "广西新闻网",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "玉林市": {
+    "玉州区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "玉林市",
+        "district": "玉州区",
+        "county": "",
+        "street": "城西街道",
+        "community": "新团社区人民西路112号",
+        "show_address": "新团社区人民西路112号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区玉林市玉州区城西街道新团社区人民西路112号",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "2月14日玉林新增确诊病例1例，累计10例",
+            "url": "https://mp.weixin.qq.com/s/IdMuEqTvGHzkFBaNpSVJhg"
+          },
+          {
+            "title": "2月18日玉林市新增1例新冠肺炎确诊病例，出院2例",
+            "url": "http://wjw.yulin.gov.cn/yulinshiweishenghejhsywyh/zwyw/791312"
+          }
+        ],
+        "id": "865f3981eea4c25e557d173f9b670d4a",
+        "lng": "110.136394",
+        "lat": "22.611716",
+        "doc_id": "90000052_865f3981eea4c25e557d173f9b670d4a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "玉林市",
+        "district": "玉州区",
+        "middle_address": "金旺路1号",
+        "show_address": "玉林市红十字会医院",
+        "full_address": "广西壮族自治区玉林市玉州区金旺路1号玉林市红十字会医院",
+        "id": "8e2386497266094e48eed04fa6c1a5dd",
+        "article_source": [
+          {
+            "title": "2月18日玉林市新增1例新冠肺炎确诊病例，出院2例",
+            "url": "http://wjw.yulin.gov.cn/yulinshiweishenghejhsywyh/zwyw/791312"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "110.18739",
+        "lat": "22.64189",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "河池市": {
+    "都安瑶族自治县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "百才新区北一巷",
+        "show_address": "百才新区北一巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县安阳镇百才新区北一巷",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "2020年2月14日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200215-2401916.shtml"
+          }
+        ],
+        "id": "b1785604ce8a8f67a36d616025475b32",
+        "lng": "108.100891",
+        "lat": "23.923615",
+        "doc_id": "90000052_b1785604ce8a8f67a36d616025475b32",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "镇南社区",
+        "community": "百才新区北一巷",
+        "show_address": "百才新区北一巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县安阳镇镇南社区百才新区北一巷",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "2020年2月18日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200219-2405588.shtml"
+          }
+        ],
+        "id": "2745aab30765e830a7a04d05487e56a4",
+        "lng": "108.097931",
+        "lat": "23.921961",
+        "doc_id": "90000052_2745aab30765e830a7a04d05487e56a4",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "百才新区北一巷",
+        "show_address": "百才新区北一巷",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县百才新区北一巷",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "2020年2月20日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200221-2408176.shtml"
+          },
+          {
+            "title": "2020年2月21日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200222-2409427.shtml"
+          }
+        ],
+        "id": "4fd67a8d64eebe0becd7a7fc59d044cd",
+        "lng": "108.100891",
+        "lat": "23.923615",
+        "doc_id": "90000052_4fd67a8d64eebe0becd7a7fc59d044cd",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "八仙安置点B区",
+        "show_address": "八仙安置点B区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县八仙安置点B区",
+        "release_date": "20200224",
+        "article_source": [
+          {
+            "title": "2020年2月23日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200224-2410081.shtml"
+          }
+        ],
+        "id": "02a005fb6ac0ae055d510586541ca7e1",
+        "lng": "108.146912",
+        "lat": "23.927719",
+        "doc_id": "90000052_02a005fb6ac0ae055d510586541ca7e1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "大桥路",
+        "community": "",
+        "show_address": "大桥路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县安阳镇大桥路",
+        "release_date": "20200224",
+        "article_source": [
+          {
+            "title": "2020年2月23日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200224-2410081.shtml"
+          }
+        ],
+        "id": "f26dd509c2579efcf88c8efc56a58811",
+        "lng": "108.113098",
+        "lat": "23.929979",
+        "doc_id": "90000052_f26dd509c2579efcf88c8efc56a58811",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "苏利社区",
+        "community": "",
+        "show_address": "苏利社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县安阳镇苏利社区",
+        "release_date": "20200225",
+        "article_source": [
+          {
+            "title": "2020年2月24日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200225-2411280.shtml"
+          }
+        ],
+        "id": "e42c7b7f64462e81955ca80f8baebfc1",
+        "lng": "108.10656",
+        "lat": "23.911398",
+        "doc_id": "90000052_e42c7b7f64462e81955ca80f8baebfc1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "下坳社区塘边屯",
+        "community": "",
+        "show_address": "下坳社区塘边屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县下坳镇下坳社区塘边屯",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          }
+        ],
+        "id": "e0b302c032627ee1d552cc099b5338e3",
+        "lng": "107.935173",
+        "lat": "24.31106",
+        "doc_id": "90000052_e0b302c032627ee1d552cc099b5338e3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "创业园第二期9排",
+        "show_address": "创业园第二期9排",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县创业园第二期9排",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          }
+        ],
+        "id": "b478df5e729aade905c4e65874762d4a",
+        "lng": "108.115761",
+        "lat": "23.955954",
+        "doc_id": "90000052_b478df5e729aade905c4e65874762d4a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "百才新区",
+        "show_address": "百才新区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县安阳镇百才新区",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          },
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "7f6532d1f3c347ad61a2931c93cfe77b",
+        "lng": "108.090263",
+        "lat": "23.91621",
+        "doc_id": "90000052_7f6532d1f3c347ad61a2931c93cfe77b",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "桑里村塘江屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县澄江乡桑里村塘江屯",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "85116843bc61aa01f9aca4f1875c5495",
+        "lng": "108.12252",
+        "lat": "23.93342",
+        "doc_id": "90000052_85116843bc61aa01f9aca4f1875c5495",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "澄江镇创业园",
+        "show_address": "澄江镇创业园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县澄江镇创业园",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "d848de7d6b7df03d6d48154d08a37f40",
+        "lng": "108.115761",
+        "lat": "23.955954",
+        "doc_id": "90000052_d848de7d6b7df03d6d48154d08a37f40",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "桑里村塘江屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县澄江镇桑里村塘江屯",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "856e9954b3afc11a116e93382c6728f2",
+        "lng": "108.12252",
+        "lat": "23.93342",
+        "doc_id": "90000052_856e9954b3afc11a116e93382c6728f2",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "正玄村巴文队",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县高岭镇正玄村巴文队",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          },
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          },
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          }
+        ],
+        "id": "e6583f6c6530a0fd6f0f1ce27d36e2ad",
+        "lng": "108.097733",
+        "lat": "24.022619",
+        "doc_id": "90000052_e6583f6c6530a0fd6f0f1ce27d36e2ad",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "middle_address": "",
+        "show_address": "都安县妇幼保健院",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县都安县妇幼保健院",
+        "id": "d525a435c8366966d5a244170674d399",
+        "article_source": [
+          {
+            "title": "2020年2月20日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200221-2408176.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200221",
+        "lng": "108.101822",
+        "lat": "23.935101",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安瑶族自治县",
+        "middle_address": "",
+        "show_address": "都安县人民医院",
+        "full_address": "广西壮族自治区河池市都安瑶族自治县都安县人民医院",
+        "id": "1602fb3de68070fa6dda51740f5ce102",
+        "article_source": [
+          {
+            "title": "2020年2月20日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200221-2408176.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200221",
+        "lng": "108.32486",
+        "lat": "24.18116",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "南丹县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "南丹县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "八圩村上塘管屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市南丹县八圩乡八圩村上塘管屯",
+        "release_date": "20200211",
+        "article_source": [
+          {
+            "title": "河池公布6名新增确诊病例活动轨迹（2月8日0时-2月9日24时新增，编号接上期）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200211-2397054.shtml"
+          }
+        ],
+        "id": "f55ff7dd08d2efd6062cbe65f6684595",
+        "lng": "107.828453",
+        "lat": "25.049959",
+        "doc_id": "90000052_f55ff7dd08d2efd6062cbe65f6684595",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "宜州区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "宜州区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "板高村沙隘屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市宜州区同德乡板高村沙隘屯",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "6d8c7fa718b3f02f1c67aef3b6fb3b6b",
+        "lng": "108.381821",
+        "lat": "24.458389",
+        "doc_id": "90000052_6d8c7fa718b3f02f1c67aef3b6fb3b6b",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "环江毛南族自治县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "环江毛南族自治县",
+        "county": "",
+        "street": "",
+        "community": "人和小区畜牧水产局住宿楼对面",
+        "show_address": "人和小区畜牧水产局住宿楼对面",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市环江毛南族自治县思恩镇人和小区畜牧水产局住宿楼对面",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "2dbcd44f6bc23a82aab60cb10cbec2da",
+        "lng": "108.3228",
+        "lat": "24.84177",
+        "doc_id": "90000052_2dbcd44f6bc23a82aab60cb10cbec2da",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "环江毛南族自治县",
+        "county": "",
+        "street": "",
+        "community": "凯丰D区",
+        "show_address": "凯丰D区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市环江毛南族自治县思恩镇凯丰D区",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "e3eccb9881cd0954d4aa29a2e05641d5",
+        "lng": "108.242599",
+        "lat": "24.842529",
+        "doc_id": "90000052_e3eccb9881cd0954d4aa29a2e05641d5",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "金城江区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "金城江区",
+        "county": "",
+        "street": "保平社区那麦屯",
+        "community": "",
+        "show_address": "保平社区那麦屯",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市金城江区保平乡保平社区那麦屯",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "4623343f70b3efbe965170cfbde707eb",
+        "lng": "107.838997",
+        "lat": "24.434429",
+        "doc_id": "90000052_4623343f70b3efbe965170cfbde707eb",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "金城江区",
+        "county": "",
+        "street": "",
+        "community": "工行惠文小区",
+        "show_address": "工行惠文小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区河池市金城江区工行惠文小区",
+        "release_date": "20200207",
+        "article_source": [
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          },
+          {
+            "title": "我市公布确诊病例活动轨迹（截至2020年2月5日24时）",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200207-2393959.shtml"
+          }
+        ],
+        "id": "d98ed2b0dc3b93010c9c85f99f48c835",
+        "lng": "108.039787",
+        "lat": "24.689865",
+        "doc_id": "90000052_d98ed2b0dc3b93010c9c85f99f48c835",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "都安县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安县",
+        "middle_address": "安阳镇",
+        "show_address": "镇南社区百才新区北一巷",
+        "full_address": "广西壮族自治区河池市都安县安阳镇镇南社区百才新区北一巷",
+        "id": "af09188829b6a68f49860171cca8fedd",
+        "article_source": [
+          {
+            "title": "2020年2月18日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200219-2405588.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "108.097931",
+        "lat": "23.921961",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安县",
+        "middle_address": "",
+        "show_address": "都安县党校宾馆",
+        "full_address": "广西壮族自治区河池市都安县都安县党校宾馆",
+        "id": "65621540a7efb7578126627d0f767c10",
+        "article_source": [
+          {
+            "title": "2020年2月18日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200219-2405588.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "108.105309",
+        "lat": "23.932674",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "河池市",
+        "district": "都安县",
+        "middle_address": "",
+        "show_address": "都安县人民医院二分院（安阳镇卫生院）",
+        "full_address": "广西壮族自治区河池市都安县都安县人民医院二分院（安阳镇卫生院）",
+        "id": "c860a1ed73b9add6e2800fdabd1df2b2",
+        "article_source": [
+          {
+            "title": "2020年2月18日河池市新冠肺炎疫情情况",
+            "url": "http://wjw.hechi.gov.cn/gggs/20200219-2405588.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200219",
+        "lng": "108.100403",
+        "lat": "23.93206",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "防城港市": {
+    "东兴市": [
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "东兴市",
+        "county": "",
+        "street": "",
+        "community": "花海木屋民宿",
+        "show_address": "花海木屋民宿",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市东兴市江平镇万尾村18组花海木屋民宿",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "82638be5bd084d8f9f9f375af53e2999",
+        "lng": "108.164452",
+        "lat": "21.52993",
+        "doc_id": "90000052_82638be5bd084d8f9f9f375af53e2999",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "港口区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "万鹤路66号",
+        "community": "塞纳庄园",
+        "show_address": "塞纳庄园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区万鹤路66号塞纳庄园",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "f4300bcb45b95b835f4887ba8ab0ef2d",
+        "lng": "108.370051",
+        "lat": "21.687806",
+        "doc_id": "90000052_f4300bcb45b95b835f4887ba8ab0ef2d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "冲孔路1号",
+        "community": "金海湾小区C3",
+        "show_address": "金海湾小区C3",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区冲孔路1号金海湾小区C3",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "f8fcba421fe089a8ce4bb93aa15fbe35",
+        "lng": "108.346542",
+        "lat": "21.688076",
+        "doc_id": "90000052_f8fcba421fe089a8ce4bb93aa15fbe35",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "北部湾大道东150米",
+        "community": "阳光海岸三期",
+        "show_address": "阳光海岸三期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区北部湾大道东150米阳光海岸三期",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "25c9148d637cbd27dda20349e721cc05",
+        "lng": "108.356911",
+        "lat": "21.648699",
+        "doc_id": "90000052_25c9148d637cbd27dda20349e721cc05",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "北部湾大道东150米",
+        "community": "阳光海岸二期",
+        "show_address": "阳光海岸二期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区北部湾大道东150米阳光海岸二期",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "1b1e174dd6c4f7afa14973585781d2f1",
+        "lng": "108.353477",
+        "lat": "21.64452",
+        "doc_id": "90000052_1b1e174dd6c4f7afa14973585781d2f1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "北部湾大道中段99号",
+        "community": "恒大御景湾",
+        "show_address": "恒大御景湾",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区北部湾大道中段99号恒大御景湾",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "0104dc41f3f300061a5eef6e397bed02",
+        "lng": "108.361948",
+        "lat": "21.664383",
+        "doc_id": "90000052_0104dc41f3f300061a5eef6e397bed02",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "广场东路与广场环路交叉口",
+        "community": "越秀小区国贸新城",
+        "show_address": "越秀小区国贸新城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区广场东路与广场环路交叉口越秀小区国贸新城",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "a304ec42675776ac82b42269779b9caf",
+        "lng": "108.353073",
+        "lat": "21.637991",
+        "doc_id": "90000052_a304ec42675776ac82b42269779b9caf",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "拥军路16号",
+        "community": "辉龙美寓居",
+        "show_address": "辉龙美寓居",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区拥军路16号辉龙美寓居",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "c93d54b3f500306edb9a40128d224afe",
+        "lng": "108.3529",
+        "lat": "21.63253",
+        "doc_id": "90000052_c93d54b3f500306edb9a40128d224afe",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "桃源街12号",
+        "community": "碧海紫金城",
+        "show_address": "碧海紫金城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区桃源街12号碧海紫金城",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "819032686721a19e35d14ddba8664425",
+        "lng": "108.35592",
+        "lat": "21.64086",
+        "doc_id": "90000052_819032686721a19e35d14ddba8664425",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "桃源街6号",
+        "community": "西湾上城",
+        "show_address": "西湾上城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区桃源街6号西湾上城",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "880357b6308f1a2bf2663ce17ca948ed",
+        "lng": "108.35927",
+        "lat": "21.64102",
+        "doc_id": "90000052_880357b6308f1a2bf2663ce17ca948ed",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "渔洲坪街道",
+        "community": "国贸新城A栋",
+        "show_address": "国贸新城A栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区渔洲坪街道国贸新城A栋",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "关于我市新增新型冠状病毒肺炎病例行动轨迹的通告",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200220_95141.html"
+          }
+        ],
+        "id": "f944d1eb0c03d1e84d9f75645698d65d",
+        "lng": "108.353073",
+        "lat": "21.637991",
+        "doc_id": "90000052_f944d1eb0c03d1e84d9f75645698d65d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "金花茶大道68号",
+        "community": "新城国际",
+        "show_address": "新城国际",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区金花茶大道68号新城国际",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "dbe20a003e5c8d600db6b3481fa0cbfb",
+        "lng": "108.363288",
+        "lat": "21.687852",
+        "doc_id": "90000052_dbe20a003e5c8d600db6b3481fa0cbfb",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "金花茶大道",
+        "community": "东海港城",
+        "show_address": "东海港城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区金花茶大道东海港城",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "1edf1f67e4e86b08e3bfd05332119b34",
+        "lng": "108.364792",
+        "lat": "21.702959",
+        "doc_id": "90000052_1edf1f67e4e86b08e3bfd05332119b34",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "港口区",
+        "county": "",
+        "street": "长山路",
+        "community": "双湾国际小区",
+        "show_address": "双湾国际小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市港口区长山路双湾国际小区",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "59f22f134ef3791020d89f89c5baa7aa",
+        "lng": "108.365723",
+        "lat": "21.65901",
+        "doc_id": "90000052_59f22f134ef3791020d89f89c5baa7aa",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "防城区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "防城区",
+        "county": "",
+        "street": "大西南",
+        "community": "万昌超市附近自建民房",
+        "show_address": "万昌超市附近自建民房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市防城区大西南万昌超市附近自建民房",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "f8a734195a03093c49f74c36ab60f01d",
+        "lng": "108.364418",
+        "lat": "21.73427",
+        "doc_id": "90000052_f8a734195a03093c49f74c36ab60f01d",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "防城区",
+        "county": "",
+        "street": "珠河街道",
+        "community": "三官社区站前路自建房",
+        "show_address": "三官社区站前路自建房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市防城区珠河街道办三官社区站前路自建房",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "防城港市截至2月15日24时确诊病例活动过小区或场所信息",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200207_94482.html"
+          }
+        ],
+        "id": "738b8f6e9437147833f317bb11973fd3",
+        "lng": "108.377167",
+        "lat": "21.776686",
+        "doc_id": "90000052_738b8f6e9437147833f317bb11973fd3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "防城港市",
+        "district": "防城区",
+        "county": "",
+        "street": "",
+        "community": "育才路四巷自建房",
+        "show_address": "育才路四巷自建房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区防城港市防城区育才路四巷自建房",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "关于我市新增新型冠状病毒感染的肺炎病例行动轨迹的通告",
+            "url": "http://www.fcgs.gov.cn/wjw/zwgk/202002/t20200216_94934.html"
+          }
+        ],
+        "id": "7388db0bf3afab307d7dd8181b7c3f2a",
+        "lng": "108.374413",
+        "lat": "21.77733",
+        "doc_id": "90000052_7388db0bf3afab307d7dd8181b7c3f2a",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "桂林市": {
+    "临桂区": [
+      {
+        "province": "广西壮族自治区",
+        "city": "桂林市",
+        "district": "临桂区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "临桂镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区桂林市临桂区临桂镇",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "2020年2月21日桂林市新增1例新型冠状病毒肺炎确诊病例",
+            "url": "http://wjw.guilin.gov.cn/gzdt/bw/202002/t20200222_1684655.html"
+          },
+          {
+            "title": "2020年2月11日桂林市新增1例新型冠状病毒肺炎确诊病例",
+            "url": "http://wjw.guilin.gov.cn/gzdt/bw/202002/t20200212_1678751.html"
+          }
+        ],
+        "id": "dcc78c77994d04a2c710575fbd4500c1",
+        "lng": "110.186569",
+        "lat": "25.279039",
+        "doc_id": "90000052_dcc78c77994d04a2c710575fbd4500c1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "钦州市": {
+    "灵山县": [
+      {
+        "province": "广西壮族自治区",
+        "city": "钦州市",
+        "district": "灵山县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "檀圩镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区钦州市灵山县檀圩镇",
+        "release_date": "20200208",
+        "article_source": [
+          {
+            "title": "灵山县新增1名新冠肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/UIPz-j8Iy2R_6bXckN6djw"
+          },
+          {
+            "title": "灵山县排查发现钦州首例新型冠状病毒感染的肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/Fq86QnQk42JxB12ur6kBZw"
+          }
+        ],
+        "id": "d53927990dfd1ef408165be3ad208184",
+        "lng": "109.205292",
+        "lat": "22.340139",
+        "doc_id": "90000052_d53927990dfd1ef408165be3ad208184",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "钦州市",
+        "district": "灵山县",
+        "county": "",
+        "street": "灵城街道",
+        "community": "",
+        "show_address": "灵城街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区钦州市灵山县灵城街道",
+        "release_date": "20200206",
+        "article_source": [
+          {
+            "title": "灵山县3名密切接触者被确诊是新型冠状病毒感染的肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/fNlpNfLYBqqzDu_y7tKmXA"
+          },
+          {
+            "title": "灵山县又有1名受重点管理人员被确诊是新型冠状病毒感染的肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/KdrKAHwJgw9E3leBmzj7cQ"
+          }
+        ],
+        "id": "9ad67d3f3b0a675d33f3d760c1ebf671",
+        "lng": "109.296562",
+        "lat": "22.425051",
+        "doc_id": "90000052_9ad67d3f3b0a675d33f3d760c1ebf671",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "广西壮族自治区",
+        "city": "钦州市",
+        "district": "灵山县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "烟墩镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "广西壮族自治区钦州市灵山县烟墩镇",
+        "release_date": "20200205",
+        "article_source": [
+          {
+            "title": "灵山县1名密切接触者被确诊是新型冠状病毒感染的肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/XcXd46lUCh0Nc8XO5O1Vpg"
+          },
+          {
+            "title": "灵山县1名受重点管理人员被确诊是新型冠状病毒感染的肺炎患者",
+            "url": "https://mp.weixin.qq.com/s/slr4kcq-Cz8kyeZ_FdgABg"
+          }
+        ],
+        "id": "e94bf0ca205651ebe59730e70e08e2b1",
+        "lng": "109.084572",
+        "lat": "22.47632",
+        "doc_id": "90000052_e94bf0ca205651ebe59730e70e08e2b1",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

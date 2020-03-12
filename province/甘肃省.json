@@ -1,0 +1,228 @@
+{"甘肃省": {
+  "兰州市": {
+    "七里河区": [
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "七里河区",
+        "county": "",
+        "street": "",
+        "community": "下西园小区",
+        "show_address": "下西园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "甘肃省兰州市七里河区下西园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于兰州市新增新型冠状病毒感染的肺炎确诊病例活动轨迹的公告",
+            "url": "http://wjw.lanzhou.gov.cn/art/2020/2/7/art_14897_849868.html"
+          }
+        ],
+        "id": "ec31d5d7b3bcd8abc809228e2f868bb1",
+        "lng": "103.803169",
+        "lat": "36.060459",
+        "doc_id": "90000052_ec31d5d7b3bcd8abc809228e2f868bb1",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "西固区": [
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "西固区",
+        "county": "",
+        "street": "临洮街",
+        "community": "怡安小区",
+        "show_address": "怡安小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "甘肃省兰州市西固区临洮街怡安小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于兰州市新增新型冠状病毒感染的肺炎确诊病例活动轨迹的公告",
+            "url": "http://wjw.lanzhou.gov.cn/art/2020/2/7/art_14897_849868.html"
+          }
+        ],
+        "id": "725d9a2adfa99052d5bea31663e5089e",
+        "lng": "103.60891",
+        "lat": "36.108921",
+        "doc_id": "90000052_725d9a2adfa99052d5bea31663e5089e",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "城关区": [
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "城关区",
+        "middle_address": "",
+        "show_address": "雁乐家苑",
+        "full_address": "甘肃省兰州市城关区雁乐家苑",
+        "id": "2b130be26dbb48aa0bd09a5720a833f3",
+        "article_source": [
+          {
+            "title": "兰州市城关区新冠肺炎疫情联防联控工作领导小组办公室关于新增确诊病例信息的通告",
+            "url": "http://www.lzcgq.gov.cn/art/2020/2/17/art_10855_854361.html?from=singlemessage"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "103.8983",
+        "lat": "36.060459",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "城关区",
+        "middle_address": "蔬果小屋，小卖部(20号楼9号商铺，小区惠仁堂药店",
+        "show_address": "雁乐家苑",
+        "full_address": "甘肃省兰州市城关区蔬果小屋，小卖部(20号楼9号商铺，小区惠仁堂药店雁乐家苑",
+        "id": "f10d15a43a49bfab0fcdf84483612c89",
+        "article_source": [
+          {
+            "title": "兰州市城关区新冠肺炎疫情联防联控工作领导小组办公室关于新增确诊病例信息的通告",
+            "url": "http://www.lzcgq.gov.cn/art/2020/2/17/art_10855_854361.html?from=singlemessage"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "103.8983",
+        "lat": "36.060459",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "城关区",
+        "middle_address": "",
+        "show_address": "雁滩醉仙楼附近华联超市1楼",
+        "full_address": "甘肃省兰州市城关区雁滩醉仙楼附近华联超市1楼",
+        "id": "2682fa76d620f737d2f70b182317d063",
+        "article_source": [
+          {
+            "title": "兰州市城关区新冠肺炎疫情联防联控工作领导小组办公室关于新增确诊病例信息的通告",
+            "url": "http://www.lzcgq.gov.cn/art/2020/2/17/art_10855_854361.html?from=singlemessage"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "103.871674",
+        "lat": "36.045731",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "甘肃省",
+        "city": "兰州市",
+        "district": "城关区",
+        "middle_address": "",
+        "show_address": "兰州大学第一医院",
+        "full_address": "甘肃省兰州市城关区兰州大学第一医院",
+        "id": "53958f5b1c0d5abc77c2096be861314b",
+        "article_source": [
+          {
+            "title": "兰州市城关区新冠肺炎疫情联防联控工作领导小组办公室关于新增确诊病例信息的通告",
+            "url": "http://www.lzcgq.gov.cn/art/2020/2/17/art_10855_854361.html?from=singlemessage"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200217",
+        "lng": "103.86953",
+        "lat": "36.045807",
+        "source": [
+          {
+            "name": "兰州发布",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  },
+  "甘南藏族自治州": {
+    "合作市": [
+      {
+        "province": "甘肃省",
+        "city": "甘南藏族自治州",
+        "district": "合作市",
+        "county": "",
+        "street": "西二路",
+        "community": "工行家属院",
+        "show_address": "工行家属院",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "甘肃省甘南藏族自治州合作市西二路工行家属院",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "速看！2月13日甘南、平凉新增2例确诊病例的活动轨迹信息公布",
+            "url": "https://mp.weixin.qq.com/s/IqdX8rrMBnJm0X78C50Szw"
+          }
+        ],
+        "id": "38b7fe58a19cb23ed7a56828af5dc7e5",
+        "lng": "102.908607",
+        "lat": "34.981697",
+        "doc_id": "90000052_38b7fe58a19cb23ed7a56828af5dc7e5",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

@@ -1,0 +1,5789 @@
+{"福建省": {
+  "厦门市": {
+    "思明区": [
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "假日大厦",
+        "show_address": "假日大厦",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区假日大厦",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "ec6f597c13c77cd6c37539bc0165847b",
+        "lng": "118.127289",
+        "lat": "24.481844",
+        "doc_id": "90000052_ec6f597c13c77cd6c37539bc0165847b",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "武夷嘉园",
+        "show_address": "武夷嘉园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区武夷嘉园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "87520e007f222ecd3b8d4e5d34649bbf",
+        "lng": "118.083298",
+        "lat": "24.47613",
+        "doc_id": "90000052_87520e007f222ecd3b8d4e5d34649bbf",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "洪文石村北片区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区洪文石村北片区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "9146357283abe51bfa861bc33273ddc2",
+        "lng": "118.169197",
+        "lat": "24.4818",
+        "doc_id": "90000052_9146357283abe51bfa861bc33273ddc2",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "环岛路",
+        "community": "曾厝垵社",
+        "show_address": "曾厝垵社",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区环岛路曾厝垵社",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "e90e8c4135f17cab7beba78d795116ab",
+        "lng": "118.124977",
+        "lat": "24.42701",
+        "doc_id": "90000052_e90e8c4135f17cab7beba78d795116ab",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "碧湖豪庭",
+        "show_address": "碧湖豪庭",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区碧湖豪庭",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "ef8572cfd0ad98d9a18ec74240e2845c",
+        "lng": "118.116814",
+        "lat": "24.48451",
+        "doc_id": "90000052_ef8572cfd0ad98d9a18ec74240e2845c",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "莲坂新村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区莲坂新村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "272986ef2d5fe6b3b71d6d940b1ea8bb",
+        "lng": "118.11731",
+        "lat": "24.481501",
+        "doc_id": "90000052_272986ef2d5fe6b3b71d6d940b1ea8bb",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "黄厝塔头",
+        "show_address": "黄厝塔头",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区黄厝塔头",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "b0fae2e95c57a375f7fbf9fd0f346791",
+        "lng": "118.140663",
+        "lat": "24.43417",
+        "doc_id": "90000052_b0fae2e95c57a375f7fbf9fd0f346791",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "内厝澳路",
+        "community": "",
+        "show_address": "内厝澳路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区鼓浪屿内厝澳路",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "894ea5955324b260cb4dcf67f7acff48",
+        "lng": "118.067146",
+        "lat": "24.444639",
+        "doc_id": "90000052_894ea5955324b260cb4dcf67f7acff48",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "环岛路黄厝村",
+        "community": "",
+        "show_address": "环岛路黄厝村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区环岛路黄厝村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "9f26e312a6db0fa8a5c76593c23eaff7",
+        "lng": "118.145683",
+        "lat": "24.433599",
+        "doc_id": "90000052_9f26e312a6db0fa8a5c76593c23eaff7",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "",
+        "community": "金象嘉园二期",
+        "show_address": "金象嘉园二期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区金象嘉园二期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200203_2419523.htm"
+          }
+        ],
+        "id": "a3414d60d96da5d7591a805f2114ed40",
+        "lng": "118.106552",
+        "lat": "24.47241",
+        "doc_id": "90000052_a3414d60d96da5d7591a805f2114ed40",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "county": "",
+        "street": "筼筜街道",
+        "community": "半山御景5号",
+        "show_address": "半山御景5号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市思明区筼筜街道半山御景5号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200210_2420623.htm"
+          }
+        ],
+        "id": "39c8b3200c094eee1f51b393e0bb4daf",
+        "lng": "118.113739",
+        "lat": "24.496262",
+        "doc_id": "90000052_39c8b3200c094eee1f51b393e0bb4daf",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "middle_address": "湖滨南路201-209号厦门大学附属中山医院内",
+        "show_address": "厦门大学附属中山医院急诊部",
+        "full_address": "福建省厦门市思明区湖滨南路201-209号厦门大学附属中山医院内厦门大学附属中山医院急诊部",
+        "id": "d0bb749028747866599afa1cd4c52446",
+        "article_source": [
+          {
+            "title": "厦门市卫健委：患者为武汉来厦门游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/28/VIDEZonMAqAovJBMx3FvOIze200128.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200128",
+        "lng": "118.09794",
+        "lat": "24.47205",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "思明区",
+        "middle_address": "湖滨南路201号",
+        "show_address": "厦门大学附属中山医院",
+        "full_address": "福建省厦门市思明区湖滨南路201号厦门大学附属中山医院",
+        "id": "41a8eab3c59a37d7091fb7db3a25a2ef",
+        "article_source": [
+          {
+            "title": "厦门市卫健委：患者为武汉来厦门游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/28/VIDEZonMAqAovJBMx3FvOIze200128.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200128",
+        "lng": "118.09557",
+        "lat": "24.47064",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "湖里区": [
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "湖里区",
+        "county": "",
+        "street": "殿前街道",
+        "community": "殿前五组",
+        "show_address": "殿前五组",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市湖里区殿前街道殿前五组",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "e803a9251cd721122beb6bebbb620211",
+        "lng": "118.105911",
+        "lat": "24.522249",
+        "doc_id": "90000052_e803a9251cd721122beb6bebbb620211",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "湖里区",
+        "county": "",
+        "street": "江头街道",
+        "community": "乌石浦二期花园小区109号",
+        "show_address": "乌石浦二期花园小区109号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市湖里区江头街道乌石浦二期花园小区109号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月11日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200211_2420998.htm"
+          }
+        ],
+        "id": "15275076d8af544dff3ff799faee3b20",
+        "lng": "118.129603",
+        "lat": "24.504488",
+        "doc_id": "90000052_15275076d8af544dff3ff799faee3b20",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "集美区": [
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "county": "",
+        "street": "杏林街道",
+        "community": "中海寰宇天下小区",
+        "show_address": "中海寰宇天下小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市集美区杏林街道中海寰宇天下小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "a82e49735fc36759591c3089464a68ea",
+        "lng": "118.062218",
+        "lat": "24.560064",
+        "doc_id": "90000052_a82e49735fc36759591c3089464a68ea",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "county": "",
+        "street": "",
+        "community": "聚镇10栋",
+        "show_address": "聚镇10栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市集美区聚镇10栋",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200203_2419523.htm"
+          }
+        ],
+        "id": "55a4100328e1e1c46e9c1e364cee8ef5",
+        "lng": "118.028816",
+        "lat": "24.58091",
+        "doc_id": "90000052_55a4100328e1e1c46e9c1e364cee8ef5",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "county": "",
+        "street": "",
+        "community": "龙湖春江郦城2期",
+        "show_address": "龙湖春江郦城2期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市集美区龙湖春江郦城2期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月2日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200202_2419389.htm"
+          }
+        ],
+        "id": "f55d931fb6a4b8a440ea71c58a1c262e",
+        "lng": "118.051826",
+        "lat": "24.583731",
+        "doc_id": "90000052_f55d931fb6a4b8a440ea71c58a1c262e",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "county": "",
+        "street": "侨英街道",
+        "community": "叶厝田乾里",
+        "show_address": "叶厝田乾里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市集美区侨英街道叶厝田乾里",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月7日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200207_2420350.htm"
+          }
+        ],
+        "id": "e47dc2b5a165c261f2300fb20c4f3e80",
+        "lng": "118.109901",
+        "lat": "24.59964",
+        "doc_id": "90000052_e47dc2b5a165c261f2300fb20c4f3e80",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "middle_address": "洪埭路11号",
+        "show_address": "厦门大学附属第一医院杏林分院",
+        "full_address": "福建省厦门市集美区洪埭路11号厦门大学附属第一医院杏林分院",
+        "id": "597f5b2638f59d527b0ded040522685c",
+        "article_source": [
+          {
+            "title": "厦门市卫健委：患者为武汉来厦门游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/28/VIDEZonMAqAovJBMx3FvOIze200128.shtml"
+          },
+          {
+            "title": "快讯！厦门通报新增1例确诊病例情况，患者为武汉来厦游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/30/ARTIEY9zWYWuE16Edud1NRx0200130.shtml"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200130",
+        "lng": "118.04851",
+        "lat": "24.56059",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "middle_address": "后溪镇岩通路（靠近厦门北站地铁站1号口）",
+        "show_address": "厦门北站",
+        "full_address": "福建省厦门市集美区后溪镇岩通路（靠近厦门北站地铁站1号口）厦门北站",
+        "id": "a91f9ffac7002f8a3e9147b5790bfa1a",
+        "article_source": [
+          {
+            "title": "快讯！厦门通报新增1例确诊病例情况，患者为武汉来厦游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/30/ARTIEY9zWYWuE16Edud1NRx0200130.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "118.074036",
+        "lat": "24.636181",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "集美区",
+        "middle_address": "",
+        "show_address": "厦门市集美区民宿",
+        "full_address": "福建省厦门市集美区厦门市集美区民宿",
+        "id": "14492ab728b16424998ee34d9b2d44f2",
+        "article_source": [
+          {
+            "title": "快讯！厦门通报新增1例确诊病例情况，患者为武汉来厦游客",
+            "url": "http://xiamen.xmtv.cn/2020/01/30/ARTIEY9zWYWuE16Edud1NRx0200130.shtml"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200130",
+        "lng": "118.09728",
+        "lat": "24.57591",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "翔安区": [
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "翔安区",
+        "county": "",
+        "street": "",
+        "community": "锦绣祥安小区一期8号楼",
+        "show_address": "锦绣祥安小区一期8号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市翔安区锦绣祥安小区一期8号楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月3日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200203_2419523.htm"
+          }
+        ],
+        "id": "be458db0a208a7b2dfffeae522bf54d1",
+        "lng": "118.25766",
+        "lat": "24.65724",
+        "doc_id": "90000052_be458db0a208a7b2dfffeae522bf54d1",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "翔安区",
+        "county": "",
+        "street": "",
+        "community": "五星三里4号楼",
+        "show_address": "五星三里4号楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市翔安区马巷镇五星三里4号楼",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月10日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200210_2420623.htm"
+          }
+        ],
+        "id": "2008c2076f404ac8dc31ccffa42cde22",
+        "lng": "118.259209",
+        "lat": "24.655949",
+        "doc_id": "90000052_2008c2076f404ac8dc31ccffa42cde22",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "海沧区": [
+      {
+        "province": "福建省",
+        "city": "厦门市",
+        "district": "海沧区",
+        "county": "",
+        "street": "嵩屿街道沧虹路331号",
+        "community": "汇利花园A栋",
+        "show_address": "汇利花园A栋",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省厦门市海沧区嵩屿街道沧虹路331号汇利花园A栋",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2020年2月11日福建省厦门市新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://hfpc.xm.gov.cn/xwzx/tzgg/202002/t20200211_2420998.htm"
+          }
+        ],
+        "id": "adba9e1e4cf9603bd9726681c1fefa8d",
+        "lng": "118.03758",
+        "lat": "24.49798",
+        "doc_id": "90000052_adba9e1e4cf9603bd9726681c1fefa8d",
+        "source": [
+          {
+            "name": "厦门市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "泉州市": {
+    "南安市": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "后林埔",
+        "show_address": "后林埔",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市官桥镇下洋村后林埔",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "3f2ba535e1e97e4b63866d7a87c73b50",
+        "lng": "118.478668",
+        "lat": "24.86297",
+        "doc_id": "90000052_3f2ba535e1e97e4b63866d7a87c73b50",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "水头菜市场桥西街",
+        "show_address": "水头菜市场桥西街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市水头菜市场桥西街",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "7516363ff9ec5cfeb592f4d19a9e767f",
+        "lng": "118.430664",
+        "lat": "24.708244",
+        "doc_id": "90000052_7516363ff9ec5cfeb592f4d19a9e767f",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "内厝村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市官桥镇内厝村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "0b85c97b162765f32b079f09815d4328",
+        "lng": "118.4244",
+        "lat": "24.767229",
+        "doc_id": "90000052_0b85c97b162765f32b079f09815d4328",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "周厝村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市官桥镇周厝村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "230dc8d675412bbe4eb79196c1ff332d",
+        "lng": "118.418541",
+        "lat": "24.79817",
+        "doc_id": "90000052_230dc8d675412bbe4eb79196c1ff332d",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "仁福村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市水头镇仁福村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "6ed81c2623f96fb404471c77cc7e031f",
+        "lng": "118.369072",
+        "lat": "24.692369",
+        "doc_id": "90000052_6ed81c2623f96fb404471c77cc7e031f",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "美林街道",
+        "community": "溪口村",
+        "show_address": "溪口村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市美林街道溪口村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "8c29d72ac8d8285cc7c9552be23f0ea3",
+        "lng": "118.473648",
+        "lat": "24.99119",
+        "doc_id": "90000052_8c29d72ac8d8285cc7c9552be23f0ea3",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "劳光村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市水头镇劳光村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "7f097f5f0df6b397b288d1380b61647b",
+        "lng": "118.34716",
+        "lat": "24.69047",
+        "doc_id": "90000052_7f097f5f0df6b397b288d1380b61647b",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "南安市行政服务中心",
+        "show_address": "南安市行政服务中心",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市南安市行政服务中心",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "095a5df5883810b9782cc45c9385b282",
+        "lng": "118.40686",
+        "lat": "24.95915",
+        "doc_id": "90000052_095a5df5883810b9782cc45c9385b282",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "中国工商银行南安柳城分行",
+        "show_address": "中国工商银行南安柳城分行",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市中国工商银行南安柳城分行",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "5aed1d0eb83a4d81d4b5edad01f4a215",
+        "lng": "118.39328",
+        "lat": "24.95573",
+        "doc_id": "90000052_5aed1d0eb83a4d81d4b5edad01f4a215",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "美林街道",
+        "community": "西美村",
+        "show_address": "西美村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市美林街道西美村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "7fd9d407f91a09a068dbae37269e6a97",
+        "lng": "118.393318",
+        "lat": "24.98402",
+        "doc_id": "90000052_7fd9d407f91a09a068dbae37269e6a97",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "梅溪村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市洪梅镇梅溪村",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "截至2月19日24时，我市连续5天无新增新冠肺炎确诊病例，累计报告确诊46例，治愈出院13例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200220_2038786.htm"
+          }
+        ],
+        "id": "c71cdf9274e40c82439642ddb81864cb",
+        "lng": "118.537582",
+        "lat": "25.1234",
+        "doc_id": "90000052_c71cdf9274e40c82439642ddb81864cb",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "联盟村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市仑苍镇联盟村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "b86a9d37482d0cfff3c38fee3110fdec",
+        "lng": "118.291061",
+        "lat": "25.007139",
+        "doc_id": "90000052_b86a9d37482d0cfff3c38fee3110fdec",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "湖西新村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市仑苍镇湖西新村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "1bccf28a150d01364cf539b5587b5949",
+        "lng": "118.284332",
+        "lat": "25.005079",
+        "doc_id": "90000052_1bccf28a150d01364cf539b5587b5949",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "园美村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市仑苍镇园美村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "8e04736e1dd86278f0296b974cf8aff3",
+        "lng": "118.280746",
+        "lat": "25.015791",
+        "doc_id": "90000052_8e04736e1dd86278f0296b974cf8aff3",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "良山村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市英都镇良山村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "e13f718342ff9256065118dfe245cd14",
+        "lng": "118.236717",
+        "lat": "24.9666",
+        "doc_id": "90000052_e13f718342ff9256065118dfe245cd14",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "南安市",
+        "county": "南安市",
+        "street": "",
+        "community": "",
+        "show_address": "大庭村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市南安市码头镇大庭村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "8b9c35bf2b1afb16eb845fb466c7fdff",
+        "lng": "118.321281",
+        "lat": "25.2024",
+        "doc_id": "90000052_8b9c35bf2b1afb16eb845fb466c7fdff",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "安溪县": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "安溪县",
+        "county": "安溪县",
+        "street": "",
+        "community": "",
+        "show_address": "仙苑村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市安溪县城厢镇仙苑村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "0b395e8e1d8937b81368ac922b908015",
+        "lng": "118.161377",
+        "lat": "25.071381",
+        "doc_id": "90000052_0b395e8e1d8937b81368ac922b908015",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "安溪县",
+        "county": "安溪县",
+        "street": "",
+        "community": "",
+        "show_address": "恒美村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市安溪县官桥镇恒美村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "088e8f6ab037203071183a923ca551ae",
+        "lng": "118.074791",
+        "lat": "25.022949",
+        "doc_id": "90000052_088e8f6ab037203071183a923ca551ae",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "安溪县",
+        "county": "安溪县",
+        "street": "",
+        "community": "安溪清水岩",
+        "show_address": "安溪清水岩",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市安溪县安溪清水岩",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "7253f48d9b2f38d95e576b7e084eea00",
+        "lng": "118.124275",
+        "lat": "25.122292",
+        "doc_id": "90000052_7253f48d9b2f38d95e576b7e084eea00",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "安溪县",
+        "county": "安溪县",
+        "street": "中洋街",
+        "community": "",
+        "show_address": "中洋街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市安溪县湖上乡雪山村中洋街",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "1d414bd7661a09ace3b536dd1054aa6c",
+        "lng": "117.962929",
+        "lat": "25.252769",
+        "doc_id": "90000052_1d414bd7661a09ace3b536dd1054aa6c",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "晋江市": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "新塘街道",
+        "community": "杏坂社区",
+        "show_address": "杏坂社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市新塘街道杏坂社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "9bdc190c925d3fa275d991fb44bada9c",
+        "lng": "118.620865",
+        "lat": "24.78231",
+        "doc_id": "90000052_9bdc190c925d3fa275d991fb44bada9c",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "新塘街道",
+        "community": "沙塘社区",
+        "show_address": "沙塘社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市新塘街道沙塘社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "f6699bc46f3e2ddf6377202650c50990",
+        "lng": "118.597733",
+        "lat": "24.785004",
+        "doc_id": "90000052_f6699bc46f3e2ddf6377202650c50990",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "",
+        "show_address": "花厅口村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市陈埭镇花厅口村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "5455a8786f99a816e59e979121f4bc75",
+        "lng": "118.606918",
+        "lat": "24.81802",
+        "doc_id": "90000052_5455a8786f99a816e59e979121f4bc75",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "梅岭街道",
+        "community": "泉安中路速8酒店",
+        "show_address": "泉安中路速8酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市梅岭街道泉安中路速8酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "ca0b9b8cd98172b06cc5f672ab7fa275",
+        "lng": "118.583412",
+        "lat": "24.809299",
+        "doc_id": "90000052_ca0b9b8cd98172b06cc5f672ab7fa275",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "东山村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市磁灶镇东山村",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "截至2月19日24时，我市连续5天无新增新冠肺炎确诊病例，累计报告确诊46例，治愈出院13例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200220_2038786.htm"
+          }
+        ],
+        "id": "1a9151fe9b3b2b9aaaa05a595322189f",
+        "lng": "118.526878",
+        "lat": "24.793699",
+        "doc_id": "90000052_1a9151fe9b3b2b9aaaa05a595322189f",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "",
+        "show_address": "张林村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市磁灶镇张林村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "219b127fa7829195a54c3622acd227d3",
+        "lng": "118.521889",
+        "lat": "24.80127",
+        "doc_id": "90000052_219b127fa7829195a54c3622acd227d3",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "晋南小区",
+        "show_address": "晋南小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市英林镇英林村晋南小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "eaf05d92fd18c09b8fc45437bc944533",
+        "lng": "118.583138",
+        "lat": "24.632277",
+        "doc_id": "90000052_eaf05d92fd18c09b8fc45437bc944533",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "",
+        "show_address": "西埔村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市英林镇西埔村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "317a465fb7dae841168a3cad2584beb2",
+        "lng": "118.573624",
+        "lat": "24.619471",
+        "doc_id": "90000052_317a465fb7dae841168a3cad2584beb2",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "",
+        "show_address": "嘉排村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市英林镇嘉排村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "dbe65e2d0b83dd1acb2e5f7ad0fe5c07",
+        "lng": "118.561378",
+        "lat": "24.59651",
+        "doc_id": "90000052_dbe65e2d0b83dd1acb2e5f7ad0fe5c07",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "万佳东方酒店",
+        "show_address": "万佳东方酒店",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市金井镇万佳东方酒店",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "b1d91bf0e591317abcaaef3ac04decdf",
+        "lng": "118.595688",
+        "lat": "24.567921",
+        "doc_id": "90000052_b1d91bf0e591317abcaaef3ac04decdf",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "晋江市",
+        "county": "晋江市",
+        "street": "",
+        "community": "",
+        "show_address": "山兜村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市晋江市东石镇山兜村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "d400a298c60208384e447b3fce583fb0",
+        "lng": "118.459267",
+        "lat": "24.659781",
+        "doc_id": "90000052_d400a298c60208384e447b3fce583fb0",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "永春县": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "外碧村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县东关镇外碧村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "075a96313e15e9d2a006fcc8205b5cf1",
+        "lng": "118.404404",
+        "lat": "25.301729",
+        "doc_id": "90000052_075a96313e15e9d2a006fcc8205b5cf1",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "太平村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县东平镇太平村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "ab73900561af6f23d2d9bda1ae4e861c",
+        "lng": "118.337349",
+        "lat": "25.303881",
+        "doc_id": "90000052_ab73900561af6f23d2d9bda1ae4e861c",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "太坪新村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县桃城镇太坪新村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "e26f4a381f68ca69dc7e1469c78c0aec",
+        "lng": "118.302193",
+        "lat": "25.32023",
+        "doc_id": "90000052_e26f4a381f68ca69dc7e1469c78c0aec",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "龙山村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县湖洋镇龙山村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "692423b07349e30eb3b27fdecafccfb9",
+        "lng": "118.406357",
+        "lat": "25.36853",
+        "doc_id": "90000052_692423b07349e30eb3b27fdecafccfb9",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "金龙城董记咯摊",
+        "show_address": "金龙城董记咯摊",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县金龙城董记咯摊",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "a9fe7c1dbf8793b0d4bfd84b2c8984cf",
+        "lng": "118.2967",
+        "lat": "25.323311",
+        "doc_id": "90000052_a9fe7c1dbf8793b0d4bfd84b2c8984cf",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "永春新华都超市",
+        "show_address": "永春新华都超市",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县永春新华都超市",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "cf646fc4128fe8215ed7fba81eb02fc6",
+        "lng": "118.295059",
+        "lat": "25.324575",
+        "doc_id": "90000052_cf646fc4128fe8215ed7fba81eb02fc6",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "新珩村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县玉斗镇新珩村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "1bd781f2bf55414af18d1d12f1d0b2a1",
+        "lng": "118.042648",
+        "lat": "25.36014",
+        "doc_id": "90000052_1bd781f2bf55414af18d1d12f1d0b2a1",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "玉斗村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县玉斗镇玉斗村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "195a97459cdb90bad527573f22d1f69c",
+        "lng": "118.039238",
+        "lat": "25.390621",
+        "doc_id": "90000052_195a97459cdb90bad527573f22d1f69c",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "永春县",
+        "county": "永春县",
+        "street": "",
+        "community": "",
+        "show_address": "碧卿林场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市永春县外山乡碧卿林场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "3281b6155e978bccdf02ea2edf9aada3",
+        "lng": "118.192554",
+        "lat": "28.403537",
+        "doc_id": "90000052_3281b6155e978bccdf02ea2edf9aada3",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "洛江区": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "洛江区",
+        "county": "",
+        "street": "",
+        "community": "潘内村顶道坝",
+        "show_address": "潘内村顶道坝",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市洛江区马甲镇潘内村顶道坝",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "b2fdc89e13e8a913a0f3ce4871511cc8",
+        "lng": "118.628922",
+        "lat": "25.13941",
+        "doc_id": "90000052_b2fdc89e13e8a913a0f3ce4871511cc8",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "石狮市": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "石狮市",
+        "county": "石狮市",
+        "street": "",
+        "community": "",
+        "show_address": "后垵村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市石狮市宝盖镇后垵村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "c878d77d7fa5e0bf75103800ead584b8",
+        "lng": "118.653152",
+        "lat": "24.75823",
+        "doc_id": "90000052_c878d77d7fa5e0bf75103800ead584b8",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "石狮市",
+        "county": "石狮市",
+        "street": "",
+        "community": "山前东区",
+        "show_address": "山前东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市石狮市蚶江镇山前东区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "c923b65a846ce1cd93f4789d7f85d33e",
+        "lng": "118.700615",
+        "lat": "24.748087",
+        "doc_id": "90000052_c923b65a846ce1cd93f4789d7f85d33e",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "惠安县": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "惠安县",
+        "county": "惠安县",
+        "street": "",
+        "community": "",
+        "show_address": "田边村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市惠安县山霞镇田边村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "c6caba54cbf665b7bf5689f4e1114c7b",
+        "lng": "118.864159",
+        "lat": "24.90695",
+        "doc_id": "90000052_c6caba54cbf665b7bf5689f4e1114c7b",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "惠安县",
+        "county": "惠安县",
+        "street": "青山街",
+        "community": "",
+        "show_address": "青山街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市惠安县山霞镇东坑村青山街",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "a369e4fa6828b2ddd63b392ab3e10c68",
+        "lng": "118.882057",
+        "lat": "24.905621",
+        "doc_id": "90000052_a369e4fa6828b2ddd63b392ab3e10c68",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "惠安县",
+        "county": "惠安县",
+        "street": "",
+        "community": "",
+        "show_address": "庄内村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市惠安县涂寨镇庄内村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "f2f55335513bdd1364b9f1baa61d6545",
+        "lng": "118.811958",
+        "lat": "24.983709",
+        "doc_id": "90000052_f2f55335513bdd1364b9f1baa61d6545",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "丰泽区": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "丰泽区",
+        "county": "",
+        "street": "东海街道海景社区",
+        "community": "海景国际星域",
+        "show_address": "海景国际星域",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市丰泽区东海街道海景社区海景国际星域",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "54edb4cbfe7dc1d14203dd57a99fca30",
+        "lng": "118.624557",
+        "lat": "24.874359",
+        "doc_id": "90000052_54edb4cbfe7dc1d14203dd57a99fca30",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "丰泽区",
+        "county": "",
+        "street": "城东街道浔美社区",
+        "community": "东莲花苑",
+        "show_address": "东莲花苑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市丰泽区城东街道浔美社区东莲花苑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "1676a8256da25cb9e8194af1b062c3d7",
+        "lng": "118.649406",
+        "lat": "24.91396",
+        "doc_id": "90000052_1676a8256da25cb9e8194af1b062c3d7",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "鲤城区": [
+      {
+        "province": "福建省",
+        "city": "泉州市",
+        "district": "鲤城区",
+        "county": "",
+        "street": "浮桥街道延陵社区",
+        "community": "珑景湾小区",
+        "show_address": "珑景湾小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省泉州市鲤城区浮桥街道延陵社区珑景湾小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至2月8日24时，我市报告新增新冠肺炎确诊病例2例，累计报告确诊42例，治愈出院4例",
+            "url": "http://health.quanzhou.gov.cn/xwzx/xydt/202002/t20200209_2028224.htm"
+          }
+        ],
+        "id": "89441e668a0304e2d2f79ff0468d2501",
+        "lng": "118.556358",
+        "lat": "24.93256",
+        "doc_id": "90000052_89441e668a0304e2d2f79ff0468d2501",
+        "source": [
+          {
+            "name": "泉州卫健委",
+            "url": ""
+          },
+          {
+            "name": "晋江市卫生健康局",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "福州市": {
+    "连江县": [
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "宏宙花园",
+        "show_address": "宏宙花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县敖江镇长汀村宏宙花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "64f06dbc5a44cd596e7fcc9bfa58ab33",
+        "lng": "119.543777",
+        "lat": "26.19665",
+        "doc_id": "90000052_64f06dbc5a44cd596e7fcc9bfa58ab33",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "",
+        "show_address": "北营村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县官坂镇北营村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          },
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "88321f0444fbcabc757c0be471a7f472",
+        "lng": "119.670029",
+        "lat": "26.34691",
+        "doc_id": "90000052_88321f0444fbcabc757c0be471a7f472",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "",
+        "show_address": "潘渡",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县潘渡",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "c1f558496cfebfcf42d55c62058bcbb0",
+        "lng": "119.45576",
+        "lat": "26.23292",
+        "doc_id": "90000052_c1f558496cfebfcf42d55c62058bcbb0",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "",
+        "show_address": "龙头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县透堡镇龙头村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "d0d1df78654d9d226e0c9dae35156374",
+        "lng": "119.660393",
+        "lat": "26.34955",
+        "doc_id": "90000052_d0d1df78654d9d226e0c9dae35156374",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "",
+        "show_address": "东湾村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县马鼻镇东湾村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "8e8fd142d10e1b522a1d33388e270c99",
+        "lng": "119.635048",
+        "lat": "26.376419",
+        "doc_id": "90000052_8e8fd142d10e1b522a1d33388e270c99",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "连江县",
+        "county": "连江县",
+        "street": "",
+        "community": "",
+        "show_address": "墙兜村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市连江县马鼻镇墙兜村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "最新！福州发布8名确诊人轨迹！南平松溪发布”最严“通告！",
+            "url": "https://mp.weixin.qq.com/s/WMz3T2FOR3tqw7ykG5b_Ew"
+          }
+        ],
+        "id": "4e3eed074e7a3819f5e7dc4cfef8be9f",
+        "lng": "119.660141",
+        "lat": "26.371309",
+        "doc_id": "90000052_4e3eed074e7a3819f5e7dc4cfef8be9f",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "长乐区": [
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "长乐区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "仙岐村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市长乐区漳港街道仙岐村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急！福州12名确诊人员活动轨迹曝光！福建多地限制外出频率！",
+            "url": "https://mp.weixin.qq.com/s/AhExU9nZhRFh4kYFfVhOWQ"
+          }
+        ],
+        "id": "e1a2f8f48aaf55749af66ef9ae2cef42",
+        "lng": "119.645233",
+        "lat": "25.915541",
+        "doc_id": "90000052_e1a2f8f48aaf55749af66ef9ae2cef42",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "长乐区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "龙峰村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市长乐区漳港街道龙峰村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急！福州12名确诊人员活动轨迹曝光！福建多地限制外出频率！",
+            "url": "https://mp.weixin.qq.com/s/AhExU9nZhRFh4kYFfVhOWQ"
+          }
+        ],
+        "id": "cb1521d13a203c1b070185cce29980ed",
+        "lng": "119.630707",
+        "lat": "25.928499",
+        "doc_id": "90000052_cb1521d13a203c1b070185cce29980ed",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "长乐区",
+        "county": "",
+        "street": "航辉社区",
+        "community": "",
+        "show_address": "航辉社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市长乐区航城街道航辉社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急！福州12名确诊人员活动轨迹曝光！福建多地限制外出频率！",
+            "url": "https://mp.weixin.qq.com/s/AhExU9nZhRFh4kYFfVhOWQ"
+          }
+        ],
+        "id": "8af1ec7c031d0ef9a999a2ceded28cc8",
+        "lng": "119.505234",
+        "lat": "25.957411",
+        "doc_id": "90000052_8af1ec7c031d0ef9a999a2ceded28cc8",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "仓山区": [
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "仓山区",
+        "county": "",
+        "street": "",
+        "community": "江南水都名筑",
+        "show_address": "江南水都名筑",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市仓山区江南水都名筑",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "福州江南水都名筑，查出确诊患者，11天内任何人不得进出",
+            "url": "https://mp.weixin.qq.com/s/Lc2eY3Jx4PYUIXTGkesRzA"
+          }
+        ],
+        "id": "5de667538c0819c517b63aed4f40c76a",
+        "lng": "119.279671",
+        "lat": "26.044538",
+        "doc_id": "90000052_5de667538c0819c517b63aed4f40c76a",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "鼓楼区": [
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "鼓楼区",
+        "county": "",
+        "street": "",
+        "community": "武夷春晓",
+        "show_address": "武夷春晓",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市鼓楼区洪山镇武夷春晓",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急提醒！福州鼓楼区首例武汉输入性确诊病例活动轨迹公布！",
+            "url": "https://mp.weixin.qq.com/s/8R0i4ocOW8Su-LI-HHR42Q"
+          }
+        ],
+        "id": "b7c1b168872dbf01900cc2fe7bc694e6",
+        "lng": "119.278748",
+        "lat": "26.087931",
+        "doc_id": "90000052_b7c1b168872dbf01900cc2fe7bc694e6",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "鼓楼区",
+        "county": "",
+        "street": "华大街道融侨路41号",
+        "community": "",
+        "show_address": "华大街道融侨路41号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市鼓楼区华大街道融侨路41号",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "扩散！福州鼓楼新增确诊病例活动轨迹公布！去了六次超市",
+            "url": "https://www.weibo.com/1658388624/ItPSOgIlQ?ref=home&rid=1_0_202_1413126781070964742_0_0_0&type=comment#_rnd1581479818768"
+          }
+        ],
+        "id": "b730341465e5467418f5db377a92245e",
+        "lng": "119.30709",
+        "lat": "26.11265",
+        "doc_id": "90000052_b730341465e5467418f5db377a92245e",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "闽侯县": [
+      {
+        "province": "福建省",
+        "city": "福州市",
+        "district": "闽侯县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "溪口自然村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省福州市闽侯县白沙镇溪口自然村",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "闽侯、莆田两例确诊病例轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/Oo_bh_4ygJwxY7eWS-nQKQ"
+          }
+        ],
+        "id": "314f2f0956491b3a1e3cd96ac3c2a9e0",
+        "lng": "119.073837",
+        "lat": "26.206551",
+        "doc_id": "90000052_314f2f0956491b3a1e3cd96ac3c2a9e0",
+        "source": [
+          {
+            "name": "福州微生活",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "莆田市": {
+    "仙游县": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "仙游县",
+        "county": "仙游县",
+        "street": "",
+        "community": "铺头村新厝",
+        "show_address": "铺头村新厝",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市仙游县枫亭镇铺头村新厝",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "d00558ab86e920cebda3046e3154d7e3",
+        "lng": "118.750458",
+        "lat": "25.23278",
+        "doc_id": "90000052_d00558ab86e920cebda3046e3154d7e3",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "仙游县",
+        "county": "仙游县",
+        "street": "",
+        "community": "星庄村刘前",
+        "show_address": "星庄村刘前",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市仙游县盖尾镇星庄村刘前",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "88f3057c2fc09743325b459495793397",
+        "lng": "118.833412",
+        "lat": "25.38859",
+        "doc_id": "90000052_88f3057c2fc09743325b459495793397",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "仙游县",
+        "county": "仙游县",
+        "street": "",
+        "community": "金沙村上库",
+        "show_address": "金沙村上库",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市仙游县龙华镇金沙村上库",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "b2052addb4126a8a65aa1e4ec3edd6ca",
+        "lng": "118.577957",
+        "lat": "25.321251",
+        "doc_id": "90000052_b2052addb4126a8a65aa1e4ec3edd6ca",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "仙游县",
+        "county": "仙游县",
+        "street": "",
+        "community": "洋坑村柯厝",
+        "show_address": "洋坑村柯厝",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市仙游县大济镇洋坑村柯厝",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "3e139c2a0e9156282aa9012b8a9e1dc0",
+        "lng": "118.590729",
+        "lat": "25.363359",
+        "doc_id": "90000052_3e139c2a0e9156282aa9012b8a9e1dc0",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "仙游县",
+        "county": "仙游县",
+        "street": "鲤城街道",
+        "community": "木兰社区",
+        "show_address": "木兰社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市仙游县鲤城街道木兰社区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "38c3a8a3def329faf91c985b3b162279",
+        "lng": "118.683548",
+        "lat": "25.355551",
+        "doc_id": "90000052_38c3a8a3def329faf91c985b3b162279",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "城厢区": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "",
+        "community": "万辉国际城",
+        "show_address": "万辉国际城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区万辉国际城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "771c40c0e355530add6bcf160d9f8e6c",
+        "lng": "119.017303",
+        "lat": "25.46697",
+        "doc_id": "90000052_771c40c0e355530add6bcf160d9f8e6c",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "凤凰山街道南门吉祥街",
+        "community": "外贸宿舍",
+        "show_address": "外贸宿舍",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区凤凰山街道南门吉祥街外贸宿舍",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "49236e94f3119975ab8a649f4dd4f0e9",
+        "lng": "119.013527",
+        "lat": "25.424191",
+        "doc_id": "90000052_49236e94f3119975ab8a649f4dd4f0e9",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "金川村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区常太镇金川村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          },
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          },
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "31e21dcf41bb415fc1ac721da8d5aefa",
+        "lng": "118.884644",
+        "lat": "25.5361",
+        "doc_id": "90000052_31e21dcf41bb415fc1ac721da8d5aefa",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "柯朱村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区柯朱村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "0f0c1c1c6acd672627d9c32d674727e4",
+        "lng": "119.018372",
+        "lat": "25.306669",
+        "doc_id": "90000052_0f0c1c1c6acd672627d9c32d674727e4",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "太湖村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区灵川镇太湖村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "96791ee82fbc446c6e8de1c8b6217364",
+        "lng": "119.035439",
+        "lat": "25.278299",
+        "doc_id": "90000052_96791ee82fbc446c6e8de1c8b6217364",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "荔城中大道",
+        "community": "豪悦御景",
+        "show_address": "豪悦御景",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区荔城中大道豪悦御景",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "b616a61fe5f000c6fa34b341f962ddb1",
+        "lng": "119.003128",
+        "lat": "25.447611",
+        "doc_id": "90000052_b616a61fe5f000c6fa34b341f962ddb1",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "城厢区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "西黄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市城厢区东海镇西黄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "2d930a1b2ad946eda9554f4905b8ed3e",
+        "lng": "118.950058",
+        "lat": "25.276381",
+        "doc_id": "90000052_2d930a1b2ad946eda9554f4905b8ed3e",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "涵江区": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "涵江区",
+        "county": "",
+        "street": "",
+        "community": "景隆凯旋城",
+        "show_address": "景隆凯旋城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市涵江区国欢镇景隆凯旋城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "0359e6ac186e2ab19a317812b1981eba",
+        "lng": "119.107147",
+        "lat": "25.469419",
+        "doc_id": "90000052_0359e6ac186e2ab19a317812b1981eba",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "涵江区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "岫山村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市涵江区庄边镇岫山村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "d47576d15263ec41334bec8ebbadecd1",
+        "lng": "118.95874",
+        "lat": "25.697781",
+        "doc_id": "90000052_d47576d15263ec41334bec8ebbadecd1",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "涵江区",
+        "county": "",
+        "street": "",
+        "community": "保利城2期",
+        "show_address": "保利城2期",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市涵江区白塘镇保利城2期",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "d3cd191ec4aaf797d8c9645f6ad60305",
+        "lng": "119.087074",
+        "lat": "25.465982",
+        "doc_id": "90000052_d3cd191ec4aaf797d8c9645f6ad60305",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "涵江区",
+        "county": "",
+        "street": "港头路",
+        "community": "东南香小区",
+        "show_address": "东南香小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市涵江区港头路东南香小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "add209308302f729f8e03e2c84119597",
+        "lng": "119.097931",
+        "lat": "25.448988",
+        "doc_id": "90000052_add209308302f729f8e03e2c84119597",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "秀屿区": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "营边村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区东庄镇营边村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "b4c324c6836aa70fab48c8e0fe98f6d2",
+        "lng": "119.03701",
+        "lat": "25.251369",
+        "doc_id": "90000052_b4c324c6836aa70fab48c8e0fe98f6d2",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "埭头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区埭头镇埭头村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "84b4274d0cfefba77e2bb7d25379c211",
+        "lng": "119.236008",
+        "lat": "25.25511",
+        "doc_id": "90000052_84b4274d0cfefba77e2bb7d25379c211",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "埭头村新街口",
+        "show_address": "埭头村新街口",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区埭头镇埭头村新街口",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "a25accefdfdcca936e37c3972bb52ce0",
+        "lng": "119.234375",
+        "lat": "25.255232",
+        "doc_id": "90000052_a25accefdfdcca936e37c3972bb52ce0",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "湖东村顶湖",
+        "show_address": "湖东村顶湖",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区湖东村顶湖",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "547fe9cd8d9aab80e44289a15403a2fe",
+        "lng": "119.248528",
+        "lat": "25.25865",
+        "doc_id": "90000052_547fe9cd8d9aab80e44289a15403a2fe",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "苏厝村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区苏厝村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "7b42ab8c8496a242e95fecfd7c56fb09",
+        "lng": "119.036163",
+        "lat": "25.23472",
+        "doc_id": "90000052_7b42ab8c8496a242e95fecfd7c56fb09",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "鼎秀苑小区",
+        "show_address": "鼎秀苑小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区鼎秀苑小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "54c6670aa015e5b50e9c6ea5b8a8f56c",
+        "lng": "119.094109",
+        "lat": "25.32518",
+        "doc_id": "90000052_54c6670aa015e5b50e9c6ea5b8a8f56c",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "秀屿区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "莆头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市秀屿区东庄镇莆头村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "26df59654d0cbb3f4bdc09182f0b44ef",
+        "lng": "118.984108",
+        "lat": "25.225901",
+        "doc_id": "90000052_26df59654d0cbb3f4bdc09182f0b44ef",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "荔城区": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "呈山村沟戈",
+        "show_address": "呈山村沟戈",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区北高镇呈山村沟戈",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "a8192889791b98a3ddf27a90694d4238",
+        "lng": "119.139168",
+        "lat": "25.35041",
+        "doc_id": "90000052_a8192889791b98a3ddf27a90694d4238",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "竹庄村上房",
+        "show_address": "竹庄村上房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区北高镇竹庄村上房",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "1c5aa9b5cb55e6696ec1d5d5a8fe525a",
+        "lng": "119.199471",
+        "lat": "25.33625",
+        "doc_id": "90000052_1c5aa9b5cb55e6696ec1d5d5a8fe525a",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "锦墩村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区新度镇锦墩村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "a3e66ce02dba2a3b6fbb93b4d20a8d55",
+        "lng": "119.030777",
+        "lat": "25.3901",
+        "doc_id": "90000052_a3e66ce02dba2a3b6fbb93b4d20a8d55",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "渡岭村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区渡岭村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "bf5b94a33f3c721618f4127ce4b6f2de",
+        "lng": "119.171402",
+        "lat": "25.318489",
+        "doc_id": "90000052_bf5b94a33f3c721618f4127ce4b6f2de",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "万通花园",
+        "show_address": "万通花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区万通花园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "38aae93e49d4f3a2779d0d9cf366da0e",
+        "lng": "119.033401",
+        "lat": "25.438511",
+        "doc_id": "90000052_38aae93e49d4f3a2779d0d9cf366da0e",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "拱辰街道",
+        "community": "畅林社区浦头村",
+        "show_address": "畅林社区浦头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区拱辰街道畅林社区浦头村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "9d6423430e0fd86c5b51bf045d6b2fd5",
+        "lng": "119.03154",
+        "lat": "25.46751",
+        "doc_id": "90000052_9d6423430e0fd86c5b51bf045d6b2fd5",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "云顶枫丹",
+        "show_address": "云顶枫丹",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区西天尾镇云顶枫丹",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200205_1444155.htm"
+          }
+        ],
+        "id": "7653d1c9913763674d365cbf242a6600",
+        "lng": "119.027328",
+        "lat": "25.480949",
+        "doc_id": "90000052_7653d1c9913763674d365cbf242a6600",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "栏山村田鼻兜",
+        "show_address": "栏山村田鼻兜",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区北高镇栏山村田鼻兜",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "d9ef38fd915267372fb595514606cfbc",
+        "lng": "119.181252",
+        "lat": "25.32865",
+        "doc_id": "90000052_d9ef38fd915267372fb595514606cfbc",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "东甲村青山",
+        "show_address": "东甲村青山",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区黄石镇东甲村青山",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "54ab47cd3bd4ae3246ddabeee73449cb",
+        "lng": "119.127739",
+        "lat": "25.393419",
+        "doc_id": "90000052_54ab47cd3bd4ae3246ddabeee73449cb",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "徐厝村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区黄石镇徐厝村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "确诊病例在发病期间逗留过的村庄或小区",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200207_1444685.htm"
+          }
+        ],
+        "id": "06a4b961246f232066b9983b6f0a8f2c",
+        "lng": "119.123352",
+        "lat": "25.38875",
+        "doc_id": "90000052_06a4b961246f232066b9983b6f0a8f2c",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "",
+        "community": "张镇水乡农贸市场",
+        "show_address": "张镇水乡农贸市场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区张镇水乡农贸市场",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "闽侯、莆田两例确诊病例轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/Oo_bh_4ygJwxY7eWS-nQKQ"
+          }
+        ],
+        "id": "6d597d099222c4c7b7794a3aeebc0999",
+        "lng": "119.081886",
+        "lat": "25.376551",
+        "doc_id": "90000052_6d597d099222c4c7b7794a3aeebc0999",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "荔城区",
+        "county": "",
+        "street": "拱辰街道",
+        "community": "张镇村安置房",
+        "show_address": "张镇村安置房",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市荔城区拱辰街道张镇村安置房",
+        "release_date": "20200227",
+        "article_source": [
+          {
+            "title": "闽侯、莆田两例确诊病例轨迹公布",
+            "url": "https://mp.weixin.qq.com/s/Oo_bh_4ygJwxY7eWS-nQKQ"
+          }
+        ],
+        "id": "b36a6922d4519298e182fc94a84346f7",
+        "lng": "119.040001",
+        "lat": "25.44883",
+        "doc_id": "90000052_b36a6922d4519298e182fc94a84346f7",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "北岸": [
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "北岸",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "何山村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市北岸东埔镇何山村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "ca001b5345ab74030267c53629cb788b",
+        "lng": "119.083488",
+        "lat": "25.16707",
+        "doc_id": "90000052_ca001b5345ab74030267c53629cb788b",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "莆田市",
+        "district": "北岸",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "港里村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省莆田市北岸山亭镇港里村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "我市新增3例确诊病例和6例疑似病例",
+            "url": "http://wjw.putian.gov.cn/zwgk/mtbd/202002/t20200202_1443471.htm"
+          }
+        ],
+        "id": "eb0b8ccc6c363f017e94659d30ada014",
+        "lng": "119.122238",
+        "lat": "25.139999",
+        "doc_id": "90000052_eb0b8ccc6c363f017e94659d30ada014",
+        "source": [
+          {
+            "name": "莆田市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "漳州市": {
+    "东山县": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "东山县",
+        "county": "东山县",
+        "street": "",
+        "community": "",
+        "show_address": "城安村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市东山县康美镇城安村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "4126fddd39b1980fa02afbf718a5ab2b",
+        "lng": "117.500793",
+        "lat": "23.73872",
+        "doc_id": "90000052_4126fddd39b1980fa02afbf718a5ab2b",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "云霄县": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "云霄县",
+        "county": "云霄县",
+        "street": "",
+        "community": "",
+        "show_address": "圆峰村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市云霄县火田镇圆峰村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "571e29519e0986e7ad32d4566b6632f0",
+        "lng": "117.366737",
+        "lat": "24.06427",
+        "doc_id": "90000052_571e29519e0986e7ad32d4566b6632f0",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "云霄县",
+        "county": "云霄县",
+        "street": "",
+        "community": "福锦中心广场",
+        "show_address": "福锦中心广场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市云霄县莆美镇福锦中心广场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "350b40e293ed6ff2eff608f2949e340f",
+        "lng": "117.33654",
+        "lat": "23.93391",
+        "doc_id": "90000052_350b40e293ed6ff2eff608f2949e340f",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "芗城区": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "上江名都",
+        "show_address": "上江名都",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区上江名都",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "b820323d72e79697355dbdf092128569",
+        "lng": "117.651352",
+        "lat": "24.50251",
+        "doc_id": "90000052_b820323d72e79697355dbdf092128569",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "丹霞商贸城",
+        "show_address": "丹霞商贸城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区丹霞商贸城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "eedc8beb67307697fcfa8334d028d2fa",
+        "lng": "117.672203",
+        "lat": "24.507641",
+        "doc_id": "90000052_eedc8beb67307697fcfa8334d028d2fa",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "人民里25号",
+        "show_address": "人民里25号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区人民里25号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "d5ba970c032cb7063857ba38c434c9a2",
+        "lng": "117.660774",
+        "lat": "24.507698",
+        "doc_id": "90000052_d5ba970c032cb7063857ba38c434c9a2",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "巷口社区后港",
+        "show_address": "巷口社区后港",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区巷口社区后港",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "eff1adef2892fd0cac99c754c4f24f47",
+        "lng": "117.667877",
+        "lat": "24.509014",
+        "doc_id": "90000052_eff1adef2892fd0cac99c754c4f24f47",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "新浦路6号",
+        "show_address": "新浦路6号",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区新浦路6号",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "2da2e9cb56bb081ba01c9b292b207865",
+        "lng": "117.66109",
+        "lat": "24.50541",
+        "doc_id": "90000052_2da2e9cb56bb081ba01c9b292b207865",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "永鸿国际城",
+        "show_address": "永鸿国际城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区永鸿国际城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "b85f69c14815e89fbaeb63f2386b9e07",
+        "lng": "117.623466",
+        "lat": "24.523855",
+        "doc_id": "90000052_b85f69c14815e89fbaeb63f2386b9e07",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "芗城区",
+        "county": "",
+        "street": "",
+        "community": "福海阳光",
+        "show_address": "福海阳光",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市芗城区福海阳光",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "ec99c1daca337dcb33d3854784987e11",
+        "lng": "117.674088",
+        "lat": "24.52096",
+        "doc_id": "90000052_ec99c1daca337dcb33d3854784987e11",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "诏安县": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "诏安县",
+        "county": "诏安县",
+        "street": "",
+        "community": "",
+        "show_address": "楼仔村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市诏安县红星乡楼仔村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "42e1339cda2e778ee91137bed95a21ad",
+        "lng": "117.093842",
+        "lat": "23.87608",
+        "doc_id": "90000052_42e1339cda2e778ee91137bed95a21ad",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "龙海市": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "龙海市",
+        "county": "龙海市",
+        "street": "",
+        "community": "明发广场",
+        "show_address": "明发广场",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市龙海市石码镇明发广场",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "漳州市新增新型冠状病毒感染的肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-06/964524201.html"
+          }
+        ],
+        "id": "5c6b111bb7e07cb785d7ea676d7d0041",
+        "lng": "117.807411",
+        "lat": "24.43498",
+        "doc_id": "90000052_5c6b111bb7e07cb785d7ea676d7d0041",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "南靖县": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "南靖县",
+        "county": "",
+        "street": "",
+        "community": "农科所",
+        "show_address": "农科所",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市南靖县丰田镇农科所",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "漳州市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-15/1382201882.html"
+          }
+        ],
+        "id": "6769cb72b23a02dc5affddb033a5c38c",
+        "lng": "117.447372",
+        "lat": "24.601681",
+        "doc_id": "90000052_6769cb72b23a02dc5affddb033a5c38c",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "长泰县": [
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "长泰县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "林墩工业区江都村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市长泰县林墩工业区江都村",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "漳州市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-15/1382201882.html"
+          }
+        ],
+        "id": "f162422743c327591dbe33a28e77184a",
+        "lng": "117.908279",
+        "lat": "24.763309",
+        "doc_id": "90000052_f162422743c327591dbe33a28e77184a",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "漳州市",
+        "district": "长泰县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "林墩工业区美宫村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "-1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省漳州市长泰县林墩工业区美宫村",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "漳州市新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.zhangzhou.gov.cn/cms/html/zzswshjhsywyh/2020-02-15/1382201882.html"
+          }
+        ],
+        "id": "61d14ef16e701e20900e3619f99a35de",
+        "lng": "117.943443",
+        "lat": "24.80678",
+        "doc_id": "90000052_61d14ef16e701e20900e3619f99a35de",
+        "source": [
+          {
+            "name": "漳州市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "宁德市": {
+    "古田县": [
+      {
+        "province": "福建省",
+        "city": "宁德市",
+        "district": "古田县",
+        "county": "古田县",
+        "street": "",
+        "community": "",
+        "show_address": "长岭村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省宁德市古田县城西街道长岭村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急扩散！福州、泉州、厦门、宁德、三明、龙岩......福建又一批确诊患者活动轨迹曝光！",
+            "url": "https://m.weibo.cn/1658388624/4469483764855286"
+          }
+        ],
+        "id": "3bd846f9c5431c4520ece88ed7bf4a62",
+        "lng": "118.73912",
+        "lat": "26.53031",
+        "doc_id": "90000052_3bd846f9c5431c4520ece88ed7bf4a62",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "宁德市",
+        "district": "古田县",
+        "county": "古田县",
+        "street": "",
+        "community": "",
+        "show_address": "大洋坑村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省宁德市古田县大洋坑村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "紧急扩散！福州、泉州、厦门、宁德、三明、龙岩......福建又一批确诊患者活动轨迹曝光！",
+            "url": "https://m.weibo.cn/1658388624/4469483764855286"
+          }
+        ],
+        "id": "422f21ea94bd03c17f24d2c611f5a8fc",
+        "lng": "118.733963",
+        "lat": "26.541981",
+        "doc_id": "90000052_422f21ea94bd03c17f24d2c611f5a8fc",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "宁德市",
+        "district": "古田县",
+        "county": "古田县",
+        "street": "城西街道",
+        "community": "康馨楼",
+        "show_address": "康馨楼",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省宁德市城西街道康馨楼",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "6a6b9f3f1ba6a548bd3ee4c54cb33daf",
+        "lng": "118.723915",
+        "lat": "26.56883",
+        "doc_id": "90000052_6a6b9f3f1ba6a548bd3ee4c54cb33daf",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  },
+  "三明市": {
+    "三元区": [
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "三元区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "蓬坑村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市三元区莘口镇蓬坑村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "fed86b5800b1714693774fa1096f7a7e",
+        "lng": "117.600983",
+        "lat": "26.126471",
+        "doc_id": "90000052_fed86b5800b1714693774fa1096f7a7e",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "将乐县": [
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "将乐县",
+        "county": "将乐县",
+        "street": "新将北路",
+        "community": "",
+        "show_address": "新将北路",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市将乐县古镛镇新将北路",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "b3f014a03d47bbc7161a378a509eaa63",
+        "lng": "117.473022",
+        "lat": "26.7316",
+        "doc_id": "90000052_b3f014a03d47bbc7161a378a509eaa63",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "尤溪县": [
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "尤溪县",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "建设村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市尤溪县管前镇建设村",
+        "release_date": "20200217",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          },
+          {
+            "title": "三明市新增新型冠状病毒肺炎疫情情况",
+            "url": "http://wjw.sm.gov.cn/xxgk/wjyw/sjdt/202002/t20200217_1474438.htm"
+          }
+        ],
+        "id": "beabf8a300ca5f3014d46449e195da27",
+        "lng": "117.901787",
+        "lat": "26.144739",
+        "doc_id": "90000052_beabf8a300ca5f3014d46449e195da27",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "永安市": [
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "永安市",
+        "county": "",
+        "street": "燕南街道",
+        "community": "金色华府",
+        "show_address": "金色华府",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市永安市燕南街道金色华府",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "c818fcab62c28a9ca8a18ad4c4e5d156",
+        "lng": "117.363609",
+        "lat": "25.93548",
+        "doc_id": "90000052_c818fcab62c28a9ca8a18ad4c4e5d156",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "永安市",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "五一村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省永安市小陶镇五一村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "f019facfeefeae062e70d2ce61f5edd3",
+        "lng": "117.130142",
+        "lat": "25.733629",
+        "doc_id": "90000052_f019facfeefeae062e70d2ce61f5edd3",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "沙县": [
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "沙县",
+        "county": "沙县",
+        "street": "凤岗街道",
+        "community": "鸿图花园",
+        "show_address": "鸿图花园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市沙县凤岗街道鸿图花园",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "166beee6d7072f7ca5562b9477ac1c71",
+        "lng": "117.785217",
+        "lat": "26.395041",
+        "doc_id": "90000052_166beee6d7072f7ca5562b9477ac1c71",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "沙县",
+        "county": "沙县",
+        "street": "凤岗街道",
+        "community": "龙湖天成",
+        "show_address": "龙湖天成",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市沙县凤岗街道龙湖天成",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "4fdc189a98c4809a1408fb3b508745ad",
+        "lng": "117.776833",
+        "lat": "26.413589",
+        "doc_id": "90000052_4fdc189a98c4809a1408fb3b508745ad",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "沙县",
+        "county": "沙县",
+        "street": "",
+        "community": "",
+        "show_address": "夏茂镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市沙县夏茂镇",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "cc9369a78d439f87d92eb5b06dd4cdbd",
+        "lng": "117.669502",
+        "lat": "26.57164",
+        "doc_id": "90000052_cc9369a78d439f87d92eb5b06dd4cdbd",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "福建省",
+        "city": "三明市",
+        "district": "沙县",
+        "county": "沙县",
+        "street": "",
+        "community": "",
+        "show_address": "高砂村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "福建省三明市沙县高砂镇高砂村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          },
+          {
+            "title": "转扩！鼓楼区公布新增确诊病例活动轨迹！福建多地更新确诊患者活动场所",
+            "url": "https://mp.weixin.qq.com/s/7-sOzrn9nuhtywLMtnlTUg"
+          }
+        ],
+        "id": "f4744cb30c3148211980762096dc8f2c",
+        "lng": "117.910713",
+        "lat": "26.42535",
+        "doc_id": "90000052_f4744cb30c3148211980762096dc8f2c",
+        "source": [],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

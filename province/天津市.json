@@ -1,0 +1,2678 @@
+{"天津市": {
+  "天津市": {
+    "宁河区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宁河区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "王北村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宁河区芦台镇王北村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "宁和发布微博第3例",
+            "url": "https://m.weibo.cn/3288836375/4467528383874070"
+          }
+        ],
+        "id": "0e5119f024e7ba6bea52ed7267b3d121",
+        "lng": "117.771988",
+        "lat": "39.358971",
+        "doc_id": "90000052_0e5119f024e7ba6bea52ed7267b3d121",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宁河区",
+        "county": "",
+        "street": "",
+        "community": "运河家园",
+        "show_address": "运河家园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宁河区芦台镇运河家园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "宁和发布微博第2例",
+            "url": "https://m.weibo.cn/3288836375/4467464668684998"
+          },
+          {
+            "title": "宁和发布微博第4例",
+            "url": "https://m.weibo.cn/3288836375/4467899127488591"
+          },
+          {
+            "title": "紧急通知",
+            "url": "https://mp.weixin.qq.com/s/amzqj6AcFJhweIRedaUCdA"
+          }
+        ],
+        "id": "0cbb68c3e1ddc8df5b6239b40f3063b8",
+        "lng": "117.802422",
+        "lat": "39.351799",
+        "doc_id": "90000052_0cbb68c3e1ddc8df5b6239b40f3063b8",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "宝坻区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "华苑东区",
+        "show_address": "华苑东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道华苑东区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第10、11例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404468005563138481#_0"
+          }
+        ],
+        "id": "1f6d56396bd93b27b530da3f48ff78c5",
+        "lng": "117.30587",
+        "lat": "39.709171",
+        "doc_id": "90000052_1f6d56396bd93b27b530da3f48ff78c5",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "宝平景苑东区",
+        "show_address": "宝平景苑东区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道宝平景苑东区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第6、7、8、9例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467887791276156#_0"
+          }
+        ],
+        "id": "f65787f8d29ec08b007c8aa7f3beeff2",
+        "lng": "117.295311",
+        "lat": "39.70789",
+        "doc_id": "90000052_f65787f8d29ec08b007c8aa7f3beeff2",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "宝平景苑西区",
+        "show_address": "宝平景苑西区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道宝平景苑西区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第五例新型冠状病毒感染的肺炎确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467532516950021#_0"
+          }
+        ],
+        "id": "603fa9d2fbedf0c351a981d25ac50fd0",
+        "lng": "117.29137",
+        "lat": "39.70902",
+        "doc_id": "90000052_603fa9d2fbedf0c351a981d25ac50fd0",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "河景馨园小区",
+        "show_address": "河景馨园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道河景馨园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第6、7、8、9例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467887791276156#_0"
+          },
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          },
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          }
+        ],
+        "id": "aa9f4b91c6fab2b979c131c8d6bf7aed",
+        "lng": "117.289268",
+        "lat": "39.702579",
+        "doc_id": "90000052_aa9f4b91c6fab2b979c131c8d6bf7aed",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "朝霞街道",
+        "community": "开元新居小区",
+        "show_address": "开元新居小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区朝霞街道开元新居小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第二三例确诊病例轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467247119729065#_0"
+          }
+        ],
+        "id": "4e5954f21d8311a4b2055f1357a2fccc",
+        "lng": "117.284828",
+        "lat": "39.741463",
+        "doc_id": "90000052_4e5954f21d8311a4b2055f1357a2fccc",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街道",
+        "community": "宝鑫景苑小区",
+        "show_address": "宝鑫景苑小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街道宝鑫景苑小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第二三例确诊病例轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467247119729065#_0"
+          },
+          {
+            "title": "关于我区首例确诊病例轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467168178733379#_0"
+          }
+        ],
+        "id": "3bb6da7b8f021f9ec1ba283632bb013b",
+        "lng": "117.321983",
+        "lat": "39.73172",
+        "doc_id": "90000052_3bb6da7b8f021f9ec1ba283632bb013b",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街道",
+        "community": "御景华城小区",
+        "show_address": "御景华城小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街道御景华城小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第14、15例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/mibMIlfOXFKtghtnQmOc2g"
+          },
+          {
+            "title": "关于我区第6、7、8、9例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467887791276156#_0"
+          }
+        ],
+        "id": "d33f0730c043eb2e8ecf31ae1501762c",
+        "lng": "117.350296",
+        "lat": "39.738712",
+        "doc_id": "90000052_d33f0730c043eb2e8ecf31ae1501762c",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "焦山寺村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区牛道口镇焦山寺村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第10、11例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404468005563138481#_0"
+          }
+        ],
+        "id": "a9cbd41e9fefec204dba0b91bbb87264",
+        "lng": "117.290787",
+        "lat": "39.779079",
+        "doc_id": "90000052_a9cbd41e9fefec204dba0b91bbb87264",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街道",
+        "community": "凯瑞国际小区",
+        "show_address": "凯瑞国际小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街道凯瑞国际小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第四例新型冠状病毒感染的肺炎确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467518042407118#_0"
+          },
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          }
+        ],
+        "id": "8760219a3622f14f70dc2399e3740f35",
+        "lng": "117.336433",
+        "lat": "39.722679",
+        "doc_id": "90000052_8760219a3622f14f70dc2399e3740f35",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "古庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区大口屯镇古庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第12、13例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404468228100325522#_0"
+          }
+        ],
+        "id": "c38bc2ec683f9088856aa97382028ffa",
+        "lng": "117.258926",
+        "lat": "39.592751",
+        "doc_id": "90000052_c38bc2ec683f9088856aa97382028ffa",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大钟庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区大钟庄镇大钟庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第12、13例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404468228100325522#_0"
+          },
+          {
+            "title": "关于我区第6、7、8、9例确诊病例活动轨迹通告",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404467887791276156#_0"
+          }
+        ],
+        "id": "46170d9626abcde6d63d45a63da4f52c",
+        "lng": "117.577377",
+        "lat": "39.687401",
+        "doc_id": "90000052_46170d9626abcde6d63d45a63da4f52c",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "前齐各庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区口东镇前齐各庄村",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          },
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          },
+          {
+            "title": "关于我区第33、34、35例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/Ifmsd3yP77YzFlJUPlU7zQ"
+          },
+          {
+            "title": "天津第118、119例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XhQUBsKYOi6DORBXWFfsTQ"
+          }
+        ],
+        "id": "156eb9180407cdd9b8de8a97ab8efb26",
+        "lng": "117.405441",
+        "lat": "39.669762",
+        "doc_id": "90000052_156eb9180407cdd9b8de8a97ab8efb26",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "瑞景花园小区",
+        "show_address": "瑞景花园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道瑞景花园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          }
+        ],
+        "id": "2d2f8c58089c834367518fc1f606cbbf",
+        "lng": "117.311768",
+        "lat": "39.72253",
+        "doc_id": "90000052_2d2f8c58089c834367518fc1f606cbbf",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "朝霞街道",
+        "community": "状元城小区",
+        "show_address": "状元城小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区朝霞街道状元城小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          }
+        ],
+        "id": "8eb72c3a6c99e52b4f19d4979ea38d65",
+        "lng": "117.284828",
+        "lat": "39.741463",
+        "doc_id": "90000052_8eb72c3a6c99e52b4f19d4979ea38d65",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "窝贝厂村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区林亭口镇窝贝厂村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          }
+        ],
+        "id": "fa76b29002900dc8035758c87ce61f93",
+        "lng": "117.533508",
+        "lat": "39.603519",
+        "doc_id": "90000052_fa76b29002900dc8035758c87ce61f93",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街道",
+        "community": "金玉四园小区",
+        "show_address": "金玉四园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街道金玉四园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第16、17、18、19、20、21例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/_j9LvCI4jiWk2_T0LQtQ1g"
+          }
+        ],
+        "id": "659299067e18442ce7355b232e78e637",
+        "lng": "117.309227",
+        "lat": "39.699261",
+        "doc_id": "90000052_659299067e18442ce7355b232e78e637",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "宝境檀香小区",
+        "show_address": "宝境檀香小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道宝境檀香小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第22、23例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/O0WTwV052DXXr4Onj60cQg"
+          }
+        ],
+        "id": "3ca36cb4cb606cc228ad6e499cfaad12",
+        "lng": "117.276573",
+        "lat": "39.6931",
+        "doc_id": "90000052_3ca36cb4cb606cc228ad6e499cfaad12",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "沟头村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区牛道口镇沟头村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第22、23例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/O0WTwV052DXXr4Onj60cQg"
+          }
+        ],
+        "id": "d3c12edfa44eb65fc8cc7bfba9904b32",
+        "lng": "117.207428",
+        "lat": "39.814442",
+        "doc_id": "90000052_d3c12edfa44eb65fc8cc7bfba9904b32",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "凯旋家园小区",
+        "show_address": "凯旋家园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道凯旋家园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          },
+          {
+            "title": "刚刚，宝坻区第32例新冠肺炎确诊病例活动轨迹发布",
+            "url": "https://mp.weixin.qq.com/s/k909mP_cJ5BY3m-aJFxffg"
+          }
+        ],
+        "id": "7169cbb62e01d78680b67995a071bf88",
+        "lng": "117.297768",
+        "lat": "39.695438",
+        "doc_id": "90000052_7169cbb62e01d78680b67995a071bf88",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "蝶恋新园小区",
+        "show_address": "蝶恋新园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道蝶恋新园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          }
+        ],
+        "id": "a2221ed416026b440e12e63e5fa53551",
+        "lng": "117.284096",
+        "lat": "39.712849",
+        "doc_id": "90000052_a2221ed416026b440e12e63e5fa53551",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街道",
+        "community": "顺驰小区",
+        "show_address": "顺驰小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街道顺驰小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第24、25、26、27、28、29例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/S6ryp96tRzqjI_O-wup-wA"
+          }
+        ],
+        "id": "86998b1f9bee579f38e6fad913a5448a",
+        "lng": "117.330261",
+        "lat": "39.715565",
+        "doc_id": "90000052_86998b1f9bee579f38e6fad913a5448a",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "陈甫村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区史各庄镇陈甫村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第30、31例 新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/MUaoBy2L3Ri3efvUapw1Vw"
+          }
+        ],
+        "id": "1130473ef1cc4d7735dacd88bb6da559",
+        "lng": "117.244827",
+        "lat": "39.729778",
+        "doc_id": "90000052_1130473ef1cc4d7735dacd88bb6da559",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "逸城雅园小区",
+        "show_address": "逸城雅园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道逸城雅园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第30、31例 新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/MUaoBy2L3Ri3efvUapw1Vw"
+          }
+        ],
+        "id": "1a40faf4f60b3abe0ff253e80c449738",
+        "lng": "117.30162",
+        "lat": "39.70504",
+        "doc_id": "90000052_1a40faf4f60b3abe0ff253e80c449738",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街道",
+        "community": "蓝水湾小区",
+        "show_address": "蓝水湾小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街道蓝水湾小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第14、15例确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/mibMIlfOXFKtghtnQmOc2g"
+          }
+        ],
+        "id": "f7e705b5b8a2579a04f414c334a6582a",
+        "lng": "117.299263",
+        "lat": "39.739964",
+        "doc_id": "90000052_f7e705b5b8a2579a04f414c334a6582a",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "林亭口五村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区林亭口镇林亭口五村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第33、34、35例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/Ifmsd3yP77YzFlJUPlU7zQ"
+          },
+          {
+            "title": "关于我区第36、37、38、39例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/yPcL1WDVuN2Xf3b2D5sA4g"
+          }
+        ],
+        "id": "e48c876c832a25e79e9ec5b16bc03cf5",
+        "lng": "117.50956",
+        "lat": "39.63575",
+        "doc_id": "90000052_e48c876c832a25e79e9ec5b16bc03cf5",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "西四庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区牛道口镇西四庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第33、34、35例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/Ifmsd3yP77YzFlJUPlU7zQ"
+          }
+        ],
+        "id": "57118dfbf3c47e65eb7734a84ef2b437",
+        "lng": "117.253059",
+        "lat": "39.825821",
+        "doc_id": "90000052_57118dfbf3c47e65eb7734a84ef2b437",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大中庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区大钟庄镇大中庄村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第36、37、38、39例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/yPcL1WDVuN2Xf3b2D5sA4g"
+          }
+        ],
+        "id": "de89ccfe53b5300a8dbb7a4135e7c97a",
+        "lng": "117.575943",
+        "lat": "39.695259",
+        "doc_id": "90000052_de89ccfe53b5300a8dbb7a4135e7c97a",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街道",
+        "community": "和远领居小区",
+        "show_address": "和远领居小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街道和远领居小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第36、37、38、39例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://mp.weixin.qq.com/s/yPcL1WDVuN2Xf3b2D5sA4g"
+          }
+        ],
+        "id": "11558e445c9853bfacd20584792de25e",
+        "lng": "117.342461",
+        "lat": "39.731892",
+        "doc_id": "90000052_11558e445c9853bfacd20584792de25e",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街道",
+        "community": "",
+        "show_address": "钰华街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街道",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2月12日6时至15时 天津新增3例新冠肺炎确诊病例 累计确诊病例110例",
+            "url": "https://mp.weixin.qq.com/s/1tkfOglO5RTGfeb_jvKLfg"
+          }
+        ],
+        "id": "f77a4973d8bcab2cf94268f43fad18bd",
+        "lng": "117.309227",
+        "lat": "39.699261",
+        "doc_id": "90000052_f77a4973d8bcab2cf94268f43fad18bd",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "西马各庄村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区史各庄镇西马各庄村",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "​关于我区第42、43例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://weibo.com/3308008187/ItU6U0rAn?from=page_1001063308008187_profile&wvr=6&mod=weibotime&type=comment"
+          }
+        ],
+        "id": "0eaf4eeb316f725f9c5b785ca5295030",
+        "lng": "117.212631",
+        "lat": "39.73613",
+        "doc_id": "90000052_0eaf4eeb316f725f9c5b785ca5295030",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街道",
+        "community": "提香轩小区",
+        "show_address": "提香轩小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街道提香轩小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "​关于我区第42、43例新冠肺炎确诊病例活动轨迹通告",
+            "url": "https://weibo.com/3308008187/ItU6U0rAn?from=page_1001063308008187_profile&wvr=6&mod=weibotime&type=comment"
+          }
+        ],
+        "id": "81da88103e73a840272b3685a22b8e77",
+        "lng": "117.307243",
+        "lat": "39.69595",
+        "doc_id": "90000052_81da88103e73a840272b3685a22b8e77",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "林亭口镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "4",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区林亭口镇",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "2月13日6时至15时 天津新增4例 累计确诊病例117例",
+            "url": "https://mp.weixin.qq.com/s/jkCmhxZbpnNpbOUkWWKAxw"
+          },
+          {
+            "title": "2月17日18时至2月18日6时 天津新增2例 累计确诊病例127例",
+            "url": "https://mp.weixin.qq.com/s/rnUl6OchjLunxx_Iysms1A"
+          },
+          {
+            "title": "2月21日22时至2月22日6时 天津新增2例 累计确诊病例135例",
+            "url": "https://mp.weixin.qq.com/s/poLvpDrzvwwydKeJDn70Rw"
+          },
+          {
+            "title": "2月21日22时至2月22日6时 天津新增2例 累计确诊病例135例",
+            "url": "https://mp.weixin.qq.com/s/poLvpDrzvwwydKeJDn70Rw"
+          }
+        ],
+        "id": "a0f32541d6084aba76300d7917ed8836",
+        "lng": "117.515129",
+        "lat": "39.63517",
+        "doc_id": "90000052_a0f32541d6084aba76300d7917ed8836",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "林亭口一村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区林亭口镇林亭口一村",
+        "release_date": "20200215",
+        "article_source": [
+          {
+            "title": "天津第118、119例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XhQUBsKYOi6DORBXWFfsTQ"
+          },
+          {
+            "title": "天津第121例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/iHbpY2oMq4OF1ZV-mCA43A"
+          }
+        ],
+        "id": "548d2d07904ef34f26bcdbd625f3f774",
+        "lng": "117.50956",
+        "lat": "39.635746",
+        "doc_id": "90000052_548d2d07904ef34f26bcdbd625f3f774",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街",
+        "community": "",
+        "show_address": "钰华街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "2月15日6时至18时 天津新增1例 累计确诊病例122例",
+            "url": "https://mp.weixin.qq.com/s/5sw16O7WFc-EvKxHT12UAA"
+          },
+          {
+            "title": "2月18日6时至2月18日18时 天津新增1例 累计确诊病例128例",
+            "url": "https://mp.weixin.qq.com/s/Mqzl5qjTGXBYz_YvhchR_Q"
+          }
+        ],
+        "id": "870328430380207d5f3b7fdc12745ece",
+        "lng": "117.311234",
+        "lat": "39.712791",
+        "doc_id": "90000052_870328430380207d5f3b7fdc12745ece",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "钰华街道",
+        "community": "绿景家园小区",
+        "show_address": "绿景家园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区钰华街道绿景家园小区",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "天津第122例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/rVyVNf22sISzuS0N34hxqw"
+          }
+        ],
+        "id": "4469e83a3b61b027f085c6f3eede927f",
+        "lng": "117.329117",
+        "lat": "39.721165",
+        "doc_id": "90000052_4469e83a3b61b027f085c6f3eede927f",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "宝平街",
+        "community": "",
+        "show_address": "宝平街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区宝平街",
+        "release_date": "20200221",
+        "article_source": [
+          {
+            "title": "2月15日18时至2月16日6时 天津新增2例 累计确诊病例124例",
+            "url": "https://mp.weixin.qq.com/s/PdinnFUfngkkDuqctLZcvQ"
+          },
+          {
+            "title": "2月19日6时至2月19日18时 天津新增2例 累计确诊病例130例",
+            "url": "https://mp.weixin.qq.com/s/wxngfjdo0vdw-CFPSMyZuQ"
+          },
+          {
+            "title": "2月21日6时至12时 天津新增1例 累计确诊病例132例",
+            "url": "https://mp.weixin.qq.com/s/wjeGqfKRhy5WhBGrubnW1w"
+          }
+        ],
+        "id": "7d44294f1f37a61354e8c3aa2827c0ad",
+        "lng": "117.289948",
+        "lat": "39.709801",
+        "doc_id": "90000052_7d44294f1f37a61354e8c3aa2827c0ad",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街",
+        "community": "",
+        "show_address": "海滨街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街",
+        "release_date": "20200218",
+        "article_source": [
+          {
+            "title": "2月17日18时至2月18日6时 天津新增2例 累计确诊病例127例",
+            "url": "https://mp.weixin.qq.com/s/rnUl6OchjLunxx_Iysms1A"
+          }
+        ],
+        "id": "245d163aae9419b0eafce2b089279397",
+        "lng": "117.327103",
+        "lat": "39.728962",
+        "doc_id": "90000052_245d163aae9419b0eafce2b089279397",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "大钟庄镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区大钟庄镇",
+        "release_date": "20200219",
+        "article_source": [
+          {
+            "title": "2月19日6时至2月19日18时 天津新增2例 累计确诊病例130例",
+            "url": "https://mp.weixin.qq.com/s/wxngfjdo0vdw-CFPSMyZuQ"
+          }
+        ],
+        "id": "64dedd9d5e3a4abe21c1b1e694f1d43b",
+        "lng": "117.571663",
+        "lat": "39.690022",
+        "doc_id": "90000052_64dedd9d5e3a4abe21c1b1e694f1d43b",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "海滨街道",
+        "community": "",
+        "show_address": "海滨街道",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区海滨街道",
+        "release_date": "20200220",
+        "article_source": [
+          {
+            "title": "2月20日6时至18时 天津新增1例 累计确诊病例131例",
+            "url": "https://mp.weixin.qq.com/s/lGvwRb1W6zXYS0HBv0-oTg"
+          }
+        ],
+        "id": "d1fb5035f2bb738d76bd09974bbb793f",
+        "lng": "117.30304",
+        "lat": "39.72512",
+        "doc_id": "90000052_d1fb5035f2bb738d76bd09974bbb793f",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "八门城镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市宝坻区八门城镇",
+        "release_date": "20200222",
+        "article_source": [
+          {
+            "title": "2月21日12时至22时 天津新增1例 累计确诊病例133例",
+            "url": "https://mp.weixin.qq.com/s/myT7MHZpp_YSNLfvpMmJ_A"
+          }
+        ],
+        "id": "c8b644e3e188276a89144c2fe83c03be",
+        "lng": "117.613373",
+        "lat": "39.579521",
+        "doc_id": "90000052_c8b644e3e188276a89144c2fe83c03be",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "middle_address": "",
+        "show_address": "宝坻区人民医院发热门诊",
+        "full_address": "天津市宝坻区宝坻区人民医院发热门诊",
+        "id": "52cfa30022b96a6534f1547ff7d69118",
+        "article_source": [
+          {
+            "title": "截至2月18日6时 天津市新增2例新型冠状病毒肺炎确诊病例 累计确诊病例127例",
+            "url": "http://wsjk.tj.gov.cn/art/2020/2/18/art_14_71057.html"
+          },
+          {
+            "title": "2月16日18时至2月17日6时 天津新增1例 累计确诊病例125例",
+            "url": "https://mp.weixin.qq.com/s/l1cFeyV8-wOPL__9phiHkQ"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200217",
+        "lng": "117.307701",
+        "lat": "39.718903",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "middle_address": "",
+        "show_address": "百货大楼",
+        "full_address": "天津市宝坻区百货大楼",
+        "id": "f4c1d4e78b9e19295179cb23baa69a4f",
+        "article_source": [
+          {
+            "title": "2月15日18时至2月16日6时 天津新增2例 累计确诊病例124例",
+            "url": "https://mp.weixin.qq.com/s/PdinnFUfngkkDuqctLZcvQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "117.306366",
+        "lat": "39.724468",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "middle_address": "广川路8号",
+        "show_address": "天津市宝坻区人民医院",
+        "full_address": "天津市宝坻区广川路8号天津市宝坻区人民医院",
+        "id": "40643cd789dcff41d891444c933da98e",
+        "article_source": [
+          {
+            "title": "2月15日18时至2月16日6时 天津新增2例 累计确诊病例124例",
+            "url": "https://mp.weixin.qq.com/s/PdinnFUfngkkDuqctLZcvQ"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200216",
+        "lng": "117.3091",
+        "lat": "39.71956",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "middle_address": "",
+        "show_address": "人民医院",
+        "full_address": "天津市宝坻区人民医院",
+        "id": "3cfc3b2f9b5fb00c614b3d76b96d583e",
+        "article_source": [
+          {
+            "title": "2月21日6时至12时 天津新增1例 累计确诊病例132例",
+            "url": "https://mp.weixin.qq.com/s/wjeGqfKRhy5WhBGrubnW1w"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200221",
+        "lng": "117.307701",
+        "lat": "39.718903",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "宝坻区",
+        "middle_address": "",
+        "show_address": "宝坻区人民医院",
+        "full_address": "天津市宝坻区宝坻区人民医院",
+        "id": "497a04f4c8844ca0690b80e16d2b13c5",
+        "article_source": [
+          {
+            "title": "2月21日6时至12时 天津市新增1例新冠肺炎确诊病例 累计确诊病例132例",
+            "url": "http://wsjk.tj.gov.cn/art/2020/2/21/art_87_71277.html"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200221",
+        "lng": "117.307701",
+        "lat": "39.718903",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "滨海新区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "滨海新区",
+        "county": "",
+        "street": "",
+        "community": "中新生态城",
+        "show_address": "中新生态城",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市滨海新区中新生态城",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "截至1月30日22时 天津市新增1例新型冠状病毒感染的肺炎确诊病例 确诊病例增至31例",
+            "url": "http://wsjk.tj.gov.cn/art/2020/1/30/art_14_70358.html"
+          }
+        ],
+        "id": "de51965a67a1a90b40043b5d43de3e83",
+        "lng": "117.737556",
+        "lat": "39.116772",
+        "doc_id": "90000052_de51965a67a1a90b40043b5d43de3e83",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "滨海新区",
+        "county": "",
+        "street": "",
+        "community": "万通上北新新家园",
+        "show_address": "万通上北新新家园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市滨海新区万通上北新新家园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "天津第79、80、81例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/8plKmwJn_lZ8TbHa2VKySQ"
+          }
+        ],
+        "id": "baa0ee48ccdd0534e6f73d1895f1c807",
+        "lng": "117.64769",
+        "lat": "39.06181",
+        "doc_id": "90000052_baa0ee48ccdd0534e6f73d1895f1c807",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "东丽区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "东丽区",
+        "county": "",
+        "street": "",
+        "community": "揽湖苑别墅",
+        "show_address": "揽湖苑别墅",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市东丽区揽湖苑别墅",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区首次确诊3例病例的通告",
+            "url": "http://www.tjdl.gov.cn/zwgk/system/2020/02/02/004044885.shtml"
+          }
+        ],
+        "id": "6d6cd3b87702f917f4eb2ef93fe12c90",
+        "lng": "117.499031",
+        "lat": "39.178452",
+        "doc_id": "90000052_6d6cd3b87702f917f4eb2ef93fe12c90",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "东丽区",
+        "county": "",
+        "street": "华明街道",
+        "community": "坤园",
+        "show_address": "坤园",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市东丽区华明街道坤园",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "关于我区第4例确诊病例的通告",
+            "url": "http://www.tjdl.gov.cn/zwgk/system/2020/02/07/004045165.shtml"
+          }
+        ],
+        "id": "72b893a000f8942e74678ee20c77ea18",
+        "lng": "117.379646",
+        "lat": "39.178581",
+        "doc_id": "90000052_72b893a000f8942e74678ee20c77ea18",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "西青区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "西青区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "杨柳青镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市西青区杨柳青镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "盘点天津9例新型冠状病毒感染的肺炎确诊病例基本情况",
+            "url": "https://mp.weixin.qq.com/s/xhpc3cUeEN_sAIeJ40rY3A"
+          },
+          {
+            "title": "2020年2月3日天津市新增4例新型冠状病毒感染的肺炎确诊病例 累计确诊病例60例",
+            "url": "http://wsjk.tj.gov.cn/art/2020/2/3/art_14_70490.html"
+          }
+        ],
+        "id": "eb43db51e5afe0f30651223f5668893f",
+        "lng": "117.014046",
+        "lat": "39.128487",
+        "doc_id": "90000052_eb43db51e5afe0f30651223f5668893f",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "西青区",
+        "county": "",
+        "street": "",
+        "community": "溪秀苑小区",
+        "show_address": "溪秀苑小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市西青区中北镇溪秀苑小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "天津市第76例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/ohdSLXMnSHK0wpl8o8MECQ"
+          }
+        ],
+        "id": "6cdcd7cff33eff28a81f613f49414af8",
+        "lng": "117.093208",
+        "lat": "39.124432",
+        "doc_id": "90000052_6cdcd7cff33eff28a81f613f49414af8",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "西青区",
+        "county": "",
+        "street": "李七庄街",
+        "community": "",
+        "show_address": "李七庄街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市西青区李七庄街",
+        "release_date": "20200301",
+        "article_source": [
+          {
+            "title": "天津市又出现一例出院确诊病例核酸检测阳性 已收入海河医院观",
+            "url": "https://mp.weixin.qq.com/s/RknEHv-1is4ML9M5UQOqqA"
+          }
+        ],
+        "id": "a94c187c34c3575938a48ed8d8b5271f",
+        "lng": "117.196175",
+        "lat": "39.033497",
+        "doc_id": "90000052_a94c187c34c3575938a48ed8d8b5271f",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "津南区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "津南区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "双港镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市津南区双港镇",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "公告",
+            "url": "https://mp.weixin.qq.com/s/UxZgU-HZLgGBUbpuTmdDdQ"
+          }
+        ],
+        "id": "fe8cbef6f2c3f13c05cb954bcd7fd331",
+        "lng": "117.318703",
+        "lat": "39.04274",
+        "doc_id": "90000052_fe8cbef6f2c3f13c05cb954bcd7fd331",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "北辰区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "普东街",
+        "community": "强宜里小区",
+        "show_address": "强宜里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区普东街强宜里小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "天津市第70例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/qsHYXOAL78cGCw7k_pfKwQ"
+          }
+        ],
+        "id": "a01ca69008442c65caf713518a8feb00",
+        "lng": "117.204941",
+        "lat": "39.190418",
+        "doc_id": "90000052_a01ca69008442c65caf713518a8feb00",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "双河村",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区双口镇双河村",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "天津市第102例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/TEIHyEQQjDP-JcMIq_3Z6w"
+          }
+        ],
+        "id": "2433d47ef37b4bcf6309857d1506ba4f",
+        "lng": "117.01564",
+        "lat": "39.15477",
+        "doc_id": "90000052_2433d47ef37b4bcf6309857d1506ba4f",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "果园新村街",
+        "community": "",
+        "show_address": "果园新村街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区果园新村街",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "2月11日12时至20时 天津新增1例 累计确诊病例105例",
+            "url": "https://mp.weixin.qq.com/s/b4n9eXtL_raLIl16yPyP3w"
+          }
+        ],
+        "id": "475967648865152ec33347b9574568ab",
+        "lng": "117.13916",
+        "lat": "39.224178",
+        "doc_id": "90000052_475967648865152ec33347b9574568ab",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "瑞景街",
+        "community": "熙景园小区",
+        "show_address": "熙景园小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区瑞景街熙景园小区",
+        "release_date": "",
+        "article_source": [
+          {
+            "title": "天津市第100例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/QWvdF-QFLwyUgOV1zH3nzQ"
+          }
+        ],
+        "id": "29f388343239843e8f159dcbb85cfe6d",
+        "lng": "117.118202",
+        "lat": "39.208321",
+        "doc_id": "90000052_29f388343239843e8f159dcbb85cfe6d",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "双口镇",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区双口镇",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2月12日6时至15时 天津新增3例新冠肺炎确诊病例 累计确诊病例110例",
+            "url": "https://mp.weixin.qq.com/s/1tkfOglO5RTGfeb_jvKLfg"
+          }
+        ],
+        "id": "a1631afb1972ae19142742cab839d1d9",
+        "lng": "117.036583",
+        "lat": "39.227482",
+        "doc_id": "90000052_a1631afb1972ae19142742cab839d1d9",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "北辰区",
+        "county": "",
+        "street": "瑞景街",
+        "community": "",
+        "show_address": "瑞景街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市北辰区瑞景街",
+        "release_date": "20200213",
+        "article_source": [
+          {
+            "title": "2月12日20时至2月13日6时 天津新增1例 累计确诊病例113例",
+            "url": "https://mp.weixin.qq.com/s/TEh3g4_v-Oqv5p9WDCnmew"
+          }
+        ],
+        "id": "c371731d450f9497417b963b3dbc48de",
+        "lng": "117.106522",
+        "lat": "39.195179",
+        "doc_id": "90000052_c371731d450f9497417b963b3dbc48de",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "河东区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "河东区",
+        "county": "",
+        "street": "",
+        "community": "大直沽汇贤里",
+        "show_address": "大直沽汇贤里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "3",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市河东区大直沽汇贤里",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "天津第95、96、97、98、99、101例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/YUUmarWKlXkbd-qmvOIagg"
+          },
+          {
+            "title": "天津第95、96、97、98、99、101例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/YUUmarWKlXkbd-qmvOIagg"
+          },
+          {
+            "title": "天津第104、116例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XK9CNZu8BTawruKkoGbo0Q"
+          }
+        ],
+        "id": "ee32c97d00241211a973e86583114311",
+        "lng": "117.2453",
+        "lat": "39.117012",
+        "doc_id": "90000052_ee32c97d00241211a973e86583114311",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "河东区",
+        "county": "",
+        "street": "大王庄街",
+        "community": "林盛里",
+        "show_address": "林盛里",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市河东区大王庄街林盛里",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "天津第104、116例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/XK9CNZu8BTawruKkoGbo0Q"
+          }
+        ],
+        "id": "d8b8d50272996e1f05a7d2dfcf52ee85",
+        "lng": "117.238861",
+        "lat": "39.118938",
+        "doc_id": "90000052_d8b8d50272996e1f05a7d2dfcf52ee85",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "河东区",
+        "county": "",
+        "street": "大直沽街",
+        "community": "",
+        "show_address": "大直沽街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市河东区大直沽街",
+        "release_date": "20200216",
+        "article_source": [
+          {
+            "title": "2月11日10时至12时 天津新增2例 累计确诊病例104例",
+            "url": "https://mp.weixin.qq.com/s/rg354O8suRHLAwQWGByuoQ"
+          },
+          {
+            "title": "2月15日18时至2月16日6时 天津新增2例 累计确诊病例124例",
+            "url": "https://mp.weixin.qq.com/s/PdinnFUfngkkDuqctLZcvQ"
+          }
+        ],
+        "id": "34c27f55b81794262e5d42d7526fde2c",
+        "lng": "117.247238",
+        "lat": "39.116528",
+        "doc_id": "90000052_34c27f55b81794262e5d42d7526fde2c",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "河北区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "河北区",
+        "county": "",
+        "street": "望海楼街",
+        "community": "",
+        "show_address": "望海楼街",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市河北区望海楼街",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2月11日10时至12时 天津新增2例 累计确诊病例104例",
+            "url": "https://mp.weixin.qq.com/s/rg354O8suRHLAwQWGByuoQ"
+          },
+          {
+            "title": "2月12日6时至15时 天津新增3例新冠肺炎确诊病例 累计确诊病例110例",
+            "url": "https://mp.weixin.qq.com/s/1tkfOglO5RTGfeb_jvKLfg"
+          }
+        ],
+        "id": "f843d971a808ad14dd4f5b4f27976bad",
+        "lng": "117.2006",
+        "lat": "39.15295",
+        "doc_id": "90000052_f843d971a808ad14dd4f5b4f27976bad",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "河北区",
+        "county": "",
+        "street": "望海楼街",
+        "community": "金庭里小区",
+        "show_address": "金庭里小区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市河北区望海楼街金庭里小区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "天津市第108例新冠肺炎确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/1JNlDC2gB8r392C1Kr6Olg"
+          },
+          {
+            "title": "天津市第103例新冠肺炎确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/PCgfznQt-MBkUGBVy71TYg"
+          }
+        ],
+        "id": "058e931984257829e6579ada959df06c",
+        "lng": "117.199249",
+        "lat": "39.148849",
+        "doc_id": "90000052_058e931984257829e6579ada959df06c",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "南开区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "南开区",
+        "county": "",
+        "street": "王顶堤街金冠里社区",
+        "community": "",
+        "show_address": "王顶堤街金冠里社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市南开区王顶堤街金冠里社区",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "南开区第4例确诊病例（天津市第106例）活动轨迹发布",
+            "url": "https://weibo.com/2489610225/ItUqCrxSQ?ref=home&rid=5_0_202_2669537498363358261_0_0_0&type=comment#_rnd1581553710235"
+          }
+        ],
+        "id": "66f39698e0dbb71e8a14b819182f4bd0",
+        "lng": "117.139778",
+        "lat": "39.098019",
+        "doc_id": "90000052_66f39698e0dbb71e8a14b819182f4bd0",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "南开区",
+        "county": "",
+        "street": "王顶堤街凤园南里社区",
+        "community": "",
+        "show_address": "王顶堤街凤园南里社区",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "2",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市南开区王顶堤街凤园南里社区",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "天津第114、115例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/uqcCuyN-cYhQTxYejk0lfA"
+          },
+          {
+            "title": "天津第114、115例确诊病例行动轨迹",
+            "url": "https://mp.weixin.qq.com/s/uqcCuyN-cYhQTxYejk0lfA"
+          }
+        ],
+        "id": "b7e4412e7ed35632b38a5c8912c47198",
+        "lng": "117.147064",
+        "lat": "39.086811",
+        "doc_id": "90000052_b7e4412e7ed35632b38a5c8912c47198",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      },
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "南开区",
+        "county": "",
+        "street": "王顶堤",
+        "community": "",
+        "show_address": "王顶堤",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市南开区王顶堤",
+        "release_date": "20200212",
+        "article_source": [
+          {
+            "title": "2月11日23时至2月12日6时 天津新增1例新冠肺炎确诊病例 累计确诊病例107例",
+            "url": "https://mp.weixin.qq.com/s/2H0dEqHzVAUslsbPsyRTyg"
+          }
+        ],
+        "id": "0cc22e9580ca53e40c7d158ec22e3a2d",
+        "lng": "117.15011",
+        "lat": "39.13815",
+        "doc_id": "90000052_0cc22e9580ca53e40c7d158ec22e3a2d",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ],
+    "武清区": [
+      {
+        "province": "天津市",
+        "city": "天津市",
+        "district": "武清区",
+        "county": "",
+        "street": "",
+        "community": "",
+        "show_address": "汊沽港",
+        "cnt_inc_uncertain": "-1",
+        "cnt_inc_certain": "-1",
+        "cnt_inc_die": "-1",
+        "cnt_inc_recure": "-1",
+        "cnt_sum_uncertain": "-1",
+        "cnt_sum_certain": "1",
+        "cnt_sum_die": "-1",
+        "cnt_sum_recure": "-1",
+        "full_address": "天津市武清区汊沽港",
+        "release_date": "20200214",
+        "article_source": [
+          {
+            "title": "2月14日6时至11时 天津新增1例 累计确诊病例120例",
+            "url": "https://mp.weixin.qq.com/s/TWDBrqBBCLHKPcJMru9bqQ"
+          }
+        ],
+        "id": "8bfedeac8829c8833884a29bc1393e9c",
+        "lng": "116.956848",
+        "lat": "39.235851",
+        "doc_id": "90000052_8bfedeac8829c8833884a29bc1393e9c",
+        "source": [
+          {
+            "name": "天津市卫生健康委员会",
+            "url": ""
+          }
+        ],
+        "communitytype": 1,
+        "distance": -1
+      }
+    ]
+  }
+}}

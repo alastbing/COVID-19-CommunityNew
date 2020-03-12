@@ -1,0 +1,782 @@
+{
+  "云南省": {
+    "玉溪市": {
+      "红塔区": [
+        {
+          "province": "云南省",
+          "city": "玉溪市",
+          "district": "红塔区",
+          "county": "",
+          "street": "北城街道",
+          "community": "大石板社区秧草塘村",
+          "show_address": "大石板社区秧草塘村",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "2",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省玉溪市红塔区北城街道大石板社区秧草塘村",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "玉溪新增4例确诊病例 详细路线公布！",
+              "url": "https://mp.weixin.qq.com/s/THaIpahx_5VTWP2jcMMRMw"
+            },
+            {
+              "title": "玉溪市新增确诊病例1例！红塔大道50号华瑞小区实施隔离封闭管理",
+              "url": "https://mp.weixin.qq.com/s/AjB4YCWmfSiJHzBJNhzHpg"
+            }
+          ],
+          "id": "60bd8bd1be4e00780a29336dab42f18e",
+          "lng": "102.51207",
+          "lat": "24.46442",
+          "doc_id": "90000052_60bd8bd1be4e00780a29336dab42f18e",
+          "source": [
+            {
+              "name": "玉溪发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "玉溪市",
+          "district": "红塔区",
+          "county": "",
+          "street": "红塔大道50号",
+          "community": "华瑞小区",
+          "show_address": "华瑞小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "4",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省玉溪市红塔区红塔大道50号华瑞小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "玉溪市新增确诊病例1例！红塔大道50号华瑞小区实施隔离封闭管理",
+              "url": "https://mp.weixin.qq.com/s/AjB4YCWmfSiJHzBJNhzHpg"
+            },
+            {
+              "title": "玉溪新增4例确诊病例 详细路线公布！",
+              "url": "https://mp.weixin.qq.com/s/THaIpahx_5VTWP2jcMMRMw"
+            }
+          ],
+          "id": "906bd94e39a38d60fd0a16d78ee63fe8",
+          "lng": "102.5463",
+          "lat": "24.34077",
+          "doc_id": "90000052_906bd94e39a38d60fd0a16d78ee63fe8",
+          "source": [
+            {
+              "name": "玉溪发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "玉溪市",
+          "district": "红塔区",
+          "county": "",
+          "street": "",
+          "community": "玉景苑小区",
+          "show_address": "玉景苑小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省玉溪市红塔区玉景苑小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "【通告】玉溪市新增1例，家住玉景苑小区",
+              "url": "https://mp.weixin.qq.com/s/5Ly88K9i_UAmQ4BbdfMUXA"
+            }
+          ],
+          "id": "74e15477efb4e7cd8a812e37332058a7",
+          "lng": "102.5448",
+          "lat": "24.336069",
+          "doc_id": "90000052_74e15477efb4e7cd8a812e37332058a7",
+          "source": [
+            {
+              "name": "玉溪发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "德宏傣族景颇族自治州": {
+      "瑞丽市": [
+        {
+          "province": "云南省",
+          "city": "德宏傣族景颇族自治州",
+          "district": "瑞丽市",
+          "county": "",
+          "street": "",
+          "community": "五缘玉城小区",
+          "show_address": "五缘玉城小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省德宏傣族景颇族自治州瑞丽市五缘玉城小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "新增确诊病例4例 1月30日12时至24时云南累计报告病例80例",
+              "url": "https://mp.weixin.qq.com/s/sI06rmH67V3IpO-vT-kgIA"
+            }
+          ],
+          "id": "0db9bde05b1cd6accef941dd8f3e413b",
+          "lng": "97.84623",
+          "lat": "24.024139",
+          "doc_id": "90000052_0db9bde05b1cd6accef941dd8f3e413b",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "昆明市": {
+      "东川区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "东川区",
+          "county": "",
+          "street": "",
+          "community": "黄包谷地小组",
+          "show_address": "黄包谷地小组",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市东川区乌龙镇黄包谷地小组",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "c57d3365b74178ad6bf70cf3dffe78e3",
+          "lng": "103.079323",
+          "lat": "25.975559",
+          "doc_id": "90000052_c57d3365b74178ad6bf70cf3dffe78e3",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "五华区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "五华区",
+          "county": "",
+          "street": "红云街道",
+          "community": "江东耀龙康城8栋3单元",
+          "show_address": "江东耀龙康城8栋3单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市五华区红云街道江东耀龙康城8栋3单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "fd100606a65d25b7d80ccebeb8da1925",
+          "lng": "102.730247",
+          "lat": "25.098301",
+          "doc_id": "90000052_fd100606a65d25b7d80ccebeb8da1925",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "五华区",
+          "county": "",
+          "street": "丰宁街道",
+          "community": "春晖小区颐达园3栋",
+          "show_address": "春晖小区颐达园3栋",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市五华区丰宁街道春晖小区颐达园3栋",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "f4f934ba7a489bf936ea3d7ddc20663b",
+          "lng": "102.676552",
+          "lat": "25.050993",
+          "doc_id": "90000052_f4f934ba7a489bf936ea3d7ddc20663b",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "官渡区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "官渡区",
+          "county": "",
+          "street": "矣六街道",
+          "community": "星体花园北区13栋1单元",
+          "show_address": "星体花园北区13栋1单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市官渡区矣六街道星体花园北区13栋1单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "c603c9a56aa704e3c5383d15c1fd7000",
+          "lng": "102.76237",
+          "lat": "24.94033",
+          "doc_id": "90000052_c603c9a56aa704e3c5383d15c1fd7000",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "官渡区",
+          "county": "",
+          "street": "",
+          "community": "昆船花园小区13栋2单元",
+          "show_address": "昆船花园小区13栋2单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市官渡区昆船花园小区13栋2单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "d9f1c039aeb5aa9d42df8f41b4aacd9c",
+          "lng": "102.796402",
+          "lat": "24.98933",
+          "doc_id": "90000052_d9f1c039aeb5aa9d42df8f41b4aacd9c",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "官渡区",
+          "county": "",
+          "street": "太和街道",
+          "community": "都市坐标小区B栋7单元",
+          "show_address": "都市坐标小区B栋7单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市官渡区太和街道都市坐标小区B栋7单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "关于对都市坐标小区B栋7单元实施隔离封闭管理的公告",
+              "url": "https://m.weibo.cn/3840904562/4470156120097535"
+            }
+          ],
+          "id": "f2ea9f872d6319c23a1fa8ea18487ffc",
+          "lng": "102.729591",
+          "lat": "25.018049",
+          "doc_id": "90000052_f2ea9f872d6319c23a1fa8ea18487ffc",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "寻甸县": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "寻甸县",
+          "county": "寻甸县",
+          "street": "",
+          "community": "塘子街道办事处小瓦匠村",
+          "show_address": "塘子街道办事处小瓦匠村",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市寻甸县塘子街道办事处小瓦匠村",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "7e2320fd3e6e7b5d5a473473c4d9b665",
+          "lng": "103.28363",
+          "lat": "25.476999",
+          "doc_id": "90000052_7e2320fd3e6e7b5d5a473473c4d9b665",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "盘龙区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "盘龙区",
+          "county": "",
+          "street": "联盟街道",
+          "community": "云锡花园2区西区1栋2单元",
+          "show_address": "云锡花园2区西区1栋2单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市盘龙区联盟街道云锡花园2区西区1栋2单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "67153ceed5bc3e7bca6e9d7f8b0bd83d",
+          "lng": "102.736549",
+          "lat": "25.071529",
+          "doc_id": "90000052_67153ceed5bc3e7bca6e9d7f8b0bd83d",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "盘龙区",
+          "county": "",
+          "street": "",
+          "community": "金殿伍家村",
+          "show_address": "金殿伍家村",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市盘龙区金殿伍家村",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "新增确诊病例4例 1月30日12时至24时云南累计报告病例80例",
+              "url": "https://mp.weixin.qq.com/s/sI06rmH67V3IpO-vT-kgIA"
+            }
+          ],
+          "id": "2c4f6e2bd1934d02bfdfbd30dc89a4b7",
+          "lng": "102.7686",
+          "lat": "25.089174",
+          "doc_id": "90000052_2c4f6e2bd1934d02bfdfbd30dc89a4b7",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "西山区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "西山区",
+          "county": "",
+          "street": "永昌街道",
+          "community": "绿地大城天地4B商业22-5栋",
+          "show_address": "绿地大城天地4B商业22-5栋",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市西山区永昌街道绿地大城天地4B商业22-5栋",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "60bd16bfca99f4138c96fa404042766b",
+          "lng": "102.701859",
+          "lat": "25.013399",
+          "doc_id": "90000052_60bd16bfca99f4138c96fa404042766b",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "西山区",
+          "county": "",
+          "street": "马街街道办事处西苑浦路",
+          "community": "尚领明珠1栋",
+          "show_address": "尚领明珠1栋",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市西山区马街街道办事处西苑浦路尚领明珠1栋",
+          "release_date": "20200218",
+          "article_source": [
+            {
+              "title": "确诊1例！昆明西山区尚领明珠1栋实施隔离封闭管理",
+              "url": "http://society.yunnan.cn/system/2020/02/18/030592425.shtml"
+            }
+          ],
+          "id": "b8592bacbca8ff82faefae777a3c07b1",
+          "lng": "102.65243",
+          "lat": "25.03316",
+          "doc_id": "90000052_b8592bacbca8ff82faefae777a3c07b1",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "安宁市": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "安宁市",
+          "county": "",
+          "street": "金方街道",
+          "community": "恒大金碧天下博雅苑25栋1单元",
+          "show_address": "恒大金碧天下博雅苑25栋1单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "-1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市安宁市金方街道恒大金碧天下博雅苑25栋1单元",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "病例增速放缓！截至2月7日10时 昆明累计确诊40例 9个小区疫点采取隔离管理措施",
+              "url": "https://mp.weixin.qq.com/s/VV4sxV_uByYsWVzbjjLzdQ"
+            }
+          ],
+          "id": "68c57e86f1bb30e69d729fff8d2e4db0",
+          "lng": "102.562363",
+          "lat": "24.889889",
+          "doc_id": "90000052_68c57e86f1bb30e69d729fff8d2e4db0",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "呈贡区": [
+        {
+          "province": "云南省",
+          "city": "昆明市",
+          "district": "呈贡区",
+          "county": "",
+          "street": "乌龙街道",
+          "community": "天润康园广德苑H栋1单元",
+          "show_address": "天润康园广德苑H栋1单元",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省昆明市呈贡区乌龙街道天润康园广德苑H栋1单元",
+          "release_date": "20200220",
+          "article_source": [
+            {
+              "title": "确诊1例！呈贡区天润康园广德苑H栋1单元今起实施隔离封闭管理",
+              "url": "https://mp.weixin.qq.com/s/trxIHWIdl-QXyx_n3GE-QA"
+            }
+          ],
+          "id": "f45b4c10a2be2d0b7c7653a25f0cdea4",
+          "lng": "102.82383",
+          "lat": "24.849762",
+          "doc_id": "90000052_f45b4c10a2be2d0b7c7653a25f0cdea4",
+          "source": [
+            {
+              "name": "掌上春城",
+              "url": ""
+            },
+            {
+              "name": "昆明发布",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "西双版纳傣族自治州": {
+      "景洪市": [
+        {
+          "province": "云南省",
+          "city": "西双版纳傣族自治州",
+          "district": "景洪市",
+          "county": "",
+          "street": "",
+          "community": "景洪农场三分场",
+          "show_address": "景洪农场三分场",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省西双版纳傣族自治州景洪市 景洪农场三分场",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "新增确诊病例4例 1月30日12时至24时云南累计报告病例80例",
+              "url": "https://mp.weixin.qq.com/s/sI06rmH67V3IpO-vT-kgIA"
+            }
+          ],
+          "id": "158ed6a678579ac6818b5d81e8915fc5",
+          "lng": "100.753408",
+          "lat": "21.985604",
+          "doc_id": "90000052_158ed6a678579ac6818b5d81e8915fc5",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "云南省",
+          "city": "西双版纳傣族自治州",
+          "district": "景洪市",
+          "county": "",
+          "street": "曼伞囡村",
+          "community": "",
+          "show_address": "曼伞囡村",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "云南省西双版纳傣族自治州景洪市曼哈乡曼伞囡村",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "新增确诊病例4例 1月30日12时至24时云南累计报告病例80例",
+              "url": "https://mp.weixin.qq.com/s/sI06rmH67V3IpO-vT-kgIA"
+            }
+          ],
+          "id": "3f661061f74cec4bbef802ecfa79cdca",
+          "lng": "101.047478",
+          "lat": "21.759501",
+          "doc_id": "90000052_3f661061f74cec4bbef802ecfa79cdca",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    }
+  }
+}

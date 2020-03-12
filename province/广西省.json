@@ -1,0 +1,56 @@
+{"广西省": {
+  "南宁市": {
+    "马山县": [
+      {
+        "province": "广西省",
+        "city": "南宁市",
+        "district": "马山县",
+        "middle_address": "",
+        "show_address": "马山县人民医院",
+        "full_address": "广西省南宁市马山县马山县人民医院",
+        "id": "b6e191ac4c4226fd8245ee69a5c6a609",
+        "article_source": [
+          {
+            "title": "2月17日南宁市新增确诊病例3例，广西累计确诊病例242例",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzE0NTMxNQ==&mid=2653750129&idx=1&sn=a66cc8e7b1aedb91fcfae29df7f0389a&chksm=f056867dc7210f6b9fa5f1b3f39d2f887928ae545a390548f170eb88a6d7ae332f730b359665&mpshare=1&scene=1&srcid=&sharer_sharetime=1582007754113&sharer_shareid=416faa9c8984812c60f8fb403736bea0&key=381a3b46af4dd1f50e852be5df7c1fb8744c12423d7c6c3e3efe93dc18579673b9f407b1d3dfdfc32414416f22055142eeb8d313ae5f3961ac8c1a5057994e54829c910f66645c112f942c87bba86c87&ascene=1&uin=MTM2MzYxNTgzMA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AxpXmM932IBQE5mWHdd5XUg%3D&pass_ticket=KbEZ1ubrGmfcsQA6pcLDlZsEp8NjNbFtxR2h%2BNApdAvKcR3co57gVnemQof22x1h"
+          },
+          {
+            "title": "2月17日南宁市新增确诊病例3例，广西累计确诊病例242例",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI4MzE0NTMxNQ==&mid=2653750129&idx=1&sn=a66cc8e7b1aedb91fcfae29df7f0389a&chksm=f056867dc7210f6b9fa5f1b3f39d2f887928ae545a390548f170eb88a6d7ae332f730b359665&mpshare=1&scene=1&srcid=&sharer_sharetime=1582007754113&sharer_shareid=416faa9c8984812c60f8fb403736bea0&key=381a3b46af4dd1f50e852be5df7c1fb8744c12423d7c6c3e3efe93dc18579673b9f407b1d3dfdfc32414416f22055142eeb8d313ae5f3961ac8c1a5057994e54829c910f66645c112f942c87bba86c87&ascene=1&uin=MTM2MzYxNTgzMA%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AxpXmM932IBQE5mWHdd5XUg%3D&pass_ticket=KbEZ1ubrGmfcsQA6pcLDlZsEp8NjNbFtxR2h%2BNApdAvKcR3co57gVnemQof22x1h"
+          }
+        ],
+        "cnt_sum_certain": "2",
+        "release_date": "20200218",
+        "lng": "108.173309",
+        "lat": "23.71512",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ],
+    "青秀区": [
+      {
+        "province": "广西省",
+        "city": "南宁市",
+        "district": "青秀区",
+        "middle_address": "双拥路6号",
+        "show_address": "广西医科大学第一附属医院",
+        "full_address": "广西省南宁市青秀区双拥路6号广西医科大学第一附属医院",
+        "id": "6a7c7a113a80be0d4288e342e5e08ec0",
+        "article_source": [
+          {
+            "title": "紧急扩散！新增7个经停衡阳车次发现患者，一乘务员确诊（附：经停衡阳车次表）",
+            "url": "https://mp.weixin.qq.com/s/tn8ftucxvZztHAIif6LyOw"
+          }
+        ],
+        "cnt_sum_certain": "1",
+        "release_date": "20200205",
+        "lng": "108.34586",
+        "lat": "22.79677",
+        "source": [],
+        "communitytype": 2,
+        "distance": -1
+      }
+    ]
+  }
+}}

@@ -1,0 +1,2610 @@
+{
+  "吉林省": {
+    "吉林市": {
+      "丰满区": [
+        {
+          "province": "吉林省",
+          "city": "吉林市",
+          "district": "丰满区",
+          "county": "",
+          "street": "",
+          "community": "中海紫御江城",
+          "show_address": "中海紫御江城",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省吉林市丰满区中海紫御江城",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200203_6672971.html"
+            }
+          ],
+          "id": "9e4a669eecfe20fe5d8519d362f3f109",
+          "lng": "126.567146",
+          "lat": "43.83226",
+          "doc_id": "90000052_9e4a669eecfe20fe5d8519d362f3f109",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "昌邑区": [
+        {
+          "province": "吉林省",
+          "city": "吉林市",
+          "district": "昌邑区",
+          "county": "",
+          "street": "",
+          "community": "吉炭小区",
+          "show_address": "吉炭小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省吉林市昌邑区吉炭小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月4日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200204_6674927.html"
+            }
+          ],
+          "id": "a63ea804a8e655c7fd386a0bf2102bc6",
+          "lng": "126.581863",
+          "lat": "43.87487",
+          "doc_id": "90000052_a63ea804a8e655c7fd386a0bf2102bc6",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "长春市": {
+      "净月区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "净月区",
+          "county": "",
+          "street": "",
+          "community": "万科城",
+          "show_address": "万科城",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "3",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市净月区万科城",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200202_6672614.html"
+            }
+          ],
+          "id": "8536139d501986fa3421cbbd5da1d806",
+          "lng": "125.386841",
+          "lat": "43.799",
+          "doc_id": "90000052_8536139d501986fa3421cbbd5da1d806",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "净月区",
+          "county": "",
+          "street": "博学路",
+          "community": "东城国际花园小区",
+          "show_address": "东城国际花园小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市净月区博学路东城国际花园小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200201_6666989.html"
+            }
+          ],
+          "id": "e927f5e29a8ae5b6deeaeb9fcf935859",
+          "lng": "125.414871",
+          "lat": "43.819729",
+          "doc_id": "90000052_e927f5e29a8ae5b6deeaeb9fcf935859",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "净月区",
+          "county": "",
+          "street": "净月街道",
+          "community": "财苑家园",
+          "show_address": "财苑家园",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "2",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市净月区净月街道财苑家园",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月4日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200204_6674927.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "c48f86e6bae4a9da1b3c9acdbca49068",
+          "lng": "125.446503",
+          "lat": "43.82782",
+          "doc_id": "90000052_c48f86e6bae4a9da1b3c9acdbca49068",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "净月区",
+          "middle_address": "金河街707号",
+          "show_address": "财苑家园",
+          "full_address": "吉林省长春市净月区金河街707号财苑家园",
+          "id": "0f7ffce8daf7202f28fd454f38f3ff46",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.447",
+          "lat": "43.82718",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "朝阳区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "county": "",
+          "street": "",
+          "community": "崇智路694号",
+          "show_address": "崇智路694号",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "5",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市朝阳区崇智路694号",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200201_6666989.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200202_6672614.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200203_6672971.html"
+            }
+          ],
+          "id": "03c937b1b22aa8cce0dac67a50a3456e",
+          "lng": "125.31404",
+          "lat": "43.89262",
+          "doc_id": "90000052_03c937b1b22aa8cce0dac67a50a3456e",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "新民大街71号",
+          "show_address": "吉大一院",
+          "full_address": "吉林省长春市朝阳区新民大街71号吉大一院",
+          "id": "b35ff6b88c12bb2624b81e5507d7190a",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "5",
+          "release_date": "20200208",
+          "lng": "125.30741",
+          "lat": "43.87688",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "重庆路1268号",
+          "show_address": "沃尔玛",
+          "full_address": "吉林省长春市朝阳区重庆路1268号沃尔玛",
+          "id": "340bd05215a470980578e508cce1c689",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.319875",
+          "lat": "43.890176",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "万宝街92号",
+          "show_address": "李氏八大件饭店",
+          "full_address": "吉林省长春市朝阳区万宝街92号李氏八大件饭店",
+          "id": "cc85008a903191c8761ecadfc52a0fb0",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.30175",
+          "lat": "43.8837",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "工农大路1183号",
+          "show_address": "吉林省人民医院",
+          "full_address": "吉林省长春市朝阳区工农大路1183号吉林省人民医院",
+          "id": "6bc51f930c9fceb659e3162bf0816014",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.30011",
+          "lat": "43.86961",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "北安路儿童医院对面",
+          "show_address": "诊所",
+          "full_address": "吉林省长春市朝阳区北安路儿童医院对面诊所",
+          "id": "4218c99957d42bae430459f0bbe2fba5",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.316223",
+          "lat": "43.894329",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "工农大路2715号",
+          "show_address": "南湖公园",
+          "full_address": "吉林省长春市朝阳区工农大路2715号南湖公园",
+          "id": "8b32bcfdb56e1bb4a77258748d0770dd",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.31058",
+          "lat": "43.859722",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "北安路1321号",
+          "show_address": "长春市儿童医院",
+          "full_address": "吉林省长春市朝阳区北安路1321号长春市儿童医院",
+          "id": "abea7b53db398b3fa884b26169af4b3c",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.31514",
+          "lat": "43.89464",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "朝阳区",
+          "middle_address": "崇智路627号",
+          "show_address": "每日鲜超市",
+          "full_address": "吉林省长春市朝阳区崇智路627号每日鲜超市",
+          "id": "5f52735c8cd8533183d13a8cd905e4cd",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.3155",
+          "lat": "43.89242",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "绿园区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "绿园区",
+          "county": "",
+          "street": "",
+          "community": "西城国际公馆",
+          "show_address": "西城国际公馆",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市绿园区西城国际公馆",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200203_6672971.html"
+            }
+          ],
+          "id": "0a7aa626893acebbfdfbac6f0e8a4baa",
+          "lng": "125.268951",
+          "lat": "43.898201",
+          "doc_id": "90000052_0a7aa626893acebbfdfbac6f0e8a4baa",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "绿园区",
+          "county": "",
+          "street": "",
+          "community": "长客花园",
+          "show_address": "长客花园",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市绿园区长客花园",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月7日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200207_6828195.html"
+            }
+          ],
+          "id": "5e3963a983f654fb9e3442a182b6bcaa",
+          "lng": "125.289803",
+          "lat": "43.909149",
+          "doc_id": "90000052_5e3963a983f654fb9e3442a182b6bcaa",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "绿园区",
+          "middle_address": "正阳街1135号",
+          "show_address": "禧粤酒店",
+          "full_address": "吉林省长春市绿园区正阳街1135号禧粤酒店",
+          "id": "5ec82330f560c663f957df994c4dbd51",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.27117",
+          "lat": "43.89298",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "绿园区",
+          "middle_address": "春城大街746号",
+          "show_address": "春城大市场",
+          "full_address": "吉林省长春市绿园区春城大街746号春城大市场",
+          "id": "d97899a5cfccf789b3587b43d812cce3",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.26277",
+          "lat": "43.89519",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "绿园区",
+          "middle_address": "站前街",
+          "show_address": "长春西站",
+          "full_address": "吉林省长春市绿园区站前街长春西站",
+          "id": "1bc6217085223d28274e9f45bd7e81b3",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.201111",
+          "lat": "43.876484",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "高新区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "高新区",
+          "county": "",
+          "street": "",
+          "community": "中海兰庭小区",
+          "show_address": "中海兰庭小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市高新区中海兰庭小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200201_6666989.html"
+            }
+          ],
+          "id": "a88c55f67f15b4489f1285e355c96ee2",
+          "lng": "125.259201",
+          "lat": "43.783199",
+          "doc_id": "90000052_a88c55f67f15b4489f1285e355c96ee2",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "高新区",
+          "county": "",
+          "street": "",
+          "community": "北湾新城",
+          "show_address": "北湾新城",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市高新区北湾新城",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "d240d307d55ea4dfb504644f1baa7f4c",
+          "lng": "125.391365",
+          "lat": "43.969044",
+          "doc_id": "90000052_d240d307d55ea4dfb504644f1baa7f4c",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "高新区",
+          "county": "",
+          "street": "",
+          "community": "恒大绿洲",
+          "show_address": "恒大绿洲",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "5",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市高新区恒大绿洲",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月9日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200209_6829127.html"
+            }
+          ],
+          "id": "84c16b5f378277bc8d3146b59153af0c",
+          "lng": "125.259071",
+          "lat": "43.774448",
+          "doc_id": "90000052_84c16b5f378277bc8d3146b59153af0c",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "高新区",
+          "county": "",
+          "street": "",
+          "community": "飞跃经典小区",
+          "show_address": "飞跃经典小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市高新区飞跃经典小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "788421ebbdb25a61504f937a28d69c5e",
+          "lng": "125.241211",
+          "lat": "43.832779",
+          "doc_id": "90000052_788421ebbdb25a61504f937a28d69c5e",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "高新区",
+          "county": "",
+          "street": "",
+          "community": "吉大南校家属楼",
+          "show_address": "吉大南校家属楼",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市高新区吉大南校家属楼",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月9日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200209_6829127.html"
+            }
+          ],
+          "id": "4152337ba6df9ab37e22c520c49160bd",
+          "lng": "125.27935",
+          "lat": "43.828747",
+          "doc_id": "90000052_4152337ba6df9ab37e22c520c49160bd",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "九台区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "county": "",
+          "street": "",
+          "community": "龙凤二期",
+          "show_address": "龙凤二期",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市九台区龙凤二期",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "f78eff1f04d441d2d30e43063551d145",
+          "lng": "125.686569",
+          "lat": "44.224972",
+          "doc_id": "90000052_f78eff1f04d441d2d30e43063551d145",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "county": "",
+          "street": "工商一条街",
+          "community": "铁路家属楼",
+          "show_address": "铁路家属楼",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市九台区工商一条街铁路家属楼",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月6日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200206_6827634.html"
+            }
+          ],
+          "id": "3246e7c804bf9cd3d9ad5a5434a47c2c",
+          "lng": "125.83828",
+          "lat": "44.150131",
+          "doc_id": "90000052_3246e7c804bf9cd3d9ad5a5434a47c2c",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "健康路89号",
+          "show_address": "九台区医院",
+          "full_address": "吉林省长春市九台区健康路89号九台区医院",
+          "id": "fc96f9399ba24e97272a52a9f28d3f97",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.84893",
+          "lat": "44.14971",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "九郊路",
+          "show_address": "三分熟烧烤店",
+          "full_address": "吉林省长春市九台区九郊路三分熟烧烤店",
+          "id": "7bf0729c5c7f6b077d47797645b3e3bc",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.831139",
+          "lat": "44.15461",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "沿河街南山派出所西侧正东方向175米",
+          "show_address": "欢乐迪歌厅",
+          "full_address": "吉林省长春市九台区沿河街南山派出所西侧正东方向175米欢乐迪歌厅",
+          "id": "90a9ecdf6b85cc10eb26eac71da25c3d",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.829979",
+          "lat": "44.143353",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "九台大街76号",
+          "show_address": "火车站",
+          "full_address": "吉林省长春市九台区九台大街76号火车站",
+          "id": "df8ab09a4f3eaf19ab604ec5c20e3071",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.83757",
+          "lat": "44.14953",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "龙嘉镇机场路",
+          "show_address": "龙嘉国际机场",
+          "full_address": "吉林省长春市九台区龙嘉镇机场路龙嘉国际机场",
+          "id": "4dc709ddcfbf7cd18b9e6be7b7869f07",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.692001",
+          "lat": "43.995106",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "九台区",
+          "middle_address": "",
+          "show_address": "安灵园",
+          "full_address": "吉林省长春市九台区安灵园",
+          "id": "d84aa76f0f34a7c44b0bed0cd4117bad",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.83949",
+          "lat": "44.15174",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "二道区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "county": "",
+          "street": "",
+          "community": "力旺康城小区",
+          "show_address": "力旺康城小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市二道区力旺康城小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "71f662d0d90753bef5de7e8307fdb8c8",
+          "lng": "125.370705",
+          "lat": "43.945663",
+          "doc_id": "90000052_71f662d0d90753bef5de7e8307fdb8c8",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "county": "",
+          "street": "",
+          "community": "天富北苑",
+          "show_address": "天富北苑",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市二道区天富北苑",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月7日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200207_6828195.html"
+            }
+          ],
+          "id": "b6332900762a6c3694937b4c54b7d8f0",
+          "lng": "125.37458",
+          "lat": "43.90736",
+          "doc_id": "90000052_b6332900762a6c3694937b4c54b7d8f0",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "",
+          "show_address": "新筑一品",
+          "full_address": "吉林省长春市二道区新筑一品",
+          "id": "4c46f4850199fabf87cff47788172375",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.385727",
+          "lat": "43.854431",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "吉林大街3302号",
+          "show_address": "吉大一院二部",
+          "full_address": "吉林省长春市二道区吉林大街3302号吉大一院二部",
+          "id": "c170b6a43d85fb93d02ee69cc397a7da",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "2",
+          "release_date": "20200208",
+          "lng": "125.370277",
+          "lat": "43.882011",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "",
+          "show_address": "居然之家赛德店",
+          "full_address": "吉林省长春市二道区居然之家赛德店",
+          "id": "58949d8b5e378461f9aef558346b08fa",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.37841",
+          "lat": "43.853222",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "蓝色港湾小区",
+          "show_address": "朋友圈烧烤店",
+          "full_address": "吉林省长春市二道区蓝色港湾小区朋友圈烧烤店",
+          "id": "4e58f309201e7db391a05723539674fa",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.372543",
+          "lat": "43.904839",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "仙台大街126号",
+          "show_address": "中日联谊医院",
+          "full_address": "吉林省长春市二道区仙台大街126号中日联谊医院",
+          "id": "df6c718bd860c746aabca9328c0f05ba",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            },
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "2",
+          "release_date": "20200210",
+          "lng": "125.37768",
+          "lat": "43.8631",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "井冈山路与洋浦大街交汇处",
+          "show_address": "欧亚万豪生活超市",
+          "full_address": "吉林省长春市二道区井冈山路与洋浦大街交汇处欧亚万豪生活超市",
+          "id": "3e91dbbabce95a827c6d14d7fed90f12",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.424393",
+          "lat": "43.878445",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "中日联谊医院对面",
+          "show_address": "药店",
+          "full_address": "吉林省长春市二道区中日联谊医院对面药店",
+          "id": "0f3115981c22ca995d3ff6630b08448b",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.379303",
+          "lat": "43.862186",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "东大桥",
+          "show_address": "清真全记店",
+          "full_address": "吉林省长春市二道区东大桥清真全记店",
+          "id": "eaef783669ebb8f441b9b057ff2ea7bd",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.366486",
+          "lat": "43.89307",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "金钱路附近",
+          "show_address": "力旺康城小区",
+          "full_address": "吉林省长春市二道区金钱路附近力旺康城小区",
+          "id": "ee1498b62c7494eb531afb13e73ee263",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.370705",
+          "lat": "43.945663",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "",
+          "show_address": "福融家园",
+          "full_address": "吉林省长春市二道区福融家园",
+          "id": "ad0d47163972dbbef87c35f249818b4f",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.382042",
+          "lat": "43.853359",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "深圳街",
+          "show_address": "和润酒店",
+          "full_address": "吉林省长春市二道区深圳街和润酒店",
+          "id": "5e3b2c01c9f508804375e52494add284",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.373222",
+          "lat": "43.855518",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "二道区",
+          "middle_address": "乐群街",
+          "show_address": "吉林大学第一医院二部",
+          "full_address": "吉林省长春市二道区乐群街吉林大学第一医院二部",
+          "id": "dcb391a60240379c5b0bf3c1c581a000",
+          "article_source": [
+            {
+              "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+              "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200214",
+          "lng": "125.390732",
+          "lat": "43.882278",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "宽城区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "county": "",
+          "street": "",
+          "community": "北十条荣旺天下",
+          "show_address": "北十条荣旺天下",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市宽城区北十条荣旺天下",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月5日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200205_6785982.html"
+            }
+          ],
+          "id": "a56f2585889badcbf3362fc0c6389e58",
+          "lng": "125.35038",
+          "lat": "43.917198",
+          "doc_id": "90000052_a56f2585889badcbf3362fc0c6389e58",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "county": "",
+          "street": "",
+          "community": "金都小镇",
+          "show_address": "金都小镇",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市宽城区金都小镇",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月9日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200209_6829127.html"
+            }
+          ],
+          "id": "0c0db3dfd79c5074f606314316c8516c",
+          "lng": "125.286697",
+          "lat": "43.965321",
+          "doc_id": "90000052_0c0db3dfd79c5074f606314316c8516c",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "",
+          "show_address": "中日联谊医院北湖院区",
+          "full_address": "吉林省长春市宽城区中日联谊医院北湖院区",
+          "id": "a0a497f531a6cf5159b04af2d0686b12",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.402351",
+          "lat": "43.967236",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "",
+          "show_address": "中东奥特莱斯店",
+          "full_address": "吉林省长春市宽城区中东奥特莱斯店",
+          "id": "b1f7e71ac8ac69aa98ba600762f9a966",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.325142",
+          "lat": "43.948429",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "辽宁路772号太阳城",
+          "show_address": "居然之家",
+          "full_address": "吉林省长春市宽城区辽宁路772号太阳城居然之家",
+          "id": "561917c6bcc276f19bb4e70d1822a86e",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            },
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "4",
+          "release_date": "20200208",
+          "lng": "125.31446",
+          "lat": "43.90863",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "青年店",
+          "show_address": "长乐汤汗蒸温泉",
+          "full_address": "吉林省长春市宽城区青年店长乐汤汗蒸温泉",
+          "id": "a860a0f75bb6351ef018d74b698479a4",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.295212",
+          "lat": "43.940819",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "光复路",
+          "show_address": "水产市场",
+          "full_address": "吉林省长春市宽城区光复路水产市场",
+          "id": "41a5111452873bf1575021c29f648821",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.341499",
+          "lat": "43.90926",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "",
+          "show_address": "荣旺天下小区",
+          "full_address": "吉林省长春市宽城区荣旺天下小区",
+          "id": "c12c7bfa5d9c0557c6dce3b05353f2ca",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.35038",
+          "lat": "43.917198",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "龙湖大路",
+          "show_address": "北湖湿地公园",
+          "full_address": "吉林省长春市宽城区龙湖大路北湖湿地公园",
+          "id": "9e15956fdf857eb93b51cde29287d589",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.363373",
+          "lat": "43.985268",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "西天光路31号",
+          "show_address": "温馨花园",
+          "full_address": "吉林省长春市宽城区西天光路31号温馨花园",
+          "id": "183e860149e8a085e0bf4124a8ab48fc",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.33772",
+          "lat": "43.92121",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "宽城区",
+          "middle_address": "小南街60号",
+          "show_address": "华大天朗小区",
+          "full_address": "吉林省长春市宽城区小南街60号华大天朗小区",
+          "id": "b8e353558111d63d5cbd4afe61267252",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.34187",
+          "lat": "43.95034",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "经开区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "经开区",
+          "county": "",
+          "street": "",
+          "community": "首地首城",
+          "show_address": "首地首城",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "4",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市经开区首地首城",
+          "release_date": "20200212",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月9日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200209_6829127.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月10日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200210_6829495.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月12日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200212_6836269.html"
+            }
+          ],
+          "id": "6dbf7293c9f6d501f5c68172c0a532a8",
+          "lng": "125.411354",
+          "lat": "43.840981",
+          "doc_id": "90000052_6dbf7293c9f6d501f5c68172c0a532a8",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "经开区",
+          "county": "",
+          "street": "",
+          "community": "像素公园",
+          "show_address": "像素公园",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "2",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市经开区像素公园",
+          "release_date": "20200215",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月14日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200214_6837526.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月15日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200215_6838341.html"
+            }
+          ],
+          "id": "d9c1e953a365bfe2a315809ac2fcbddf",
+          "lng": "125.412201",
+          "lat": "43.848518",
+          "doc_id": "90000052_d9c1e953a365bfe2a315809ac2fcbddf",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "经开区",
+          "county": "",
+          "street": "",
+          "community": "东方广场爱琴湾",
+          "show_address": "东方广场爱琴湾",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市经开区东方广场爱琴湾",
+          "release_date": "20200212",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月12日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200212_6836269.html"
+            }
+          ],
+          "id": "e2fa4ec71e98be1dab3c84c0a02b85d7",
+          "lng": "125.4356",
+          "lat": "43.886711",
+          "doc_id": "90000052_e2fa4ec71e98be1dab3c84c0a02b85d7",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "南关区": [
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "county": "",
+          "street": "东岭南街",
+          "community": "达顺小区",
+          "show_address": "达顺小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "2",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省长春市南关区东岭南街达顺小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月10日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200210_6829495.html"
+            },
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月11日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200211_6835225.html"
+            }
+          ],
+          "id": "58759a1ba05ab5a65dec6d0be832788c",
+          "lng": "125.352364",
+          "lat": "43.85519",
+          "doc_id": "90000052_58759a1ba05ab5a65dec6d0be832788c",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "富南路",
+          "show_address": "万科城小区生鲜超市",
+          "full_address": "吉林省长春市南关区富南路万科城小区生鲜超市",
+          "id": "f12a896f24cf6e4cd073301913ba549e",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "3",
+          "release_date": "20200208",
+          "lng": "125.392563",
+          "lat": "43.804649",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "仙台大街1228号赛德广场店",
+          "show_address": "居然之家",
+          "full_address": "吉林省长春市南关区仙台大街1228号赛德广场店居然之家",
+          "id": "7909d79b4be866bd93cec8781c430638",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.378922",
+          "lat": "43.852859",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "净月大街222号",
+          "show_address": "首地首城小区",
+          "full_address": "吉林省长春市南关区净月大街222号首地首城小区",
+          "id": "68ed0addfda4c5bb1ec9e5be6c1de2c5",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.4103",
+          "lat": "43.83974",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "人民大街1810号",
+          "show_address": "中心医院",
+          "full_address": "吉林省长春市南关区人民大街1810号中心医院",
+          "id": "f2c98ddbeb9e22fab3528f890b08e490",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            },
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "2",
+          "release_date": "20200210",
+          "lng": "125.32502",
+          "lat": "43.89281",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "",
+          "show_address": "中海兰庭草根超市",
+          "full_address": "吉林省长春市南关区中海兰庭草根超市",
+          "id": "9ee121d59c9b94cf235e2aaec85d1fc9",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "125.35043",
+          "lat": "43.86414",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "太原东街",
+          "show_address": "地利生鲜",
+          "full_address": "吉林省长春市南关区太原东街地利生鲜",
+          "id": "24adbce2fd524eab7b178521c9644dc4",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.34108",
+          "lat": "43.855572",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "临河街4475号",
+          "show_address": "新天地超市",
+          "full_address": "吉林省长春市南关区临河街4475号新天地超市",
+          "id": "2452a4f10ed31c76958fd6e7f45a66fa",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.36454",
+          "lat": "43.84987",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "东岭南街893",
+          "show_address": "百屹商场",
+          "full_address": "吉林省长春市南关区东岭南街893百屹商场",
+          "id": "6b80a689ea26f5c3a3484f3ea5bb4da5",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.34847",
+          "lat": "43.85652",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "爱国路",
+          "show_address": "达顺小区",
+          "full_address": "吉林省长春市南关区爱国路达顺小区",
+          "id": "d1859cc69d0a9edde51761aede91c105",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.352364",
+          "lat": "43.85519",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "东岭南街939号",
+          "show_address": "百屹会馆",
+          "full_address": "吉林省长春市南关区东岭南街939号百屹会馆",
+          "id": "e3f8a685858c5f270ebeb7ee6874ad69",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.34848",
+          "lat": "43.85605",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "东南湖大路",
+          "show_address": "天下晓饭店",
+          "full_address": "吉林省长春市南关区东南湖大路天下晓饭店",
+          "id": "d07502c7b947c90da3b2ff7fd8000b53",
+          "article_source": [
+            {
+              "title": "长春市最近7名确诊病例轨迹公布",
+              "url": "https://weibo.com/3270346463/Ity25sJZ7?from=page_1001063270346463_profile&wvr=6&mod=weibotime?c&type=comment#_rnd1581334747786"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200210",
+          "lng": "125.350922",
+          "lat": "43.85104",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "长春市",
+          "district": "南关区",
+          "middle_address": "博学路净月大学城1期迅驰广场店",
+          "show_address": "吉林大药房",
+          "full_address": "吉林省长春市南关区博学路净月大学城1期迅驰广场店吉林大药房",
+          "id": "753c55c2bdf3de5f0c99251cdef33245",
+          "article_source": [
+            {
+              "title": "2月13日，吉林省新增确诊病例2例，累计确诊86例",
+              "url": "https://www.sohu.com/a/372904416_265827"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200214",
+          "lng": "125.416138",
+          "lat": "43.823711",
+          "source": [
+            {
+              "name": "吉林省卫生健康委员会",
+              "url": ""
+            }
+          ],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ]
+    },
+    "四平市": {
+      "公主岭市": [
+        {
+          "province": "吉林省",
+          "city": "四平市",
+          "district": "公主岭市",
+          "county": "",
+          "street": "",
+          "community": "",
+          "show_address": "双河村1组",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省四平市公主岭市十屋镇双河村1组",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "紧急扩散，公主岭市今日新增两例病例行程轨迹来了！",
+              "url": "https://mp.weixin.qq.com/s/KW128634wCk05iJnub47-w"
+            }
+          ],
+          "id": "d3551c1e30811379c77138f875c63ba1",
+          "lng": "124.24987",
+          "lat": "43.821548",
+          "doc_id": "90000052_d3551c1e30811379c77138f875c63ba1",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "四平市",
+          "district": "公主岭市",
+          "county": "",
+          "street": "",
+          "community": "",
+          "show_address": "三合堡村8组",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "2",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省四平市公主岭市怀德镇三合堡村8组",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "公主岭市新增两例新型冠状病毒感染的肺炎患者行程轨迹",
+              "url": "https://mp.weixin.qq.com/s/6BExABnob5FBvJHVIRwX4Q"
+            },
+            {
+              "title": "紧急扩散，公主岭市今日新增两例病例行程轨迹来了！",
+              "url": "https://mp.weixin.qq.com/s/KW128634wCk05iJnub47-w"
+            }
+          ],
+          "id": "1ec74d356d0a51ad1c761a87f2cf8da9",
+          "lng": "124.706909",
+          "lat": "43.815208",
+          "doc_id": "90000052_1ec74d356d0a51ad1c761a87f2cf8da9",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "四平市",
+          "district": "公主岭市",
+          "county": "",
+          "street": "",
+          "community": "",
+          "show_address": "南平村5队",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省四平市公主岭市秦家屯镇南平村5队",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "公主岭市新增两例新型冠状病毒感染的肺炎患者行程轨迹",
+              "url": "https://mp.weixin.qq.com/s/6BExABnob5FBvJHVIRwX4Q"
+            }
+          ],
+          "id": "955a69cac32f89a2956866f3fe87004e",
+          "lng": "124.657082",
+          "lat": "43.785648",
+          "doc_id": "90000052_955a69cac32f89a2956866f3fe87004e",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "辽源市": {
+      "东辽县": [
+        {
+          "province": "吉林省",
+          "city": "辽源市",
+          "district": "东辽县",
+          "county": "",
+          "street": "",
+          "community": "龙腾花园",
+          "show_address": "龙腾花园",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省辽源市东辽县渭津镇龙腾花园",
+          "release_date": "20200215",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年2月15日公布）",
+              "url": "http://wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200215_6838341.html"
+            }
+          ],
+          "id": "2932a1a04874543027ac3a1fc7ca73f7",
+          "lng": "125.27037",
+          "lat": "42.79501",
+          "doc_id": "90000052_2932a1a04874543027ac3a1fc7ca73f7",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ],
+      "东丰县": [
+        {
+          "province": "吉林省",
+          "city": "辽源市",
+          "district": "东丰县",
+          "middle_address": "大阳镇",
+          "show_address": "宝山村",
+          "full_address": "吉林省辽源市东丰县大阳镇宝山村",
+          "id": "b10e2b723b62a165cd658821eb9e57cf",
+          "article_source": [
+            {
+              "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十一）",
+              "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624424527151.html"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200209",
+          "lng": "125.389214",
+          "lat": "42.486221",
+          "source": [],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ],
+      "浑南区": [
+        {
+          "province": "吉林省",
+          "city": "辽源市",
+          "district": "浑南区",
+          "middle_address": "五三街道",
+          "show_address": "文汇街在水一方小区",
+          "full_address": "吉林省辽源市浑南区五三街道文汇街在水一方小区",
+          "id": "dbd5a7342a13177c323739b6e84b2368",
+          "article_source": [
+            {
+              "title": "沈阳市新型冠状病毒感染的肺炎疫情排查公告（十一）",
+              "url": "http://www.shenyang.gov.cn/html/SY/15800317646244/158000601629531/15800317646244/1764624424527151.html"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200209",
+          "lng": "125.145958",
+          "lat": "42.904995",
+          "source": [],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ]
+    },
+    "延吉市": {
+      "五常市": [
+        {
+          "province": "吉林省",
+          "city": "延吉市",
+          "district": "五常市",
+          "county": "",
+          "street": "",
+          "community": "光明小区",
+          "show_address": "光明小区",
+          "cnt_inc_uncertain": "-1",
+          "cnt_inc_certain": "-1",
+          "cnt_inc_die": "-1",
+          "cnt_inc_recure": "-1",
+          "cnt_sum_uncertain": "-1",
+          "cnt_sum_certain": "1",
+          "cnt_sum_die": "-1",
+          "cnt_sum_recure": "-1",
+          "full_address": "吉林省延吉市光明小区",
+          "release_date": "",
+          "article_source": [
+            {
+              "title": "吉林省卫生健康委员会关于新型冠状病毒感染的肺炎疫情情况通报（2020年2月6日公布）",
+              "url": "wsjkw.jl.gov.cn/xwzx/xwfb/202002/t20200206_6827634.html"
+            }
+          ],
+          "id": "67e21d00cfc1e6dfcc89d22899b57346",
+          "lng": "129.528549",
+          "lat": "42.912739",
+          "doc_id": "90000052_67e21d00cfc1e6dfcc89d22899b57346",
+          "source": [],
+          "communitytype": 1,
+          "distance": -1
+        }
+      ]
+    },
+    "延边朝鲜族自治州": {
+      "敦化市": [
+        {
+          "province": "吉林省",
+          "city": "延边朝鲜族自治州",
+          "district": "敦化市",
+          "middle_address": "东环路15号",
+          "show_address": "敦化市火车站",
+          "full_address": "吉林省延边朝鲜族自治州敦化市东环路15号敦化市火车站",
+          "id": "e871fc062fcc547336f4f6f8705426ba",
+          "article_source": [
+            {
+              "title": "扩散！长春市32名确诊病例轨迹公布！",
+              "url": "https://www.sohu.com/a/371433809_160447"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200208",
+          "lng": "128.24119",
+          "lat": "43.37989",
+          "source": [],
+          "communitytype": 2,
+          "distance": -1
+        },
+        {
+          "province": "吉林省",
+          "city": "延边朝鲜族自治州",
+          "district": "敦化市",
+          "middle_address": "东环路15号",
+          "show_address": "火车站",
+          "full_address": "吉林省延边朝鲜族自治州敦化市东环路15号火车站",
+          "id": "fea3ea7bc70b151ceb24ffdc72d67ff9",
+          "article_source": [
+            {
+              "title": "2月6日—12日贵州省新冠病毒肺炎确诊病例活动区域信息",
+              "url": "https://mp.weixin.qq.com/s/Y918v8tEVQ84CmNW4_CJOg"
+            }
+          ],
+          "cnt_sum_certain": "1",
+          "release_date": "20200214",
+          "lng": "128.24119",
+          "lat": "43.37989",
+          "source": [],
+          "communitytype": 2,
+          "distance": -1
+        }
+      ]
+    }
+  }
+}
